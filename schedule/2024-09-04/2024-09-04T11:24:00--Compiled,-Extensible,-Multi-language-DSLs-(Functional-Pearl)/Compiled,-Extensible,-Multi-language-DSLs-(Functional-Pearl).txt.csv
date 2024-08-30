@@ -1,0 +1,400 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Matthias Felleisen,,,,5,Author
+Michael Ballantyne,,,,4,Author
+Robert Bruce Findler,,,,2,Author
+Amal Ahmed,,,,1,Author
+Amir Shaikhha,,,,1,Author
+Amr Sabry,,,,1,Author
+Ben Greenman,,,,1,Author
+Casper Bach Poulsen,,,,1,Author
+Conal Elliott,,,,1,Author
+Edwin Brady,,,,1,Author
+Jason Hemann,,,,1,Author
+Jesper Cockx,,,,1,Author
+Leonardo de Moura,,,,1,Author
+Lindsey Kuper,,,,1,Author
+Martin Odersky,,,,1,Author
+Nada Amin,,,,1,Author
+Nicolas Wu,,,,1,Author
+Olin Shivers,,,,1,Author
+Sam Lindley,,,,1,Author
+Sebastian Ullrich,,,,1,Author
+DSL,,,,98,
+Racket,racket,Racket programming language,,81,
+compiler,,,,52,Common-term
+syntax,,,,40,Common-term
+cons,kon-ss,,,31,
+macro,,,,22,
+relational,,,,18,
+compiled,,,,16,
+functional programming,,,,15,
+embeddings,,,,13,
+Elimination,,,,12,
+runtime,,,,11,Common-term
+context,,,,10,Common-term
+semantics,,,,10,
+unification,,,,10,
+ACM,,Association for Computing Machinery,,9,
+expression,,,,9,Common-term
+ICFP,,Conference,,9,Common-term
+clause,,,,7,
+expressive,,,,7,Common-term
+host-language,,,,7,Common-term compilers
+Power,,,,7,
+syntactic,,,,7,Common-term
+conjunction,,,,6,
+reflection,,,,6,Common-term
+Scheme,,,,6,Common-term programming-language
+match,,,,5,
+metalanguage,,,,5,
+pattern matching,,,,5,
+Scala,,,,5,Common-term programming-language
+Id,,,,4,
+Kiselyov,,,,4,
+asymptotic,,,,3,Common-term
+compile-time,,,,3,Common-term
+desugaring,,,,3,Common-term
+Haskell,,,,3,Common-term programming-language
+higher-order,,,,3,Common-term
+macro system,,,,3,Common-term
+matching,,“pattern matching”,,3,Common-term
+POPL,pop-ill,Conference,,3,Common-term
+recursive,,,,3,Common-term
+scoped,,,,3,Common-term
+abstraction,,,,2,Common-term
+combinator,,,,2,Common-term
+elaborator reflection,,,,2,
+Findler,,,,2,
+Idris,,,,2,
+nondeterministic,,,,2,
+normalizer,,computations,,2,theory
+OOPSLA,oops-la,,,2,Conference
+Peano,,,,2,
+Semantic,,,,2,Common-term
+SIGPLAN,,special interest group on programming languages,,2,
+stack,,,,2,
+symbolic,,,,2,
+syntax sugar,,,,2,
+theorem,,,,2,Common-term
+Ahmed,,,,1,Name
+atomic,,,,1,
+axioms,,,,1,
+backtracking,,,,1,Common-term
+boilerplate,,,,1,
+Bowman,,,,1,Name
+category,,,,1,
+closure,,,,1,Common-term
+composable,,,,1,
+constructor,,,,1,Common-term
+CPS,C.P.S.,abbreviation for continuation-passing style ,,1,
+datatype,,,,1,Common-term
+dependent,,,,1,Common-term
+deriving,,,,1,
+desugar,,,,1,Common-term
+ecosystem,,,,1,
+Elixir,,,,1,Common-term programming-language
+equational,,,,1,Common-term
+formalization,,,,1,Common-term
+Gen,,,,1,
+Gibbons,,,,1,
+Hindley-Milner,,,,1,
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,1,
+Lean,,,,1,
+linear,,,,1,Common-term
+metaprogramming,,,,1,Common-term
+monad,Mow-nad,,,1,Common-term
+monotonic,,,,1,Common-term
+normalization,,computations,,1,theory
+object-oriented,,,,1,Common-term paradigm
+operational semantics,,,,1,
+PL,,,,1,
+precision,,Gradual typing,,1,theory
+Prop,,,,1,
+reduction,,,,1,Common-term
+Rust,,,,1,Common-term programming-language
+sequential ,,,,1,
+staging,,,,1,
+Wadler,,,,1,Name
+Why,,,,1,
+miniKanren,,,,89,unclassified
+multi-language,,,,38,unclassified
+syntax-spec,,,,33,unclassified
+DSLs,,,,26,unclassified
+defrel,,,,18,unclassified
+matche,,,,16,unclassified
+goal-from-expression,,,,15,unclassified
+expression-from-term,,,,13,unclassified
+expression-from-goal,,,,10,unclassified
+absento,,,,8,unclassified
+defrel/matche,,,,8,unclassified
+faster-miniKanren,,,,8,unclassified
+Listof,,,,8,unclassified
+new-york-city,,,,8,unclassified
+query-facts,,,,8,unclassified
+route-m,,,,8,unclassified
+disj,,,,7,unclassified
+fresh1,,,,7,unclassified
+goal-macro,,,,7,unclassified
+los-angeles,,,,7,unclassified
+rkt-expr,,,,7,unclassified
+des-plaines,,,,6,unclassified
+printf,,,,6,unclassified
+syntax-parser,,,,6,unclassified
+unify-query-results,,,,6,unclassified
+args,,,,5,unclassified
+Boulytchev,,,,5,unclassified
+cross-language,,,,5,unclassified
+define-extension,,,,5,unclassified
+des-moines,,,,5,unclassified
+domain-specific,,,,5,unclassified
+DSL's,,,,5,unclassified
+g:goal,,,,5,unclassified
+macro-extensible,,,,5,unclassified
+succeed/print,,,,5,unclassified
+compile-goal,,,,4,unclassified
+Dmitry,,,,4,unclassified
+do-query,,,,4,unclassified
+Dybvig,,,,4,unclassified
+host-interface/expression,,,,4,unclassified
+lay1,,,,4,unclassified
+lay2,,,,4,unclassified
+relation's,,,,4,unclassified
+trace-defrel,,,,4,unclassified
+wildcardify,,,,4,unclassified
+x:term-variable,,,,4,unclassified
+a\n,,,,3,unclassified
+allow-extension,,,,3,unclassified
+arXiv,,,,3,unclassified
+binding-class,,,,3,unclassified
+compile-pattern,,,,3,unclassified
+compile-run,,,,3,unclassified
+dead-code,,,,3,unclassified
+define-syntax,,,,3,unclassified
+EBNF,,,,3,unclassified
+host-interface,,,,3,unclassified
+interoperation,,,,3,unclassified
+nanopass,,,,3,unclassified
+Plaines,,,,3,unclassified
+query-facts-rt,,,,3,unclassified
+quine,,,,3,unclassified
+Rozplokhas,,,,3,unclassified
+run-time,,,,3,unclassified
+t1:term,,,,3,unclassified
+t2:term,,,,3,unclassified
+term-from-expression,,,,3,unclassified
+term-macro,,,,3,unclassified
+term-variable,,,,3,unclassified
+TermVal,,,,3,unclassified
+apply-goal,,,,2,unclassified
+assert-fact,,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+Ballantyne,,,,2,unclassified
+Berezun,,,,2,unclassified
+Chung-chieh,,,,2,unclassified
+Clojure,,,,2,unclassified
+Culpepper,,,,2,unclassified
+Daniil,,,,2,unclassified
+define-facts-table,,,,2,unclassified
+DSL-host,,,,2,unclassified
+e:rkt-expr,,,,2,unclassified
+EDSL,,,,2,unclassified
+Eelco,,,,2,unclassified
+extension-class,,,,2,unclassified
+faster-mK,,,,2,unclassified
+Flatt,,,,2,unclassified
+front-end,,,,2,unclassified
+fst,,,,2,unclassified
+fvs-info,,,,2,unclassified
+generate-goal,,,,2,unclassified
+goal-val,,,,2,unclassified
+GoalVal,,,,2,unclassified
+host-interface/definition,,,,2,unclassified
+https,,,,2,unclassified
+matching-rows,,,,2,unclassified
+miniKanren's,,,,2,unclassified
+name:id,,,,2,unclassified
+non-deterministically,,,,2,unclassified
+PEPM,,,,2,unclassified
+Perconti,,,,2,unclassified
+query-res,,,,2,unclassified
+r:rel-name,,,,2,unclassified
+rst,,,,2,unclassified
+seal-goal,,,,2,unclassified
+Sondergaard,,,,2,unclassified
+SQLite,,,,2,unclassified
+sub-forms,,,,2,unclassified
+surface-syntax,,,,2,unclassified
+Svenningsson,,,,2,unclassified
+syntax-spec-based,,,,2,unclassified
+t:term,,,,2,unclassified
+term-var-id,,,,2,unclassified
+TermVar,,,,2,unclassified
+translate-term,,,,2,unclassified
+unseal-goal,,,,2,unclassified
+Verbitskaia,,,,2,unclassified
+Visser,,,,2,unclassified
+with-reference-compilers,,,,2,unclassified
+3-cycle,,,,1,unclassified
+a*:id,,,,1,unclassified
+Adriaan,,,,1,unclassified
+Aleksandra,,,,1,unclassified
+Algol-style,,,,1,unclassified
+all-except-out,,,,1,unclassified
+answer-order,,,,1,unclassified
+appendo,,,,1,unclassified
+arg:id,,,,1,unclassified
+Arjen,,,,1,unclassified
+Artjoms,,,,1,unclassified
+Axelsson,,,,1,unclassified
+b:goal,,,,1,unclassified
+b:goal/c,,,,1,unclassified
+Burmako,,,,1,unclassified
+Camerron,,,,1,unclassified
+Claessen,,,,1,unclassified
+Clojure/core.logic,,,,1,unclassified
+clojurescript,,,,1,unclassified
+code's,,,,1,unclassified
+code--without,,,,1,unclassified
+compile-expression-from-goal,,,,1,unclassified
+compile-expression-from-term,,,,1,unclassified
+compile-relation,,,,1,unclassified
+Compiler-Compiler,,,,1,unclassified
+compileterm-variable-reference,,,,1,unclassified
+cons-based,,,,1,unclassified
+convenient-to-use,,,,1,unclassified
+core-language,,,,1,unclassified
+core.logic,,,,1,unclassified
+desugarings,,,,1,unclassified
+DiPanwita,,,,1,unclassified
+directiondriven,,,,1,unclassified
+download-flights-csv,,,,1,unclassified
+drop-in,,,,1,unclassified
+DrRacket,,,,1,unclassified
+DSL-language,,,,1,unclassified
+DSL-specific,,,,1,unclassified
+DSL.1,,,,1,unclassified
+Dybvig's,,,,1,unclassified
+EBNF-style,,,,1,unclassified
+ECOOP,,,,1,unclassified
+embedding--with,,,,1,unclassified
+embedding-based,,,,1,unclassified
+endprogrammer,,,,1,unclassified
+engine.3,,,,1,unclassified
+examplebased,,,,1,unclassified
+expressionfrom-goal,,,,1,unclassified
+extra-logical,,,,1,unclassified
+Finne,,,,1,unclassified
+first-order,,,,1,unclassified
+flightfrom,,,,1,unclassified
+flightto,,,,1,unclassified
+Foksinska,,,,1,unclassified
+form's,,,,1,unclassified
+forms--are,,,,1,unclassified
+four-fours,,,,1,unclassified
+frequently-used,,,,1,unclassified
+Friedman's,,,,1,unclassified
+Gelineau,,,,1,unclassified
+goal--whether,,,,1,unclassified
+goalfrom-expression,,,,1,unclassified
+goals--including,,,,1,unclassified
+Haskell's,,,,1,unclassified
+hostinterface/expression,,,,1,unclassified
+"implementation,2",,,,1,unclassified
+in-lined,,,,1,unclassified
+Jovanovic,,,,1,unclassified
+Klister's,,,,1,unclassified
+Knauth,,,,1,unclassified
+Koen,,,,1,unclassified
+language-boundary,,,,1,unclassified
+Ljunglof,,,,1,unclassified
+Lozov,,,,1,unclassified
+Macbook,,,,1,unclassified
+macro-expanding,,,,1,unclassified
+macro-writer's,,,,1,unclassified
+matche's,,,,1,unclassified
+Matthews-Findler,,,,1,unclassified
+mediKanren,,,,1,unclassified
+mentioned--specifically,,,,1,unclassified
+metalanguages,,,,1,unclassified
+miniKanren.org,,,,1,unclassified
+mixed-language,,,,1,unclassified
+mk-lvar,,,,1,unclassified
+multi-body,,,,1,unclassified
+multi-hop,,,,1,unclassified
+multi-pass,,,,1,unclassified
+n:number,,,,1,unclassified
+n:rkt-expr,,,,1,unclassified
+Najd,,,,1,unclassified
+Nolen,,,,1,unclassified
+non-atom,,,,1,unclassified
+non-empty,,,,1,unclassified
+non-S-expression,,,,1,unclassified
+not-uncommon,,,,1,unclassified
+occur-check,,,,1,unclassified
+Oege,,,,1,unclassified
+OOPSLA2,,,,1,unclassified
+optimize-goal,,,,1,unclassified
+optimizer's,,,,1,unclassified
+otherwise-dead,,,,1,unclassified
+pattern-matching,,,,1,unclassified
+programmer-designed,,,,1,unclassified
+Prological,,,,1,unclassified
+q-rt,,,,1,unclassified
+q:term-variable,,,,1,unclassified
+Racket-like,,,,1,unclassified
+Racket-safe,,,,1,unclassified
+re-definitions,,,,1,unclassified
+re-implementation,,,,1,unclassified
+re-interpretation,,,,1,unclassified
+re-uses,,,,1,unclassified
+re-using,,,,1,unclassified
+rel-name,,,,1,unclassified
+relational-logic,,,,1,unclassified
+right-hand-side,,,,1,unclassified
+Rompf,,,,1,unclassified
+Rouvoet,,,,1,unclassified
+S-expression,,,,1,unclassified
+s:id,,,,1,unclassified
+s\n,,,,1,unclassified
+Scalavirtualized,,,,1,unclassified
+Scherr,,,,1,unclassified
+semantics-preserving,,,,1,unclassified
+Semi-automated,,,,1,unclassified
+Shayan,,,,1,unclassified
+Shigeru,,,,1,unclassified
+Sigbjorn,,,,1,unclassified
+Sinkarovs,,,,1,unclassified
+statically-known,,,,1,unclassified
+Statix,,,,1,unclassified
+structurallyrecursive,,,,1,unclassified
+sub-expressions,,,,1,unclassified
+sub-form,,,,1,unclassified
+subterm,,,,1,unclassified
+succeed--Section,,,,1,unclassified
+succeed-rt,,,,1,unclassified
+syntax-parse,,,,1,unclassified
+syntax-spec's,,,,1,unclassified
+syntax-spec-like,,,,1,unclassified
+syntax/parse,,,,1,unclassified
+syntaxspec,,,,1,unclassified
+syntaxspec-like,,,,1,unclassified
+t:quoted,,,,1,unclassified
+term-fromexpression,,,,1,unclassified
+termvariables,,,,1,unclassified
+Thrane,,,,1,unclassified
+thrine,,,,1,unclassified
+thrines,,,,1,unclassified
+Tiark,,,,1,unclassified
+Tobin-Hochstadt,,,,1,unclassified
+two-layover,,,,1,unclassified
+TyDe,,,,1,unclassified
+Type-Driven,,,,1,unclassified
+type-system,,,,1,unclassified
+unifier's,,,,1,unclassified
+unifyquery-results,,,,1,unclassified
+Vojin,,,,1,unclassified
+watch?v=LIEX3tUliHw,,,,1,unclassified
+withreference-compilers,,,,1,unclassified
+x0:id,,,,1,unclassified
+x:id,,,,1,unclassified
+you)s,,,,1,unclassified

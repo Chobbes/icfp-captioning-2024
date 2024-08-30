@@ -1,0 +1,526 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Paul Downen,,,,7,Author
+Simon Peyton Jones,,,,6,Author
+Guillaume Munch-Maccagnoni,,,,3,Author
+Amal Ahmed,,,,2,Author
+Matthias Felleisen,,,,2,Author
+Andreas Abel,,,,1,Author
+Arnaud Spiwack,,,,1,Author
+Brigitte Pientka,,,,1,Author
+Dylan McDermott,,,,1,Author
+Gabriel Scherer,,,,1,Author
+Gabriele Keller,,,,1,Author
+Giuseppe Castagna,,,,1,Author
+Ilya Sergey,,,,1,Author
+Joachim Breitner,,,,1,Author
+Martin Odersky,,,,1,Author
+Nicolas Tabareau,nikola tabaro,,,1,Author
+Carnegie Mellon University,,CMU,,1,Institution
+ Independent,,,,1,Institution
+INRIA,,,,1,Institution
+K ,,“K axiom”,,230,
+CBPV,,Call-by-Push-Value,,188,Common-term evaluation
+ref,,,,183,
+Ret,,,,121,
+ACM,,Association for Computing Machinery,,93,
+atomic,,,,81,
+match,,,,54,
+stack,,,,54,
+lemma,,,,50,Common-term
+polymorphic,,,,40,Common-term
+Call-by-Push-Value,,(CBPV),,38,Common-term evaluation
+well-typed,,,,29,Common-term
+calculus,,Used to describe a core simple programming language,,25,Common-term
+context,,,,25,Common-term
+polymorphism,,,,25,Common-term
+syntax,,,,22,Common-term
+reduction,,,,21,Common-term
+closure,,,,20,Common-term
+induction,,,,18,Common-term
+register,,,,16,
+operational semantics,,,,15,
+SIGPLAN,,special interest group on programming languages,,15,
+closures,,,,14,Common-term
+force,,,,14,Common-term evaluation
+inductive,,,,14,Common-term
+derivation,,,,13,
+heap,,,,13,
+pointer,,,,13,Common-term
+functional programming,,,,12,
+matching,,“pattern matching”,,12,Common-term
+compiled,,,,11,
+thunk,,,,11,Common-term evaluation
+axioms,,,,10,
+equational theory,,,,10,Common-term
+expression,,,,10,Common-term
+theorem,,,,10,Common-term
+copattern,,,,9,
+generic,,,,9,
+higher-order,,,,9,Common-term
+semantics,,,,9,
+bisimulation,,,,8,Common-term equivalence
+ICFP,,Conference,,8,Common-term
+syntactic,,,,8,Common-term
+calculi,,,,7,
+Call-by-Name,,(CBN),,7,Common-term evaluation
+compiler,,,,7,Common-term
+Peyton Jones,,,,7,Name
+untyped,,,,7,
+Why,,,,7,
+Call-by-Value,,(CBV),,6,Common-term evaluation
+closure conversion,,,,6,Common-term
+compile-time,,,,6,Common-term
+extensional,,functions,,6,theory
+redex,,,,6,
+weakening,,,,6,Common-term
+Boolean,,,,5,
+curried,,,,5,
+Dependent types,,,,5,types
+pattern matching,,,,5,
+POPL,pop-ill,Conference,,5,Common-term
+integer,,,,4,Common-term
+Levy,,,,4,
+sequent calculus ,,,,4,Common-term
+abstraction,,,,3,Common-term
+adjoint,,,,3,theory
+conclusion,,,,3,
+effectful,,,,3,
+Id,,,,3,
+lambda calculus,lam-duh calculus,,,3,theory
+memoization,,,,3,
+modular,,,,3,Common-term
+paradigm,,,,3,Common-term
+PLDI,,Conference,,3,Common-term
+Appel,,,,2,
+axiom,,,,2,
+bisimilar,,,,2,Common-term equivalence
+bisimilarity,,Notion of equivalence between programs,,2,Common-term equivalence
+denotational semantics,,,,2,semantics
+duality,,,,2,
+Elimination,,,,2,
+equational,,,,2,Common-term
+Girard,,,,2,Name
+Go,,,,2,
+Haskell,,,,2,Common-term programming-language
+linear,,,,2,Common-term
+macro,,,,2,
+monomorphic,,,,2,
+monomorphization,,,,2,
+polarity,,,,2,
+runtime,,,,2,Common-term
+System F,,,,2,Common-term
+Wadler,,,,2,Name
+abstractions,,,,1,
+Bird ,,,,1,
+Bowman,,,,1,Name
+category,,,,1,
+congruence,,,,1,Common-term
+contextual,,,,1,Common-term
+continuation,,,,1,
+continuation-passing style,,,,1,
+CPS,C.P.S.,abbreviation for continuation-passing style ,,1,
+decomposition,,,,1,
+definitionally,,,,1,theory
+dependent,,,,1,Common-term
+desugaring,,,,1,Common-term
+direct style,,,,1,
+dynamic semantics,,,,1,
+embeddings,,,,1,
+enumeration,,,,1,Common-term
+expressiveness,,,,1,Common-term
+extensionally,,,,1,
+Gentzen,,,,1,
+GHC,,,,1,compiler tool
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,1,
+injection,,,,1,
+instruction,,,,1,
+Jim,,,,1,
+lambda-calculus,,,,1,Common-term
+laziness,,,,1,
+Leroy,,,,1,Name
+Mandate,,,,1,
+Marlow,,,,1,
+ML,,,,1,Programming-language
+Moggi,,,,1,Name
+monad,Mow-nad,,,1,Common-term
+monadic,Mow-nad-ick,,,1,
+observational,,,,1,
+observational equivalence,,,,1,
+permissions@acm.org,,,,1,email
+precision,,Gradual typing,,1,theory
+recursion,,,,1,Common-term
+refocusing,,,,1,
+Rosen,,,,1,
+symbolic,,,,1,
+tail call,,,,1,
+uncurried,,,,1,
+Vytiniotis,,,,1,
+well-formed,,,,1,Common-term
+JK,,,,170,unclassified
+Call-By-Unboxed-Value,,,,97,unclassified
+cplx,,,,58,unclassified
+CBUV,,,,19,unclassified
+run-time,,,,16,unclassified
+Jdo,,,,15,unclassified
+maybeAdd,,,,13,unclassified
+idRef,,,,11,unclassified
+J_K,,,,10,unclassified
+Jmatch,,,,10,unclassified
+Ariola,,,,9,unclassified
+box(val,,,,9,unclassified
+copatterns,,,,8,unclassified
+JPrim,,,,8,unclassified
+Ret(Val,,,,8,unclassified
+Eval(Ret,,,,7,unclassified
+floating-point,,,,7,unclassified
+JKrun,,,,7,unclassified
+Call-By-Push-Value's,,,,6,unclassified
+Call-ByUnboxed-Value,,,,6,unclassified
+co)pattern,,,,6,unclassified
+JCBPV,,,,6,unclassified
+parametricity,,,,6,unclassified
+Arity,,,,5,unclassified
+CoMatch,,,,5,unclassified
+decompilation,,,,5,unclassified
+False,,,,5,unclassified
+Jclos,,,,5,unclassified
+pattern-matching,,,,5,unclassified
+StackCut,,,,5,unclassified
+subK,,,,5,unclassified
+subsyntax,,,,5,unclassified
+TyVar,,,,5,unclassified
+app's,,,,4,unclassified
+Call-By-Need,,,,4,unclassified
+Clos(Eval,,,,4,unclassified
+Eval(Ret(Val,,,,4,unclassified
+idFlt,,,,4,unclassified
+non-cyclic,,,,4,unclassified
+non-strict,,,,4,unclassified
+SIGPLAN-SIGACT,,,,4,unclassified
+Tagless,,,,4,unclassified
+zipWith,,,,4,unclassified
+AUTHOR(S,,,,3,unclassified
+Call-By-UnboxedValue,,,,3,unclassified
+Comput,,,,3,unclassified
+fully-evaluated,,,,3,unclassified
+idEval,,,,3,unclassified
+Krun,,,,3,unclassified
+PrimFun,,,,3,unclassified
+PrimMatch,,,,3,unclassified
+StackShape,,,,3,unclassified
+StructShape,,,,3,unclassified
+sub-computations,,,,3,unclassified
+type-safe,,,,3,unclassified
+type-specific,,,,3,unclassified
+Val(Clos,,,,3,unclassified
+andCBN,,,,2,unclassified
+as-is,,,,2,unclassified
+AtomCompTy,,,,2,unclassified
+AtomValTy,,,,2,unclassified
+Back-translation,,,,2,unclassified
+box(ty,,,,2,unclassified
+Chakravarty,,,,2,unclassified
+CmplxCompTy,,,,2,unclassified
+CmplxValTy,,,,2,unclassified
+co)patterns,,,,2,unclassified
+Copattern-matching,,,,2,unclassified
+Dictionary-passing,,,,2,unclassified
+divmod#(val,,,,2,unclassified
+do-statement,,,,2,unclassified
+EACSL,,,,2,unclassified
+enter(ty,,,,2,unclassified
+enter(val,,,,2,unclassified
+enterK,,,,2,unclassified
+eq#(val,,,,2,unclassified
+Eqational,,,,2,unclassified
+eqint,,,,2,unclassified
+eqint#(val,,,,2,unclassified
+EvalCxt,,,,2,unclassified
+forceK,,,,2,unclassified
+FunCode,,,,2,unclassified
+heap-allocated,,,,2,unclassified
+Herbelin,,,,2,unclassified
+idIntFlt,,,,2,unclassified
+in(do,,,,2,unclassified
+Jbox,,,,2,unclassified
+Jean-Yves,,,,2,unclassified
+Jenter,,,,2,unclassified
+JK1,,,,2,unclassified
+JKK-1,,,,2,unclassified
+JKsub,,,,2,unclassified
+Jproc,,,,2,unclassified
+Jret,,,,2,unclassified
+Jsub,,,,2,unclassified
+Jthunk,,,,2,unclassified
+Junbox,,,,2,unclassified
+Jval,,,,2,unclassified
+Launchbury,,,,2,unclassified
+MatchCode,,,,2,unclassified
+memoizing,,,,2,unclassified
+Miquey,,,,2,unclassified
+non-reference,,,,2,unclassified
+NumFlt,,,,2,unclassified
+NumInt,,,,2,unclassified
+RegCut,,,,2,unclassified
+representation-polymorphic,,,,2,unclassified
+StoreCut,,,,2,unclassified
+StructCut,,,,2,unclassified
+sub-computation,,,,2,unclassified
+subK-1,,,,2,unclassified
+Typability,,,,2,unclassified
+type-based,,,,2,unclassified
+Val(Box,,,,2,unclassified
+ValueType,,,,2,unclassified
+Zeilberger,,,,2,unclassified
+1+Val,,,,1,unclassified
+ACM/IEEE,,,,1,unclassified
+ad-hoc,,,,1,unclassified
+addFlt,,,,1,unclassified
+address--everything,,,,1,unclassified
+AixMarseille,,,,1,unclassified
+Andreoli,,,,1,unclassified
+appropriately-typed,,,,1,unclassified
+Args,,,,1,unclassified
+arguments--so,,,,1,unclassified
+as--to,,,,1,unclassified
+as-match,,,,1,unclassified
+as-normal,,,,1,unclassified
+as-steps,,,,1,unclassified
+BaseTy,,,,1,unclassified
+behavior--then,,,,1,unclassified
+boolean-generating,,,,1,unclassified
+bords,,,,1,unclassified
+box(CBPV,,,,1,unclassified
+Box-steps,,,,1,unclassified
+Caires,,,,1,unclassified
+calculus's,,,,1,unclassified
+call--anything,,,,1,unclassified
+Call-By-PushValue,,,,1,unclassified
+Call-By-Unboxed,,,,1,unclassified
+CallBy-Push-Value,,,,1,unclassified
+can't--but,,,,1,unclassified
+can--and,,,,1,unclassified
+classique,,,,1,unclassified
+Clos(Eval(Ret(Val,,,,1,unclassified
+Closure-Passing,,,,1,unclassified
+co)matching,,,,1,unclassified
+co)pattern-matching,,,,1,unclassified
+code--like,,,,1,unclassified
+CompEnv,,,,1,unclassified
+compiler-independent,,,,1,unclassified
+CompType,,,,1,unclassified
+computation--pushing,,,,1,unclassified
+ComputationType,,,,1,unclassified
+configurations--following,,,,1,unclassified
+constructor--cannot,,,,1,unclassified
+contexts--that,,,,1,unclassified
+Continuation-Passing,,,,1,unclassified
+CoPat,,,,1,unclassified
+CoPatternCxt,,,,1,unclassified
+coupures,,,,1,unclassified
+Curien,,,,1,unclassified
+Cytron,,,,1,unclassified
+d'ordre,,,,1,unclassified
+decompiled,,,,1,unclassified
+Decompiling,,,,1,unclassified
+deconstructs,,,,1,unclassified
+Dimitrios,,,,1,unclassified
+divmod,,,,1,unclassified
+"do,enter,as",,,,1,unclassified
+do-reduction,,,,1,unclassified
+do-sequences,,,,1,unclassified
+do-statements,,,,1,unclassified
+Dunfield,,,,1,unclassified
+dup's,,,,1,unclassified
+effets,,,,1,unclassified
+Electr,,,,1,unclassified
+end#(val,,,,1,unclassified
+enter-reduction,,,,1,unclassified
+equality--based,,,,1,unclassified
+error#'s,,,,1,unclassified
+error#(val,,,,1,unclassified
+Escobar,,,,1,unclassified
+essential!--detail,,,,1,unclassified
+etc.almost,,,,1,unclassified
+etc.in,,,,1,unclassified
+Eval(Proc,,,,1,unclassified
+Eval(Ret(1,,,,1,unclassified
+eval/apply,,,,1,unclassified
+evaluation-order,,,,1,unclassified
+explicitly-typed,,,,1,unclassified
+F--with,,,,1,unclassified
+fail--not,,,,1,unclassified
+Ferrante,,,,1,unclassified
+fonctionnelle,,,,1,unclassified
+force)K,,,,1,unclassified
+fully-built,,,,1,unclassified
+fully-elaborated,,,,1,unclassified
+functional-style,,,,1,unclassified
+G-machine,,,,1,unclassified
+Gentzen's,,,,1,unclassified
+GHC's,,,,1,unclassified
+Gradel,,,,1,unclassified
+hard-wire,,,,1,unclassified
+hard-wired,,,,1,unclassified
+HeapObject,,,,1,unclassified
+high-level--as,,,,1,unclassified
+ill-typed,,,,1,unclassified
+impossible-to-type,,,,1,unclassified
+input-output,,,,1,unclassified
+integerfloat,,,,1,unclassified
+itself--it,,,,1,unclassified
+itself--whether,,,,1,unclassified
+J(thunk,,,,1,unclassified
+J(val,,,,1,unclassified
+J*K,,,,1,unclassified
+J0K,,,,1,unclassified
+J1K,,,,1,unclassified
+JcompK,,,,1,unclassified
+Jean-Marc,,,,1,unclassified
+JF,,,,1,unclassified
+JJK,,,,1,unclassified
+JJKrun,,,,1,unclassified
+JK.CBPV,,,,1,unclassified
+Jref,,,,1,unclassified
+Jreturn,,,,1,unclassified
+JrunK-1,,,,1,unclassified
+JvalK,,,,1,unclassified
+Kx,,,,1,unclassified
+l'arithmetique,,,,1,unclassified
+Lafont,,,,1,unclassified
+Landin,,,,1,unclassified
+lazy--in,,,,1,unclassified
+left-to-right,,,,1,unclassified
+LICS,,,,1,unclassified
+logique,,,,1,unclassified
+logische,,,,1,unclassified
+longterm,,,,1,unclassified
+losslessly,,,,1,unclassified
+lower-level,,,,1,unclassified
+Maraist,,,,1,unclassified
+match(0,,,,1,unclassified
+matching--for,,,,1,unclassified
+Mathematische,,,,1,unclassified
+Matthijs,,,,1,unclassified
+Mediterranee,,,,1,unclassified
+memoization--including,,,,1,unclassified
+memoize,,,,1,unclassified
+memoized,,,,1,unclassified
+Minamide,,,,1,unclassified
+Morrisett,,,,1,unclassified
+Multi-Discipline,,,,1,unclassified
+multi-faceted,,,,1,unclassified
+multi-holed,,,,1,unclassified
+multi-part,,,,1,unclassified
+multi-value,,,,1,unclassified
+must--deconstruct,,,,1,unclassified
+Mycroft,,,,1,unclassified
+negateFlt,,,,1,unclassified
+NegativeType,,,,1,unclassified
+non-Associative,,,,1,unclassified
+non-strictly,,,,1,unclassified
+non-type,,,,1,unclassified
+Num(ty,,,,1,unclassified
+observations--i.e,,,,1,unclassified
+on-demand,,,,1,unclassified
+once--the,,,,1,unclassified
+operation--that,,,,1,unclassified
+Optimisation,,,,1,unclassified
+order-changing,,,,1,unclassified
+ordering--as,,,,1,unclassified
+owner/author(s,,,,1,unclassified
+parameter-loading,,,,1,unclassified
+parameter-passing,,,,1,unclassified
+Params,,,,1,unclassified
+parts--positive,,,,1,unclassified
+Patryk,,,,1,unclassified
+pattern-match,,,,1,unclassified
+PatternCxt,,,,1,unclassified
+Pawel,,,,1,unclassified
+Pedrot,,,,1,unclassified
+Pierre-Louis,,,,1,unclassified
+Pierre-Marie,,,,1,unclassified
+PositiveType,,,,1,unclassified
+PPDP,,,,1,unclassified
+Proc(Eval,,,,1,unclassified
+Proc(Val,,,,1,unclassified
+Proc-reduction,,,,1,unclassified
+programs--seems,,,,1,unclassified
+programs--we,,,,1,unclassified
+proof-theoretic,,,,1,unclassified
+push/enter,,,,1,unclassified
+re-computing,,,,1,unclassified
+read/written,,,,1,unclassified
+Realisabilite,,,,1,unclassified
+Realisability,,,,1,unclassified
+reassocating,,,,1,unclassified
+reducts,,,,1,unclassified
+RegValue,,,,1,unclassified
+remainder--if,,,,1,unclassified
+representationirrelevant,,,,1,unclassified
+representations.1,,,,1,unclassified
+representations.3,,,,1,unclassified
+Ret-reduction,,,,1,unclassified
+right-hand-side,,,,1,unclassified
+runtime-allocated,,,,1,unclassified
+Schlieen,,,,1,unclassified
+secondclass,,,,1,unclassified
+semanticspreserving,,,,1,unclassified
+Setzer,,,,1,unclassified
+side-effects,,,,1,unclassified
+"sides,2",,,,1,unclassified
+Sigma-Types,,,,1,unclassified
+Soesterberg,,,,1,unclassified
+source-level,,,,1,unclassified
+Springer-Verlag,,,,1,unclassified
+sqrt#(val,,,,1,unclassified
+stack--before,,,,1,unclassified
+StackEnv,,,,1,unclassified
+StackFrame,,,,1,unclassified
+StackPrefix,,,,1,unclassified
+StackReg,,,,1,unclassified
+start(pause,,,,1,unclassified
+statement--do,,,,1,unclassified
+statically-known,,,,1,unclassified
+StoreEnv,,,,1,unclassified
+structure--which,,,,1,unclassified
+styles--and,,,,1,unclassified
+sub-divided,,,,1,unclassified
+sub-procedure,,,,1,unclassified
+sub-procedures,,,,1,unclassified
+sub-routine,,,,1,unclassified
+sub-term,,,,1,unclassified
+sub-terms,,,,1,unclassified
+subtle--but,,,,1,unclassified
+Sulzmann,,,,1,unclassified
+sums--justified,,,,1,unclassified
+superieur,,,,1,unclassified
+Symm,,,,1,unclassified
+syntax--ignoring,,,,1,unclassified
+system--and,,,,1,unclassified
+them--is,,,,1,unclassified
+Thibodeau,,,,1,unclassified
+thunk(J,,,,1,unclassified
+thunks--addresses,,,,1,unclassified
+TLCA,,,,1,unclassified
+type-and-kind,,,,1,unclassified
+type-checking,,,,1,unclassified
+uber,,,,1,unclassified
+Untersuchungen,,,,1,unclassified
+Urzyczyn,,,,1,unclassified
+Vakar,,,,1,unclassified
+Val(Box(1+Val,,,,1,unclassified
+Val(Clos(Eval,,,,1,unclassified
+value's,,,,1,unclassified
+value(s,,,,1,unclassified
+ValueEnv,,,,1,unclassified
+Vasco,,,,1,unclassified
+Vasconcelos,,,,1,unclassified
+Vechev,,,,1,unclassified
+Wegman,,,,1,unclassified
+welltyped,,,,1,unclassified
+Yasuhiko,,,,1,unclassified
+Zadarnowski,,,,1,unclassified
+Zadeck,,,,1,unclassified
+Zeilberger's,,,,1,unclassified
+Zeitschrift,,,,1,unclassified

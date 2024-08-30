@@ -1,0 +1,227 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Armando Solar-Lezama,,,,2,Author
+Cyrus Omar,,,,2,Author
+Steve Zdancewic,,,,2,Author
+Bastiaan Heeren,,,,1,Author
+Conor McBride,,,,1,Author
+Graham Hutton,,,,1,Author
+Jean-Philippe Bernardy,,,,1,Author
+Johan Jeuring,,,,1,Author
+Koen Claessen,,,,1,Author
+Leonardo de Moura,,,,1,Author
+Matthias Felleisen,,,,1,Author
+Nadia Polikarpova,,,,1,Author
+Niek Mulleners,,,,1,Author
+Niels Bunkenburg,,,,1,Author
+Patrik Jansson,,,,1,Author
+Robert Bruce Findler,,,,1,Author
+Shriram Krishnamurthi,,,,1,Author
+Imperial College London,,,,1,Institution
+polymorphic,,,,45,Common-term
+fold,,,,26,Common-term
+ICFP,,Conference,,21,Common-term
+K ,,“K axiom”,,21,
+ACM,,Association for Computing Machinery,,18,
+morphism,,,,15,Common-term
+Haskell,,,,13,Common-term programming-language
+SIGPLAN,,special interest group on programming languages,,10,
+functor,,,,9,Common-term
+SMT solver,,Type of tool for solving SMT problems,,9,Tool
+symbolic,,,,8,
+integer,,,,7,Common-term
+quantified,,,,7,Common-term
+ref,,,,7,
+Reynolds,,,,7,Name
+consistency,,Gradual typing,,6,theory
+dependent,,,,6,Common-term
+recursive,,,,6,Common-term
+Wadler,,,,6,Name
+zip,,,,6,
+Feser,,,,5,
+functional programming,,,,5,
+recursion,,,,5,Common-term
+abstraction,,,,4,Common-term
+inductive,,,,4,Common-term
+PLDI,,Conference,,4,Common-term
+POPL,pop-ill,Conference,,4,Common-term
+recursion schemes,,,,4,
+decidable,,,,3,
+Dependent types,,,,3,types
+GHC,,,,3,compiler tool
+Gibbons,,,,3,
+monomorphic,,,,3,
+refinement types,,,,3,
+Scheme,,,,3,Common-term programming-language
+Agda,,Agda-style,,2,Common-term Programming-language
+Bernardy,,,,2,
+bidirectional,,,,2,
+concat,,concatenation common function,,2,Function
+context,,,,2,Common-term
+datatype,,,,2,Common-term
+inferring,,,,2,
+isomorphic,,,,2,Common-term
+polymorphism,,,,2,Common-term
+quantifier,,,,2,Common-term
+relational,,,,2,
+SMT ,,,,2,
+syntactic,,,,2,Common-term
+theorem,,,,2,Common-term
+Z3,,Tool to automatically prove theorems,,2,Tool
+abstractions,,,,1,
+API,A.P.I.,Application Programming Interface,,1,Common-term
+Boolean,,,,1,
+conclusion,,,,1,
+de Moura,,,,1,
+derive,,,,1,
+deriving,,,,1,
+enumeration,,,,1,Common-term
+existentials,,quantification,,1,Common-term logic
+expression,,,,1,Common-term
+expressive,,,,1,Common-term
+extensionality,,,,1,Common-term
+Felleisen,,,,1,
+Foldable,,,,1,
+generic,,,,1,
+Go,,,,1,
+higher-order,,,,1,Common-term
+I/O,“eye-oh”,,,1,
+instantiation,,,,1,
+lambda calculi,,,,1,Common-term
+lambda-calculi,,,,1,Common-term
+permissions@acm.org,,,,1,email
+quantitative,,,,1,
+reflect,,,,1,
+synthesizer,,,,1,
+Why,,,,1,
+input-output,,,,63,unclassified
+foldr,,,,33,unclassified
+parametricity,,,,16,unclassified
+Example-Based,,,,11,unclassified
+Osera,,,,11,unclassified
+splitAt,,,,8,unclassified
+D'Antoni,,,,6,unclassified
+SMT-LIB,,,,6,unclassified
+Zdancewic,,,,5,unclassified
+ad-hoc,,,,4,unclassified
+Frankle,,,,4,unclassified
+Qinheping,,,,4,unclassified
+Altenkirch,,,,3,unclassified
+Ghani,,,,3,unclassified
+https,,,,3,unclassified
+Inala,,,,3,unclassified
+inlining,,,,3,unclassified
+Mulleners,,,,3,unclassified
+Peter-Michael,,,,3,unclassified
+SBool,,,,3,unclassified
+Springer-Verlag,,,,3,unclassified
+syntax-guided,,,,3,unclassified
+Teegen,,,,3,unclassified
+Voigtlander,,,,3,unclassified
+aan,,,,2,unclassified
+Alphen,,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+Bjorner,,,,2,unclassified
+Catamorphisms,,,,2,unclassified
+Chugh,,,,2,unclassified
+Cyphert,,,,2,unclassified
+decidably,,,,2,unclassified
+Dillig,,,,2,unclassified
+Farzan,,,,2,unclassified
+fromExtension,,,,2,unclassified
+fromIntegral,,,,2,unclassified
+IFL,,,,2,unclassified
+inputoutput,,,,2,unclassified
+Isil,,,,2,unclassified
+Jinwoo,,,,2,unclassified
+Katayama,,,,2,unclassified
+Kitzelmann,,,,2,unclassified
+newtype,,,,2,unclassified
+Norell,,,,2,unclassified
+Polikarpova,,,,2,unclassified
+quantifier-free,,,,2,unclassified
+rewritings,,,,2,unclassified
+SBV,,,,2,unclassified
+Semantics-guided,,,,2,unclassified
+SymVal,,,,2,unclassified
+toExtension,,,,2,unclassified
+Urzyczyn,,,,2,unclassified
+Wadler's,,,,2,unclassified
+Azadeh,,,,1,unclassified
+CEGIS,,,,1,unclassified
+Chaudhuri,,,,1,unclassified
+CMCS,,,,1,unclassified
+Coalgebraic,,,,1,unclassified
+Comput,,,,1,unclassified
+computed.3,,,,1,unclassified
+Constraint-Based,,,,1,unclassified
+counterexample-guided,,,,1,unclassified
+curated,,,,1,unclassified
+Data-Driven,,,,1,unclassified
+datastructures,,,,1,unclassified
+ETAPS,,,,1,unclassified
+Etelsen,,,,1,unclassified
+Example-Directed,,,,1,unclassified
+Flatt,,,,1,unclassified
+FLOPS'08,,,,1,unclassified
+FOSSACS'03/ETAPS'03,,,,1,unclassified
+FPCA,,,,1,unclassified
+genericLength,,,,1,unclassified
+Hage,,,,1,unclassified
+Hangyeol,,,,1,unclassified
+Hindley,,,,1,unclassified
+html,,,,1,unclassified
+http,,,,1,unclassified
+in-depth,,,,1,unclassified
+inr,,,,1,unclassified
+Jeevana,,,,1,unclassified
+Jurriaan,,,,1,unclassified
+Kai-Oliver,,,,1,unclassified
+Kuraj,,,,1,unclassified
+library6,,,,1,unclassified
+Map.elems,,,,1,unclassified
+Map.fromList,,,,1,unclassified
+Monte-Carlo,,,,1,unclassified
+Nikolaj,,,,1,unclassified
+NonRecursive,,,,1,unclassified
+overapproximate,,,,1,unclassified
+overapproximations,,,,1,unclassified
+PADL,,,,1,unclassified
+Pawel,,,,1,unclassified
+PEPM,,,,1,unclassified
+prelude4,,,,1,unclassified
+Preproceedings,,,,1,unclassified
+PRICAI,,,,1,unclassified
+Priya,,,,1,unclassified
+programs5,,,,1,unclassified
+Prott,,,,1,unclassified
+Qiu,,,,1,unclassified
+Ramakrishnan,,,,1,unclassified
+Rawle,,,,1,unclassified
+Rehof,,,,1,unclassified
+removeAt,,,,1,unclassified
+SemGuS,,,,1,unclassified
+Swarat,,,,1,unclassified
+SyGuS,,,,1,unclassified
+Synduce,,,,1,unclassified
+SyntaxGuided,,,,1,unclassified
+Tasiran,,,,1,unclassified
+top-down,,,,1,unclassified
+tree-like,,,,1,unclassified
+Tu-Bao,,,,1,unclassified
+TyDe,,,,1,unclassified
+type-and-example,,,,1,unclassified
+Type-and-Example-Directed,,,,1,unclassified
+Type-Directed,,,,1,unclassified
+Type-Driven,,,,1,unclassified
+Typed-Directed,,,,1,unclassified
+TypeTheoretic,,,,1,unclassified
+Ulf,,,,1,unclassified
+un)realizability,,,,1,unclassified
+unions.7,,,,1,unclassified
+unrealizable:2,,,,1,unclassified
+Voysey,,,,1,unclassified
+Weissenbacher,,,,1,unclassified
+Woosuk,,,,1,unclassified
+Xiaokang,,,,1,unclassified
+Zhi-Hua,,,,1,unclassified
+Zhou,,,,1,unclassified

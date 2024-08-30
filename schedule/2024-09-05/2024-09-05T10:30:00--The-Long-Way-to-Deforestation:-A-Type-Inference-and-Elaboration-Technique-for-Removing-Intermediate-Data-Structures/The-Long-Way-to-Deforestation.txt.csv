@@ -1,0 +1,386 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Simon Peyton Jones,,,,5,Author
+Stephen Dolan,,,,2,Author
+Amal Ahmed,,,,1,Author
+Conal Elliott,,,,1,Author
+Frank Pfenning,Frank “Fenning”,,,1,Author
+Hideya Iwasaki,,,,1,Author
+Joachim Breitner,,,,1,Author
+Lionel Parreaux,,,,1,Author
+Paul Downen,,,,1,Author
+Wei-Ngan Chin,,,,1,Author
+Zhenjiang Hu,,,,1,Author
+INRIA,,,,1,Institution
+ University of Copenhagen,,,,1,Institution
+ University of Glasgow,,,,1,Institution
+recursive,,,,52,Common-term
+constructor,,,,29,Common-term
+Haskell,,,,25,Common-term programming-language
+consumer,,,,23,
+producer,,,,21,
+Call-by-Value,,(CBV),,19,Common-term evaluation
+OCaml,,,,17,Common-term programming-language
+semantics,,,,17,
+ACM,,Association for Computing Machinery,,16,
+context,,,,16,Common-term
+syntax,,,,15,Common-term
+subtyping,,,,14,Common-term
+functional programming,,,,11,
+compiler,,,,10,Common-term
+pattern matching,,,,10,
+Peyton Jones,,,,10,Name
+relational,,,,10,
+matching,,“pattern matching”,,9,Common-term
+recursion,,,,8,Common-term
+SIGPLAN,,special interest group on programming languages,,8,
+algorithmic,,,,7,Common-term
+contextual,,,,7,Common-term
+ND,(natural deduction),,,6,Common-term
+runtime,,,,6,Common-term
+theorem,,,,6,Common-term
+allocations,,,,5,Common-term
+expression,,,,5,Common-term
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,5,
+Power,,,,5,
+compiled,,,,4,
+destructor,,,,4,Common-term
+higher-order,,,,4,Common-term
+linear,,,,4,Common-term
+optional,,,,4,
+syntactic,,,,4,Common-term
+Wadler,,,,4,Name
+Ahmed,,,,3,Name
+Appel,,,,3,
+combinator,,,,3,Common-term
+consistency,,Gradual typing,,3,theory
+deriving,,,,3,
+ICFP,,Conference,,3,Common-term
+inductive,,,,3,Common-term
+integer,,,,3,Common-term
+lemma,,,,3,Common-term
+polymorphic,,,,3,Common-term
+polymorphism,,,,3,Common-term
+POPL,pop-ill,Conference,,3,Common-term
+call by value,,,call-by-value as adjective,2,
+Call-by-Name,,(CBN),,2,Common-term evaluation
+defunctionalization,,,,2,
+derivation,,,,2,
+derive,,,,2,
+desugaring,,,,2,Common-term
+equirecursive,,,,2,
+evaluator,,,,2,
+force,,,,2,Common-term evaluation
+GHC,,,,2,compiler tool
+Gibbons,,,,2,
+I/O,“eye-oh”,,,2,
+induction,,,,2,Common-term
+instantiation,,,,2,
+isomorphic,,,,2,Common-term
+logical relation,,,,2,Common-term
+match,,,,2,
+mutation,,,,2,
+nil,,,,2,
+Pottier,,,,2,
+scalability,,,,2,
+step-indexed,,“step-indexed logical relations” “step-indexed logics” “step-indexed reasoning”,,2,Common-term
+thunk,,,,2,Common-term evaluation
+unification,,,,2,
+well-typed,,,,2,Common-term
+abstractions,,,,1,
+asymptotic,,,,1,Common-term
+binder,like in bind,,,1,
+calculus,,Used to describe a core simple programming language,,1,Common-term
+case expression,,,,1,
+conclusion,,,,1,
+continuation-passing style,,,,1,
+distribution,,,,1,
+Elimination,,,,1,
+filter,,,,1,
+fold,,,,1,Common-term
+formalization,,,,1,Common-term
+generic,,,,1,
+Glasgow Haskell Compiler,,,,1,compiler tool
+heap,,,,1,
+Hoare,Like “horse”,,,1,Name
+Id,,,,1,
+inferring,,,,1,
+iterations,,,,1,
+judgement,,dependent types,,1,theory
+K ,,“K axiom”,,1,
+laziness,,,,1,
+Meta-level,,,,1,Common-term
+ML-style,,Similar to ML programming language,,1,
+modular,,,,1,Common-term
+object-oriented,,,,1,Common-term paradigm
+operational semantics,,,,1,
+quadratic,,,,1,Common-term
+reduction,,,,1,Common-term
+Scheme,,,,1,Common-term programming-language
+tail-recursive,,,,1,
+takeWhile,,,,1,
+tries,"Sometimes tries sometimes trees, I think",Prefix tree data structure,,1,
+Why,,,,1,
+zip,,,,1,
+denition,,,,36,unclassified
+denitions,,,,33,unclassified
+Lumberhack,,,,23,unclassified
+enumerate2,,,,18,unclassified
+supercompilation,,,,18,unclassified
+xs2,,,,18,unclassified
+unif,,,,15,unclassified
+mapsqi,,,,14,unclassified
+map2,,,,12,unclassified
+rst,,,,10,unclassified
+inlining,,,,9,unclassified
+xs1,,,,8,unclassified
+map22,,,,7,unclassified
+supercompiler,,,,7,unclassified
+unication,,,,7,unclassified
+Coutts,,,,6,unclassified
+identiers,,,,6,unclassified
+Runciman,,,,6,unclassified
+signicant,,,,6,unclassified
+Arity,,,,5,unclassified
+dierent,,,,5,unclassified
+ecient,,,,5,unclassified
+oating,,,,5,unclassified
+signicantly,,,,5,unclassified
+Chitil,,,,4,unclassified
+ctx,,,,4,unclassified
+dened,,,,4,unclassified
+foo2,,,,4,unclassified
+innite,,,,4,unclassified
+Launchbury,,,,4,unclassified
+map1,,,,4,unclassified
+map12,,,,4,unclassified
+MLsub,,,,4,unclassified
+Mycroft,,,,4,unclassified
+pair_up,,,,4,unclassified
+predened,,,,4,unclassified
+producer/consumer,,,,4,unclassified
+reected,,,,4,unclassified
+scrutinee,,,,4,unclassified
+sum2,,,,4,unclassified
+acc2,,,,3,unclassified
+ASTs,,,,3,unclassified
+constraint-solving,,,,3,unclassified
+eciency,,,,3,unclassified
+f(g,,,,3,unclassified
+Jonsson,,,,3,unclassified
+LastPiece,,,,3,unclassified
+Mandel2,,,,3,unclassified
+McAllester,,,,3,unclassified
+nal,,,,3,unclassified
+Nonehi,,,,3,unclassified
+Nordlander,,,,3,unclassified
+Ohori,,,,3,unclassified
+Onoue,,,,3,unclassified
+Parreaux,,,,3,unclassified
+Partain,,,,3,unclassified
+rev2,,,,3,unclassified
+Sasano,,,,3,unclassified
+SIGPLAN-SIGACT,,,,3,unclassified
+supercompilers,,,,3,unclassified
+Turchin,,,,3,unclassified
+well-scopedness,,,,3,unclassified
+Boyer2,,,,2,unclassified
+build/foldr,,,,2,unclassified
+call-by-need,,,,2,unclassified
+case-of-case,,,,2,unclassified
+Cichelli,,,,2,unclassified
+Circsim,,,,2,unclassified
+Clausify,,,,2,unclassified
+consumer2,,,,2,unclassified
+Cryptarithm2Cryptarithm,,,,2,unclassified
+CVL,,,,2,unclassified
+dicult,,,,2,unclassified
+eects,,,,2,unclassified
+f_g,,,,2,unclassified
+Fahndrich,,,,2,unclassified
+flatMap,,,,2,unclassified
+FLR,,,,2,unclassified
+foldr,,,,2,unclassified
+FPCA,,,,2,unclassified
+FRF,,,,2,unclassified
+gure,,,,2,unclassified
+HYLO,,,,2,unclassified
+ILR,,,,2,unclassified
+LCSS,,,,2,unclassified
+Leuschel,,,,2,unclassified
+non-terminating,,,,2,unclassified
+non-termination,,,,2,unclassified
+oated,,,,2,unclassified
+ocamlopt,,,,2,unclassified
+Palsberg,,,,2,unclassified
+Pavlopoulou,,,,2,unclassified
+Polyvariant,,,,2,unclassified
+Prentice-Hall,,,,2,unclassified
+producer2,,,,2,unclassified
+rectypes,,,,2,unclassified
+Rehof,,,,2,unclassified
+right-hand-side,,,,2,unclassified
+scrutinees,,,,2,unclassified
+Simple-sub,,,,2,unclassified
+simplications,,,,2,unclassified
+simplied,,,,2,unclassified
+some_computation,,,,2,unclassified
+Springer-Verlag,,,,2,unclassified
+Takeichi,,,,2,unclassified
+Treejoin,,,,2,unclassified
+Turchin's,,,,2,unclassified
+type-and-elaboration,,,,2,unclassified
+type-preserving,,,,2,unclassified
+unaected,,,,2,unclassified
+user-dened,,,,2,unclassified
+well-scoped,,,,2,unclassified
+worklist,,,,2,unclassified
+a.k.a,,,,1,unclassified
+ad-hoc,,,,1,unclassified
+Ariola,,,,1,unclassified
+arXiv,,,,1,unclassified
+Atsushi,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+best-eort,,,,1,unclassified
+better-tuned,,,,1,unclassified
+biunication,,,,1,unclassified
+book-kept,,,,1,unclassified
+Breitner,,,,1,unclassified
+Build-Catas,,,,1,unclassified
+callees,,,,1,unclassified
+CFL-reachability,,,,1,unclassified
+check-and-ltering,,,,1,unclassified
+co-structure,,,,1,unclassified
+condence,,,,1,unclassified
+condent,,,,1,unclassified
+conict,,,,1,unclassified
+conicts,,,,1,unclassified
+cons_k,,,,1,unclassified
+cons_ks,,,,1,unclassified
+constraintsolving,,,,1,unclassified
+constructors.3,,,,1,unclassified
+control-ow,,,,1,unclassified
+core_bench,,,,1,unclassified
+core_bench5,,,,1,unclassified
+counter-productive,,,,1,unclassified
+counter-productively,,,,1,unclassified
+Curry-style,,,,1,unclassified
+custom-dened,,,,1,unclassified
+diculties,,,,1,unclassified
+dierence,,,,1,unclassified
+dierences,,,,1,unclassified
+dotPlus,,,,1,unclassified
+Downen,,,,1,unclassified
+Eciently,,,,1,unclassified
+element-wise,,,,1,unclassified
+equi-recursive,,,,1,unclassified
+f.g,,,,1,unclassified
+Float-Out,,,,1,unclassified
+fold/unfold,,,,1,unclassified
+folding/unfolding,,,,1,unclassified
+free-variable,,,,1,unclassified
+gures,,,,1,unclassified
+hand-crafted,,,,1,unclassified
+hard-coded,,,,1,unclassified
+Horvath,,,,1,unclassified
+https,,,,1,unclassified
+Hylomorphisms,,,,1,unclassified
+identier,,,,1,unclassified
+IFL,,,,1,unclassified
+improvement.1,,,,1,unclassified
+in2,,,,1,unclassified
+industry-strength,,,,1,unclassified
+ineciencies,,,,1,unclassified
+inlined,,,,1,unclassified
+inlinings,,,,1,unclassified
+Isao,,,,1,unclassified
+Iwasaki,,,,1,unclassified
+justies,,,,1,unclassified
+Karl-Filip,,,,1,unclassified
+kept-track,,,,1,unclassified
+Kwangkeun,,,,1,unclassified
+Leshchinskiy,,,,1,unclassified
+Let-Polymorphic,,,,1,unclassified
+lower-bounds,,,,1,unclassified
+MacBook,,,,1,unclassified
+map-of-map,,,,1,unclassified
+maprev,,,,1,unclassified
+Masato,,,,1,unclassified
+meta-variable,,,,1,unclassified
+ML-family,,,,1,unclassified
+modied,,,,1,unclassified
+msort,,,,1,unclassified
+Multiple-Agent,,,,1,unclassified
+nano-seconds,,,,1,unclassified
+nds,,,,1,unclassified
+ner-grained,,,,1,unclassified
+nil_k,,,,1,unclassified
+nil_ks,,,,1,unclassified
+nite,,,,1,unclassified
+non-goal,,,,1,unclassified
+Non-recursive,,,,1,unclassified
+non-recursively,,,,1,unclassified
+non-strict,,,,1,unclassified
+nonrecursive,,,,1,unclassified
+nonstrict,,,,1,unclassified
+oated-out,,,,1,unclassified
+oating-out,,,,1,unclassified
+OCaml's,,,,1,unclassified
+optimisation,,,,1,unclassified
+Oukseh,,,,1,unclassified
+overlines,,,,1,unclassified
+patten-matching,,,,1,unclassified
+pattern-matching,,,,1,unclassified
+PEPM,,,,1,unclassified
+Pfenning,,,,1,unclassified
+PLILP,,,,1,unclassified
+Polyvariance,,,,1,unclassified
+practically-non-terminating,,,,1,unclassified
+pre-processing,,,,1,unclassified
+producer's,,,,1,unclassified
+programm,,,,1,unclassified
+Proof-Carrying,,,,1,unclassified
+q]C,,,,1,unclassified
+Quantied,,,,1,unclassified
+real-sized,,,,1,unclassified
+real-world,,,,1,unclassified
+redened,,,,1,unclassified
+reect,,,,1,unclassified
+reects,,,,1,unclassified
+rened/specic,,,,1,unclassified
+renements,,,,1,unclassified
+"sandmark,4",,,,1,unclassified
+Sannella,,,,1,unclassified
+satisability,,,,1,unclassified
+scaolding,,,,1,unclassified
+Semantics-Based,,,,1,unclassified
+Sestoft,,,,1,unclassified
+Simple-sub's,,,,1,unclassified
+simplication,,,,1,unclassified
+simplies,,,,1,unclassified
+Smolka,,,,1,unclassified
+Someh>i,,,,1,unclassified
+SomehE,,,,1,unclassified
+SomehG,,,,1,unclassified
+specic,,,,1,unclassified
+sub-strategies,,,,1,unclassified
+sub-strategy,,,,1,unclassified
+sub-terms,,,,1,unclassified
+suered,,,,1,unclassified
+term's,,,,1,unclassified
+Tiejun,,,,1,unclassified
+Type-base,,,,1,unclassified
+type-based,,,,1,unclassified
+Type-Inference,,,,1,unclassified
+type-safe,,,,1,unclassified
+U<V,,,,1,unclassified
+unfolding/inlining,,,,1,unclassified
+unfoldings,,,,1,unclassified
+unsatisable,,,,1,unclassified
+upper-bounds,,,,1,unclassified
+V<U,,,,1,unclassified
+variable-to-variable,,,,1,unclassified
+Verication,,,,1,unclassified
+Viktoria,,,,1,unclassified
+y-axises,,,,1,unclassified
+Zoltan,,,,1,unclassified
+Zsok,,,,1,unclassified

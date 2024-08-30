@@ -1,0 +1,101 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Cameron Moy,,,,1,Author
+Matthias Felleisen,,,,1,Author
+Michael Ballantyne,,,,1,Author
+Northeastern University,,,,1,Institution
+nil,,,,15,
+match,,,,9,
+expression,,,,5,Common-term
+linear,,,,4,Common-term
+cons,kon-ss,,,3,
+pattern matching,,,,3,
+ACM,,Association for Computing Machinery,,2,
+automata,,,,2,Common-term
+Bird ,,,,2,
+constructor,,,,2,Common-term
+datatype,,,,2,Common-term
+derivation,,,,2,
+force,,,,2,Common-term evaluation
+Haskell,,,,2,Common-term programming-language
+laziness,,,,2,
+Racket,racket,Racket programming language,,2,
+acc@(Cons,,,,1,email
+acc@(Node,,,,1,email
+automaton,,,,1,Common-term
+Call-by-Value,,(CBV),,1,Common-term evaluation
+camoy@ccs.neu.edu,,,,1,email
+conclusion,,,,1,
+derivative,,,,1,
+deriving,,,,1,
+distribution,,,,1,
+functional programming,,,,1,
+K ,,“K axiom”,,1,
+linear-time,,,,1,Common-term
+matching,,“pattern matching”,,1,Common-term
+recursive,,,,1,Common-term
+traversal,,,,1,Common-term
+KMP,,,,18,unclassified
+Knuth-Morris-Pratt,,,,11,unclassified
+scanl,,,,9,unclassified
+False,,,,6,unclassified
+string-first,,,,5,unclassified
+verticalSet,,,,4,unclassified
+Brzozowski,,,,3,unclassified
+Cormen,,,,3,unclassified
+Danvy,,,,3,unclassified
+fold-until,,,,3,unclassified
+isPrefixOf,,,,3,unclassified
+Morris-Pratt,,,,3,unclassified
+NFA,,,,3,unclassified
+Rohde,,,,3,unclassified
+string-rest,,,,3,unclassified
+Akama,,,,2,unclassified
+Baeza-Yates,,,,2,unclassified
+Boyer-Moore,,,,2,unclassified
+Colussi,,,,2,unclassified
+Comput,,,,2,unclassified
+field's,,,,2,unclassified
+Gonnet,,,,2,unclassified
+JFP,,,,2,unclassified
+Rosenblueth,,,,2,unclassified
+Shift-Or,,,,2,unclassified
+string-matching,,,,2,unclassified
+Takeichi,,,,2,unclassified
+verticalList,,,,2,unclassified
+x:xt,,,,2,unclassified
+acc:(scanl,,,,1,unclassified
+Addison-Wesley,,,,1,unclassified
+ammamaa,,,,1,unclassified
+Author(s,,,,1,unclassified
+bitstrings,,,,1,unclassified
+column-by-column,,,,1,unclassified
+Commun,,,,1,unclassified
+constant-time,,,,1,unclassified
+e-mail,,,,1,unclassified
+foldl,,,,1,unclassified
+Funct,,,,1,unclassified
+Haskell's,,,,1,unclassified
+headache-inducing,,,,1,unclassified
+https://creativecommons.org,,,,1,unclassified
+Knuth's,,,,1,unclassified
+left-most,,,,1,unclassified
+Leiserson,,,,1,unclassified
+licenses/by/4.0,,,,1,unclassified
+node-rest,,,,1,unclassified
+O(m,,,,1,unclassified
+O(n,,,,1,unclassified
+O(nm,,,,1,unclassified
+pseudocode,,,,1,unclassified
+random-access,,,,1,unclassified
+re-examined,,,,1,unclassified
+Regular-expression,,,,1,unclassified
+Reppy,,,,1,unclassified
+Rivest,,,,1,unclassified
+row-by-row,,,,1,unclassified
+Semantics-Based,,,,1,unclassified
+Set.filter,,,,1,unclassified
+Set.map,,,,1,unclassified
+Set.member,,,,1,unclassified
+Set.singleton,,,,1,unclassified
+Set.union,,,,1,unclassified
+string-ref,,,,1,unclassified

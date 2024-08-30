@@ -1,0 +1,432 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Lars Birkedal,,,,2,Author
+Alexandre Moine,,,,1,Author
+Daan Leijen,,,,1,Author
+Derek Dreyer,,,,1,Author
+Leonardo de Moura,,,,1,Author
+Ningning Xie,,,,1,Author
+Ralf Jung,,,,1,Author
+Robbert Krebbers,,,,1,Author
+ Independent,,,,6,Institution
+ Meta,,,,6,Institution
+ EPFL,,,,1,Institution
+backtracking,,,,53,Common-term
+ACM,,Association for Computing Machinery,,49,
+API,A.P.I.,Application Programming Interface,,39,Common-term
+OCaml,,,,30,Common-term programming-language
+ref,,,,24,
+diff,,,,19,
+type-checker,,,,17,Common-term
+array,,,,16,Common-term
+Pottier,,,,11,
+Iris,,,,10,theorem-proving tool
+separation logic,,,,10,Common-term
+unification,,,,10,
+Rust,,,,9,Common-term programming-language
+Coq,“Coq”,,,8,Common-term programming-language theorem-prover
+ghost,,,,8,
+linear,,,,8,Common-term
+GADT,Gad-it,Generalized algebraic data types,,7,Common-term
+generic,,,,7,
+integer,,,,7,Common-term
+ML,,,,7,Programming-language
+amortized,,amortized analyses,,6,Common-term
+stack,,,,6,
+backtrack,,,,5,Common-term
+conjunction,,,,5,
+context,,,,5,Common-term
+functional programming,,,,5,
+iterations,,,,5,
+runtime,,,,5,Common-term
+Scala,,,,5,Common-term programming-language
+System F,,,,5,Common-term
+capability,,,,4,
+expressive,,,,4,Common-term
+Go,,,,4,
+SIGPLAN,,special interest group on programming languages,,4,
+Why,,,,4,
+abstraction,,,,3,Common-term
+acyclic,,,,3,Common-term
+algorithmic,,,,3,Common-term
+codebase,,,,3,Common-term
+compiler,,,,3,Common-term
+Haskell,,,,3,Common-term programming-language
+match,,,,3,
+mutation,,,,3,
+SMT ,,,,3,
+synthetic,,,,3,
+tries,"Sometimes tries sometimes trees, I think",Prefix tree data structure,,3,
+allocations,,,,2,Common-term
+combinator,,,,2,Common-term
+conclusion,,,,2,
+datatype,,,,2,Common-term
+ecosystem,,,,2,
+expression,,,,2,Common-term
+functor,,,,2,Common-term
+GHC,,,,2,compiler tool
+heterogeneous,,,,2,
+higher-order,,,,2,Common-term
+ICFP,,Conference,,2,Common-term
+immutable,,,,2,Common-term
+JavaScript,,,,2,Common-term programming-language
+linear types,,,,2,Common-term
+polymorphic,,,,2,Common-term
+recursive,,,,2,Common-term
+Reynolds,,,,2,Name
+SAT,,Type of problem,,2,term
+SMT solver,,Type of tool for solving SMT problems,,2,Tool
+theorem,,,,2,Common-term
+Threadripper,,,,2,Hardware
+type checker,,,,2,Common-term
+well-typed,,,,2,Common-term
+Z3,,Tool to automatically prove theorems,,2,Tool
+algebraic effects,,,,1,
+aliasing,,,,1,
+applicative,,,,1,Common-term
+asymptotic,,,,1,Common-term
+Boolean,,,,1,
+calculus,,Used to describe a core simple programming language,,1,Common-term
+Call-by-Value,,(CBV),,1,Common-term evaluation
+callback,,,,1,
+clause,,,,1,
+coherence,,,,1,
+concurrency,,,,1,Common-term
+concurrent,,,,1,Common-term
+constraint solver,,,,1,
+constructor,,,,1,Common-term
+contextual,,,,1,Common-term
+continuation,,,,1,
+de Moura,,,,1,
+deductive,,,,1,
+Dependent types,,,,1,types
+garbage-collected,,,,1,
+heap,,,,1,
+Hindley-Milner,,,,1,
+Java,,,,1,
+Koka,,,,1,Programming-language
+macro,,,,1,
+matching,,“pattern matching”,,1,Common-term
+modular,,,,1,Common-term
+monotone,,,,1,Common-term
+normalized,,,,1,Common-term
+PLDI,,Conference,,1,Common-term
+Ryzen,,,,1,Hardware
+sequential ,,,,1,
+tail-recursive,,,,1,
+type-checked,,,,1,Common-term
+untyped,,,,1,
+Snapshottable,,,,41,unclassified
+Union-Find,,,,36,unclassified
+semi-persistent,,,,33,unclassified
+TransactionalRef,,,,32,unclassified
+BacktrackingRef,,,,28,unclassified
+Colibri2,,,,28,unclassified
+Capture-heavy,,,,19,unclassified
+type-checking,,,,12,unclassified
+GADTs,,,,10,unclassified
+Sudoku,,,,10,unclassified
+abort-only,,,,9,unclassified
+microbenchmarks,,,,9,unclassified
+r.value,,,,9,unclassified
+semi-persistence,,,,9,unclassified
+get/set,,,,8,unclassified
+non-elided,,,,8,unclassified
+use-case,,,,8,unclassified
+use-cases,,,,8,unclassified
+commit-only,,,,7,unclassified
+Conchon,,,,7,unclassified
+Filliatre,,,,7,unclassified
+new_val,,,,7,unclassified
+Ref.set,,,,7,unclassified
+Baker's,,,,6,unclassified
+Chargueraud,,,,6,unclassified
+Demaine,,,,6,unclassified
+explicitly-typed,,,,6,unclassified
+new_root,,,,6,unclassified
+old_val,,,,6,unclassified
+s.generation,,,,6,unclassified
+capture/restore,,,,5,unclassified
+Diff(r,,,,5,unclassified
+non-nested,,,,5,unclassified
+s.root,,,,5,unclassified
+SAT/SMT,,,,5,unclassified
+type-inference,,,,5,unclassified
+Chuang,,,,4,unclassified
+CVC5,,,,4,unclassified
+Langerman,,,,4,unclassified
+old_root,,,,4,unclassified
+pstate,,,,4,unclassified
+r.generation,,,,4,unclassified
+Ref.t,,,,4,unclassified
+rerooting,,,,4,unclassified
+snap0,,,,4,unclassified
+snapshots_model,,,,4,unclassified
+snapshottability,,,,4,unclassified
+Tarjan,,,,4,unclassified
+worst-case,,,,4,unclassified
+Apostolico,,,,3,unclassified
+backtrackable,,,,3,unclassified
+Birkedal,,,,3,unclassified
+Bizjak,,,,3,unclassified
+Comput,,,,3,unclassified
+constant-time,,,,3,unclassified
+constraint-programming,,,,3,unclassified
+full-copy,,,,3,unclassified
+Gambosi,,,,3,unclassified
+hand-crafted,,,,3,unclassified
+in-place,,,,3,unclassified
+Italiano,,,,3,unclassified
+MACROBENCHMARKS,,,,3,unclassified
+Micro-benchmark,,,,3,unclassified
+microbenchmark,,,,3,unclassified
+old_v,,,,3,unclassified
+params,,,,3,unclassified
+pstore,,,,3,unclassified
+Puente,,,,3,unclassified
+real-world,,,,3,unclassified
+Store.Ref.set,,,,3,unclassified
+Talamo,,,,3,unclassified
+third-party,,,,3,unclassified
+thread-safe,,,,3,unclassified
+workflows,,,,3,unclassified
+algorithmics,,,,2,unclassified
+almost-zero,,,,2,unclassified
+anonymized,,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+Barbosa,,,,2,unclassified
+Bobot,,,,2,unclassified
+CFML,,,,2,unclassified
+Clojure,,,,2,unclassified
+Constraint-based,,,,2,unclassified
+Context-Dependent,,,,2,unclassified
+exn,,,,2,unclassified
+Farach-Colton,,,,2,unclassified
+Frisch's,,,,2,unclassified
+Graham-Lengrand,,,,2,unclassified
+hand-optimized,,,,2,unclassified
+higher-level,,,,2,unclassified
+Immutable.js,,,,2,unclassified
+Krebbers,,,,2,unclassified
+Lachnitt,,,,2,unclassified
+macro-benchmarks,,,,2,unclassified
+Marre,,,,2,unclassified
+memory-liveness,,,,2,unclassified
+model-based,,,,2,unclassified
+n[r,,,,2,unclassified
+NCREATE=10,,,,2,unclassified
+Niemetz,,,,2,unclassified
+Notzli,,,,2,unclassified
+NREAD=6,,,,2,unclassified
+NWRITE=4,,,,2,unclassified
+old_gen,,,,2,unclassified
+Ozdemir,,,,2,unclassified
+performance-critical,,,,2,unclassified
+Pottier's,,,,2,unclassified
+Preiner,,,,2,unclassified
+Pyrsistent,,,,2,unclassified
+rooted_dag,,,,2,unclassified
+rustc,,,,2,unclassified
+Sarnak,,,,2,unclassified
+set-heavy,,,,2,unclassified
+Sleator,,,,2,unclassified
+snapshot.root,,,,2,unclassified
+Stokke,,,,2,unclassified
+Store.Ref.make,,,,2,unclassified
+Store.Ref.t,,,,2,unclassified
+Store.restore,,,,2,unclassified
+store.root,,,,2,unclassified
+Sylvain,,,,2,unclassified
+Tinelli,,,,2,unclassified
+Tyng-Ruey,,,,2,unclassified
+undo_log,,,,2,unclassified
+variable-variable,,,,2,unclassified
+Vindum,,,,2,unclassified
+Zito,,,,2,unclassified
+Abdalrhman,,,,1,unclassified
+actions.10,,,,1,unclassified
+Aina,,,,1,unclassified
+Algorithmica,,,,1,unclassified
+antioperations,,,,1,unclassified
+any.4,,,,1,unclassified
+append-only,,,,1,unclassified
+Applicatifs,,,,1,unclassified
+asymptotics,,,,1,unclassified
+Backtracking-abort,,,,1,unclassified
+backtracking-heavy,,,,1,unclassified
+backtracking-intensive,,,,1,unclassified
+Backtracking-persistent,,,,1,unclassified
+backtracking/search,,,,1,unclassified
+Baker.13,,,,1,unclassified
+Bakerinspired,,,,1,unclassified
+best-case,,,,1,unclassified
+best-in-class,,,,1,unclassified
+birth-date,,,,1,unclassified
+bitsets,,,,1,unclassified
+Bodil,,,,1,unclassified
+call-time,,,,1,unclassified
+caml_modify,,,,1,unclassified
+capture-heavy-large-support,,,,1,unclassified
+captured2,,,,1,unclassified
+choco-solver,,,,1,unclassified
+commitonly,,,,1,unclassified
+Commun,,,,1,unclassified
+complexifies,,,,1,unclassified
+constraint-solving,,,,1,unclassified
+context-depedent,,,,1,unclassified
+copy-on-write,,,,1,unclassified
+"create,read,write",,,,1,unclassified
+d'Excideuil,,,,1,unclassified
+data-structure,,,,1,unclassified
+depth-first,,,,1,unclassified
+disjoint-set,,,,1,unclassified
+dynarray,,,,1,unclassified
+effiectievly,,,,1,unclassified
+elision.15,,,,1,unclassified
+elision16,,,,1,unclassified
+end-user,,,,1,unclassified
+entailement,,,,1,unclassified
+EnvironmentTrailing.java,,,,1,unclassified
+ETAPS,,,,1,unclassified
+expert-level,,,,1,unclassified
+finalizers,,,,1,unclassified
+Fisman,,,,1,unclassified
+Francophones,,,,1,unclassified
+Friis,,,,1,unclassified
+full-persistence,,,,1,unclassified
+Funct,,,,1,unclassified
+fuzzer,,,,1,unclassified
+GADTs7,,,,1,unclassified
+gen_heap.html,,,,1,unclassified
+Gereon,,,,1,unclassified
+Get-only,,,,1,unclassified
+git-like,,,,1,unclassified
+Grigore,,,,1,unclassified
+hand-written,,,,1,unclassified
+handoptimized,,,,1,unclassified
+Haniel,,,,1,unclassified
+hardcode,,,,1,unclassified
+hardcoded,,,,1,unclassified
+hash-maps,,,,1,unclassified
+hashmaps,,,,1,unclassified
+hashsets,,,,1,unclassified
+hashtables,,,,1,unclassified
+HeapLang,,,,1,unclassified
+Hichem,,,,1,unclassified
+https,,,,1,unclassified
+Hyper-threading,,,,1,unclassified
+Ilog,,,,1,unclassified
+immer,,,,1,unclassified
+implementation.6,,,,1,unclassified
+implementation9,,,,1,unclassified
+in-degree,,,,1,unclassified
+in-degrees,,,,1,unclassified
+Industrial-Strength,,,,1,unclassified
+inliner,,,,1,unclassified
+insert-only,,,,1,unclassified
+Invalid_argument,,,,1,unclassified
+iris.base_logic.lib.gen_heap,,,,1,unclassified
+Jacques-Henri,,,,1,unclassified
+JFLA,,,,1,unclassified
+Journees,,,,1,unclassified
+Langages,,,,1,unclassified
+Leijen,,,,1,unclassified
+log()x,,,,1,unclassified
+logs12,,,,1,unclassified
+low-overhead,,,,1,unclassified
+lower-bound,,,,1,unclassified
+macrobenchmark,,,,1,unclassified
+Makai,,,,1,unclassified
+Map.Make(Int).t,,,,1,unclassified
+maybe/option,,,,1,unclassified
+Medard,,,,1,unclassified
+Michael-Scott,,,,1,unclassified
+mind.3,,,,1,unclassified
+mirrorring,,,,1,unclassified
+Moine,,,,1,unclassified
+more-or-less-persistent,,,,1,unclassified
+Mudathir,,,,1,unclassified
+mutable-with-snapshot,,,,1,unclassified
+NCREATE,,,,1,unclassified
+NCREATE=2,,,,1,unclassified
+noisecontrolled,,,,1,unclassified
+non-expert,,,,1,unclassified
+non-tail-recursive,,,,1,unclassified
+not-too-slow,,,,1,unclassified
+NREAD,,,,1,unclassified
+NREAD=16,,,,1,unclassified
+NWRITE,,,,1,unclassified
+NWRITE=12,,,,1,unclassified
+ocamlc,,,,1,unclassified
+Okasaki's,,,,1,unclassified
+ompared,,,,1,unclassified
+on-demand,,,,1,unclassified
+parallel/divergent,,,,1,unclassified
+pattern-matching,,,,1,unclassified
+Per-benchmark,,,,1,unclassified
+Perceus,,,,1,unclassified
+performance-wise,,,,1,unclassified
+perreference,,,,1,unclassified
+persistent-with-transientviews,,,,1,unclassified
+propertybased,,,,1,unclassified
+randomly-generated,,,,1,unclassified
+re-checks,,,,1,unclassified
+read-only,,,,1,unclassified
+read/write,,,,1,unclassified
+README.ICFP.md,,,,1,unclassified
+record-elided,,,,1,unclassified
+reference-counting,,,,1,unclassified
+referency,,,,1,unclassified
+reroots,,,,1,unclassified
+resizable,,,,1,unclassified
+restore/capture,,,,1,unclassified
+Rosu,,,,1,unclassified
+RRB-vectors,,,,1,unclassified
+Scala's,,,,1,unclassified
+semipersistent,,,,1,unclassified
+set-only,,,,1,unclassified
+Set1,,,,1,unclassified
+Set16,,,,1,unclassified
+smtlib,,,,1,unclassified
+snapshosts,,,,1,unclassified
+snapshot/restore,,,,1,unclassified
+solver8,,,,1,unclassified
+solverbacktracking,,,,1,unclassified
+Splay-tree,,,,1,unclassified
+sref,,,,1,unclassified
+stack-like,,,,1,unclassified
+state-based,,,,1,unclassified
+state11,,,,1,unclassified
+store-like,,,,1,unclassified
+Store.commit,,,,1,unclassified
+Store.create,,,,1,unclassified
+Store.rollback,,,,1,unclassified
+Store.set,,,,1,unclassified
+Store.snapshot,,,,1,unclassified
+Store.transaction,,,,1,unclassified
+StoreTransactionalRef,,,,1,unclassified
+Structuresransient,,,,1,unclassified
+sub-procedure,,,,1,unclassified
+subterm,,,,1,unclassified
+T-Ref,,,,1,unclassified
+TACAS,,,,1,unclassified
+testsuite,,,,1,unclassified
+thirdparty,,,,1,unclassified
+time.1,,,,1,unclassified
+toplevel,,,,1,unclassified
+transactio,,,,1,unclassified
+transactionn,,,,1,unclassified
+transactios,,,,1,unclassified
+transparential,,,,1,unclassified
+trie,,,,1,unclassified
+type-checkers,,,,1,unclassified
+type-equality,,,,1,unclassified
+type-type,,,,1,unclassified
+TYPERS,,,,1,unclassified
+unaliased,,,,1,unclassified
+undo-redo,,,,1,unclassified
+undo_log5,,,,1,unclassified
+UnionFind,,,,1,unclassified
+varieant,,,,1,unclassified
+Why3,,,,1,unclassified
+yet-undetermined,,,,1,unclassified
+Ying,,,,1,unclassified

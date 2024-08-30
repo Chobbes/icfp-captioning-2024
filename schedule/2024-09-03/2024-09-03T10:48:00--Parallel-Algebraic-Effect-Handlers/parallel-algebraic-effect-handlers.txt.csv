@@ -1,0 +1,419 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Sam Lindley,,,,10,Author
+Tom Schrijvers,,,,5,Author
+Nicolas Wu,,,,4,Author
+Daan Leijen,,,,3,Author
+KC Sivaramakrishnan,,,,3,Author
+Ohad Kammar,,,,3,Author
+Anil Madhavapeddy,,,,2,Author
+Conor McBride,,,,2,Author
+Koen Claessen,,,,2,Author
+Leo White,,,,2,Author
+Simon Peyton Jones,,,,2,Author
+Stephen Dolan,,,,2,Author
+Adam Paszke,,,,1,Author
+Amr Sabry,,,,1,Author
+Andreas Rossberg,,,,1,Author
+Casper Bach Poulsen,,,,1,Author
+Dariusz Biernacki,Dariush /ˈdarʲjuʃ/ Biernacki,,,1,Author
+Dougal Maclaurin,,,,1,Author
+Filip Sieczkowski,,,,1,Author
+James Cheney,,,,1,Author
+Klaus Ostermann,,,,1,Author
+Ningning Xie,,,,1,Author
+Olivier Danvy,,,,1,researcher
+Philipp Schuster,,,,1,Author
+Piotr Polesiuk,,,,1,Author
+Stephanie Weirich,,,,1,Author
+Wenhao Tang,,,,1,Author
+Yannick Forster,,,,1,Author
+Zhixuan Yang,,,,1,Author
+ Independent,,,,15,Institution
+expression,,,,56,Common-term
+array,,,,53,Common-term
+clause,,,,52,
+K ,,“K axiom”,,45,
+semantics,,,,38,
+Haskell,,,,31,Common-term programming-language
+ACM,,Association for Computing Machinery,,22,
+applicative,,,,21,Common-term
+context,,,,21,Common-term
+continuation,,,,20,
+constructor,,,,16,Common-term
+monad,Mow-nad,,,16,Common-term
+syntax,,,,15,Common-term
+SIGPLAN,,special interest group on programming languages,,13,
+functional programming,,,,11,
+polymorphic,,,,11,Common-term
+calculus,,Used to describe a core simple programming language,,10,Common-term
+iterations,,,,10,
+Dependent types,,,,9,types
+operational semantics,,,,9,
+Pretnar,,,,9,
+sequential ,,,,9,
+untyped,,,,9,
+heterogeneous,,,,8,
+Eff,,,,7,
+forall,,quantifier,,7,Common-term logic
+integer,,,,7,Common-term
+IO,Eye-oh,,,7,
+Kiselyov,,,,7,
+Marlow,,,,7,
+Power,,,,7,
+abstractions,,,,6,
+applicative functor,,,,6,
+concurrent,,,,6,Common-term
+higher-order,,,,6,Common-term
+type-check,,,,6,Common-term
+typeclass,,,,6,Common-term
+concurrency,,,,5,Common-term
+Ishii,,,,5,
+Plotkin,,Name,,5,name
+syntactic,,,,5,Common-term
+compiler,,,,4,Common-term
+dependent,,,,4,Common-term
+monadic,Mow-nad-ick,,,4,
+abstraction,,,,3,Common-term
+erasure,,type erasure,,3,Common-term
+expressive,,,,3,Common-term
+generic,,,,3,
+lambda calculus,lam-duh calculus,,,3,theory
+lemma,,,,3,Common-term
+McBride,,,,3,Name
+Paterson,,,,3,
+POPL,pop-ill,Conference,,3,Common-term
+runtime,,,,3,Common-term
+theorem,,,,3,Common-term
+Ahman,,,,2,
+calculi,,,,2,
+composable,,,,2,
+effect handlers,,,,2,
+GHC,,,,2,compiler tool
+ICFP,,Conference,,2,Common-term
+Koka,,,,2,Programming-language
+monoid,,,,2,Common-term
+nondeterminism,,,,2,
+OCaml,,,,2,Common-term programming-language
+reduction,,,,2,Common-term
+scoped,,,,2,Common-term
+Swamy,,,,2,
+WebAssembly,,,,2,Common-term programming-language
+well-formedness,,,,2,Common-term
+well-typed,,,,2,Common-term
+alias,,,,1,
+Boolean,,,,1,
+Call-by-Value,,(CBV),,1,Common-term evaluation
+closure,,,,1,Common-term
+combinator,,,,1,Common-term
+compiled,,,,1,
+conclusion,,,,1,
+desugaring,,,,1,Common-term
+Foldable,,,,1,
+force,,,,1,Common-term evaluation
+freer monads,,,,1,
+functor,,,,1,Common-term
+Go,,,,1,
+I/O,“eye-oh”,,,1,
+isomorphic,,,,1,Common-term
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,1,
+linear types,,,,1,Common-term
+modular,,,,1,Common-term
+modularity,,,,1,Common-term
+monoidal,,,,1,Common-term
+Multicore OCaml,,,,1,
+nondeterministic,,,,1,
+OOPSLA,oops-la,,,1,Conference
+optional,,,,1,
+polymorphism,,,,1,Common-term
+recursive,,,,1,Common-term
+relational,,,,1,
+typeclasses,,,,1,
+untyped lambda calculus,,,,1,Common-term
+Vytiniotis,,,,1,
+well-formed,,,,1,Common-term
+Why,,,,1,
+eects,,,,77,unclassified
+dierent,,,,28,unclassified
+hAccum,,,,25,unclassified
+rst,,,,24,unclassified
+eectful,,,,22,unclassified
+runAccum,,,,15,unclassified
+FreeAp,,,,13,unclassified
+Haskell's,,,,13,unclassified
+i:n,,,,13,unclassified
+Indep,,,,12,unclassified
+sampleUniform,,,,10,unclassified
+Specically,,,,9,unclassified
+nal,,,,8,unclassified
+parallelizable,,,,8,unclassified
+False,,,,6,unclassified
+Hillerstrom,,,,6,unclassified
+l.i,,,,6,unclassified
+mempty,,,,6,unclassified
+rank-2,,,,6,unclassified
+user-dened,,,,6,unclassified
+value-dependent,,,,6,unclassified
+applicative-style,,,,5,unclassified
+forP,,,,5,unclassified
+Matija,,,,5,unclassified
+type-checks,,,,5,unclassified
+ActionA,,,,4,unclassified
+ActionB,,,,4,unclassified
+expr,,,,4,unclassified
+f_traverse,,,,4,unclassified
+HAccumCont,,,,4,unclassified
+hamb,,,,4,unclassified
+PRNG,,,,4,unclassified
+Rank2.Traversable,,,,4,unclassified
+runAmb,,,,4,unclassified
+runRandom,,,,4,unclassified
+runSharedState,,,,4,unclassified
+runWeakExcept,,,,4,unclassified
+type-safe,,,,4,unclassified
+x.i,,,,4,unclassified
+ABCDE,,,,3,unclassified
+ActionC,,,,3,unclassified
+Blaevi,,,,3,unclassified
+Brachthauser,,,,3,unclassified
+Capriotti,,,,3,unclassified
+dened,,,,3,unclassified
+Dex's,,,,3,unclassified
+dierence,,,,3,unclassified
+ecient,,,,3,unclassified
+hAccumTraverse,,,,3,unclassified
+heterogeneously-typed,,,,3,unclassified
+Kaposi,,,,3,unclassified
+key1,,,,3,unclassified
+key2,,,,3,unclassified
+Legare,,,,3,unclassified
+Maciej,,,,3,unclassified
+runIndep,,,,3,unclassified
+specic,,,,3,unclassified
+splitKey,,,,3,unclassified
+unparameterized,,,,3,unclassified
+waitUntil,,,,3,unclassified
+ABCD,,,,2,unclassified
+ApplicativeDo,,,,2,unclassified
+arbitrary-length,,,,2,unclassified
+Birthe,,,,2,unclassified
+cartesianProd,,,,2,unclassified
+Claessen,,,,2,unclassified
+Compositionality,,,,2,unclassified
+control-ow,,,,2,unclassified
+ctxs,,,,2,unclassified
+Dening,,,,2,unclassified
+denition,,,,2,unclassified
+do-notation,,,,2,unclassified
+eectively,,,,2,unclassified
+eithers,,,,2,unclassified
+exible,,,,2,unclassified
+exn,,,,2,unclassified
+Filinski,,,,2,unclassified
+firstFailure,,,,2,unclassified
+GADTs,,,,2,unclassified
+Ghica,,,,2,unclassified
+Google,,,,2,unclassified
+HandledCont,,,,2,unclassified
+handler's,,,,2,unclassified
+handleReturn,,,,2,unclassified
+hstate,,,,2,unclassified
+JAX,,,,2,unclassified
+Kammar,,,,2,unclassified
+key3,,,,2,unclassified
+Leijen,,,,2,unclassified
+n)Int,,,,2,unclassified
+n-length,,,,2,unclassified
+n:Int,,,,2,unclassified
+nds,,,,2,unclassified
+newtype,,,,2,unclassified
+OOPSLA2,,,,2,unclassified
+otherwise-independent,,,,2,unclassified
+Paka,,,,2,unclassified
+ParallelizableHandler,,,,2,unclassified
+Paszke,,,,2,unclassified
+Phipps-Costin,,,,2,unclassified
+Pieters,,,,2,unclassified
+productElts,,,,2,unclassified
+rank2TraverseP,,,,2,unclassified
+round-robin,,,,2,unclassified
+runConcurrentIO,,,,2,unclassified
+shared_seed,,,,2,unclassified
+SharedState,,,,2,unclassified
+Sivaramakrishnan,,,,2,unclassified
+subhandle,,,,2,unclassified
+subresult,,,,2,unclassified
+accelerator-friendly,,,,1,unclassified
+Accy,,,,1,unclassified
+ACM/IEEE,,,,1,unclassified
+aect,,,,1,unclassified
+aected,,,,1,unclassified
+aerward,,,,1,unclassified
+ahead-of-time,,,,1,unclassified
+Alexey,,,,1,unclassified
+Ambrus,,,,1,unclassified
+Andrzej,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+Autodi,,,,1,unclassified
+AutoParallel.do,,,,1,unclassified
+b:bs,,,,1,unclassified
+Backends,,,,1,unclassified
+Bhargavan,,,,1,unclassified
+binomial_times_uniform,,,,1,unclassified
+briey,,,,1,unclassified
+calculus1,,,,1,unclassified
+Coens,,,,1,unclassified
+Comput,,,,1,unclassified
+continuation-passing,,,,1,unclassified
+conveniently-named,,,,1,unclassified
+Danel,,,,1,unclassified
+Danvy,,,,1,unclassified
+data-access,,,,1,unclassified
+data-independent,,,,1,unclassified
+denitions,,,,1,unclassified
+Dex-inspired,,,,1,unclassified
+dierences,,,,1,unclassified
+Dimitrios,,,,1,unclassified
+Duvenaud,,,,1,unclassified
+eciently,,,,1,unclassified
+eect-dependent,,,,1,unclassified
+eect-specic,,,,1,unclassified
+Eekt,,,,1,unclassified
+Eliopoulos,,,,1,unclassified
+Enno,,,,1,unclassified
+err._k,,,,1,unclassified
+Exequiel,,,,1,unclassified
+explicitly-concurrent,,,,1,unclassified
+expression.3,,,,1,unclassified
+Extensiblility,,,,1,unclassified
+"f,go",,,,1,unclassified
+"f,k",,,,1,unclassified
+"f,ks",,,,1,unclassified
+Finne,,,,1,unclassified
+foldr,,,,1,unclassified
+follows5,,,,1,unclassified
+for-based,,,,1,unclassified
+Fournet,,,,1,unclassified
+free-er,,,,1,unclassified
+Funct,,,,1,unclassified
+fv(g2,,,,1,unclassified
+genUniform,,,,1,unclassified
+h*i,,,,1,unclassified
+hAccum's,,,,1,unclassified
+handlePerform,,,,1,unclassified
+handleTraverseList,,,,1,unclassified
+handleTraverseRank2,,,,1,unclassified
+HHH,,,,1,unclassified
+HHT,,,,1,unclassified
+Hiromi,,,,1,unclassified
+hkey1,,,,1,unclassified
+homogeneouslytyped,,,,1,unclassified
+HTH,,,,1,unclassified
+HTT,,,,1,unclassified
+https,,,,1,unclassified
+hu0,,,,1,unclassified
+hxi,,,,1,unclassified
+i:Fin,,,,1,unclassified
+i:m,,,,1,unclassified
+Immediately-Invoked,,,,1,unclassified
+inx,,,,1,unclassified
+IO-based,,,,1,unclassified
+Jaer,,,,1,unclassified
+Jaskelio,,,,1,unclassified
+Karthikeyan,,,,1,unclassified
+key._x,,,,1,unclassified
+key2i,,,,1,unclassified
+key4,,,,1,unclassified
+keys.i,,,,1,unclassified
+Kinding,,,,1,unclassified
+Kmett,,,,1,unclassified
+LFP,,,,1,unclassified
+LICS,,,,1,unclassified
+loop's,,,,1,unclassified
+Maronas,,,,1,unclassified
+metadata,,,,1,unclassified
+Micha,,,,1,unclassified
+modication,,,,1,unclassified
+modied,,,,1,unclassified
+Mokhov,,,,1,unclassified
+monad/applicative,,,,1,unclassified
+MSFP,,,,1,unclassified
+MVar,,,,1,unclassified
+ndet,,,,1,unclassified
+Nikhil,,,,1,unclassified
+nite,,,,1,unclassified
+non-deterministic,,,,1,unclassified
+non-eectful,,,,1,unclassified
+non-Pure,,,,1,unclassified
+noneectful,,,,1,unclassified
+of!applicative,,,,1,unclassified
+op8,,,,1,unclassified
+options._k,,,,1,unclassified
+options.i,,,,1,unclassified
+otherwise-benign,,,,1,unclassified
+Oury,,,,1,unclassified
+outs.0,,,,1,unclassified
+outs.1,,,,1,unclassified
+Packrats,,,,1,unclassified
+paralellizable,,,,1,unclassified
+paralleliable,,,,1,unclassified
+parallelism-friendly,,,,1,unclassified
+Parallelism-Preserving,,,,1,unclassified
+partially-applied,,,,1,unclassified
+Paviotti,,,,1,unclassified
+Pierre-Yves,,,,1,unclassified
+post-process,,,,1,unclassified
+potentially-more-ecient,,,,1,unclassified
+pre-process,,,,1,unclassified
+productElts.i,,,,1,unclassified
+QualifiedDo,,,,1,unclassified
+Radul,,,,1,unclassified
+RaganKelley,,,,1,unclassified
+Rank2.Foldable,,,,1,unclassified
+Rank2.Functor,,,,1,unclassified
+Rank2.traverse,,,,1,unclassified
+rank2classes,,,,1,unclassified
+rank2Traverse,,,,1,unclassified
+re-emitting,,,,1,unclassified
+real-world,,,,1,unclassified
+reect,,,,1,unclassified
+reected,,,,1,unclassified
+reection,,,,1,unclassified
+reexive,,,,1,unclassified
+reies,,,,1,unclassified
+resultUnrolled,,,,1,unclassified
+resultWithFor,,,,1,unclassified
+Retrotting,,,,1,unclassified
+return.2,,,,1,unclassified
+Rivas,,,,1,unclassified
+Row-based,,,,1,unclassified
+rst-class,,,,1,unclassified
+runPure,,,,1,unclassified
+runSharedIO,,,,1,unclassified
+Sadiq,,,,1,unclassified
+same-shaped,,,,1,unclassified
+satises,,,,1,unclassified
+Sigbjorn,,,,1,unclassified
+snd,,,,1,unclassified
+specied,,,,1,unclassified
+suce,,,,1,unclassified
+sucient,,,,1,unclassified
+system4,,,,1,unclassified
+THH,,,,1,unclassified
+THT,,,,1,unclassified
+toString,,,,1,unclassified
+TTH,,,,1,unclassified
+TTT,,,,1,unclassified
+Type-checking,,,,1,unclassified
+Type-Driven,,,,1,unclassified
+u2i,,,,1,unclassified
+user-denable,,,,1,unclassified
+user-extensible,,,,1,unclassified
+User-provided,,,,1,unclassified
+V-reduction,,,,1,unclassified
+valuedependent,,,,1,unclassified
+Weirich,,,,1,unclassified
+"x,y",,,,1,unclassified
+x:(Fin,,,,1,unclassified
+x:(n)Int,,,,1,unclassified
+x:Int,,,,1,unclassified
+xed-length,,,,1,unclassified

@@ -1,0 +1,294 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Derek Dreyer,,,,2,Author
+Gilles Barthe,,,,2,Author
+Leonidas Lampropoulos,,,,2,Author
+Ralf Jung,,,,2,Author
+David Van Horn,,,,1,Author
+Guillaume Melquiond,,,,1,Author
+Martin Elsman,,,,1,Author
+Robbert Krebbers,,,,1,Author
+Samuel Gruetter,,,,1,Author
+Steve Zdancewic,,,,1,Author
+Troels Henriksen,,,,1,Author
+Yiyun Liu,,,,1,Author
+semantics,,,,85,
+compiler,,,,71,Common-term
+array,,,,60,Common-term
+CompCert,,A certified compiler,,29,
+algebra,,,,20,
+Coq,“Coq”,,,19,Common-term programming-language theorem-prover
+theorem,,,,13,Common-term
+ACM,,Association for Computing Machinery,,11,
+compiled,,,,11,
+LLVM,L.L.V.M.,,,11,
+pointer,,,,11,Common-term
+Rust,,,,11,Common-term programming-language
+well-typed,,,,11,Common-term
+continuation,,,,10,
+alias,,,,8,
+instruction,,,,8,
+integer,,,,8,Common-term
+Leroy,,,,8,Name
+aliasing,,,,7,
+mut,“mute”,“mutable”,,7,
+callee,,,,5,Common-term
+formalization,,,,5,Common-term
+gcc,,,,5,compiler tool
+Semantic,,,,5,Common-term
+cast,,Gradual typing,,4,theory
+deductive,,,,4,
+OCaml,,,,4,Common-term programming-language
+runtime,,,,4,Common-term
+separation logic,,,,4,Common-term
+SIGPLAN,,special interest group on programming languages,,4,
+type checker,,,,4,Common-term
+allocations,,,,3,Common-term
+Appel,,,,3,
+consistency,,Gradual typing,,3,theory
+IR ,I.R.,intermediate representation,,3,
+linear,,,,3,Common-term
+matching,,“pattern matching”,,3,Common-term
+syntactic,,,,3,Common-term
+VST,,Verified Software Toolchain,,3,theorem-proving tool
+Boolean,,,,2,
+borrows,,,,2,
+constructor,,,,2,Common-term
+Dependent types,,,,2,types
+expression,,,,2,Common-term
+Hoare,Like “horse”,,,2,Name
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,2,
+immutable,,,,2,Common-term
+ML,,,,2,Programming-language
+POPL,pop-ill,Conference,,2,Common-term
+stack,,,,2,
+symbolic,,,,2,
+syntax,,,,2,Common-term
+Vellvm,vellum,,,2,
+well-formed,,,,2,Common-term
+Barthe,,,,1,
+compile-time,,,,1,Common-term
+conclusion,,,,1,
+expressive,,,,1,Common-term
+expressiveness,,,,1,Common-term
+Go,,,,1,
+HOL4,hol as in “hollow”,This is theorem proving software,,1,tool
+inductive,,,,1,Common-term
+iterations,,,,1,
+Mandate,,,,1,
+match,,,,1,
+modular,,,,1,Common-term
+mutation,,,,1,
+paradigm,,,,1,Common-term
+permissions@acm.org,,,,1,email
+polymorphic,,,,1,Common-term
+precision,,Gradual typing,,1,theory
+recursive,,,,1,Common-term
+reduction,,,,1,Common-term
+RustBelt,,,,1,
+Scheme,,,,1,Common-term programming-language
+small-step,,,,1,Common-term
+toolchain,,,,1,
+Trigger,,,,1,
+typechecker,,,,1,Common-term
+typechecking,,,,1,Common-term
+untyped,,,,1,
+well-formedness,,,,1,Common-term
+C#minor,,,,22,unclassified
+zx,,,,18,unclassified
+zy,,,,18,unclassified
+incx,,,,13,unclassified
+zdotu,,,,13,unclassified
+GMP,,,,11,unclassified
+incy,,,,11,unclassified
+C#minor's,,,,10,unclassified
+CompCert's,,,,9,unclassified
+copy-restore,,,,9,unclassified
+s1p,,,,9,unclassified
+Varr,,,,9,unclassified
+CallInternal,,,,7,unclassified
+floating-point,,,,7,unclassified
+szenv,,,,7,unclassified
+dest,,,,6,unclassified
+returnto,,,,6,unclassified
+sizeof,,,,6,unclassified
+alloc,,,,5,unclassified
+divs,,,,5,unclassified
+Rieu-Helft,,,,5,unclassified
+add_vectors,,,,4,unclassified
+dimension-1,,,,4,unclassified
+mp_limb_t,,,,4,unclassified
+mpn_sqr,,,,4,unclassified
+out-of-bound,,,,4,unclassified
+params,,,,4,unclassified
+primitive_value,,,,4,unclassified
+Vfloat64,,,,4,unclassified
+abrupt_ending,,,,3,unclassified
+b[i,,,,3,unclassified
+backend,,,,3,unclassified
+CakeML,,,,3,unclassified
+Eacc,,,,3,unclassified
+float64,,,,3,unclassified
+"int32,Signed",,,,3,unclassified
+Myreen,,,,3,unclassified
+non-aliasing,,,,3,unclassified
+primitive_type,,,,3,unclassified
+Ruef,,,,3,unclassified
+sig.args,,,,3,unclassified
+valid_call,,,,3,unclassified
+Vint64,,,,3,unclassified
+WhyML,,,,3,unclassified
+WhyMP,,,,3,unclassified
+a[i,,,,2,unclassified
+Arbitrary-Precision,,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+big-step,,,,2,unclassified
+BLAS/LAPACK,,,,2,unclassified
+Cao,,,,2,unclassified
+Cminor,,,,2,unclassified
+Colaco,,,,2,unclassified
+divide-and-conquer,,,,2,unclassified
+EaccErr,,,,2,unclassified
+FFTW,,,,2,unclassified
+GMP's,,,,2,unclassified
+Gourdin,,,,2,unclassified
+"int64,Unsigned",,,,2,unclassified
+Jaloyan,,,,2,unclassified
+LAPACK,,,,2,unclassified
+min_sint,,,,2,unclassified
+miscompilation,,,,2,unclassified
+mp_size_t,,,,2,unclassified
+multi-dimensional,,,,2,unclassified
+penv,,,,2,unclassified
+ptr,,,,2,unclassified
+ReturnState,,,,2,unclassified
+row-major,,,,2,unclassified
+sig.res,,,,2,unclassified
+t[x,,,,2,unclassified
+Tarditi,,,,2,unclassified
+tenv,,,,2,unclassified
+upd,,,,2,unclassified
+Zhao,,,,2,unclassified
+A-normal,,,,1,unclassified
+Aarch64,,,,1,unclassified
+ABIs,,,,1,unclassified
+architecture-specific,,,,1,unclassified
+args,,,,1,unclassified
+axiom-free,,,,1,unclassified
+backends,,,,1,unclassified
+Beringer,,,,1,unclassified
+BLAS-like,,,,1,unclassified
+Boulme,,,,1,unclassified
+build_env,,,,1,unclassified
+byte-level,,,,1,unclassified
+"C#minor,2",,,,1,unclassified
+C-like,,,,1,unclassified
+callees,,,,1,unclassified
+CallState,,,,1,unclassified
+Cezary,,,,1,unclassified
+"code,1",,,,1,unclassified
+Commun,,,,1,unclassified
+Copy/restore,,,,1,unclassified
+Cybersecurity,,,,1,unclassified
+default_value,,,,1,unclassified
+Demange,,,,1,unclassified
+dest[i,,,,1,unclassified
+destructCont,,,,1,unclassified
+domain-specific,,,,1,unclassified
+EcastF64SInt32,,,,1,unclassified
+EcastF64SInt32Err,,,,1,unclassified
+EcastSInt32F64,,,,1,unclassified
+EdivsErr1,,,,1,unclassified
+EdivsErr2,,,,1,unclassified
+EdivsInt,,,,1,unclassified
+EdivsIntErr,,,,1,unclassified
+Elsman,,,,1,unclassified
+error-raising,,,,1,unclassified
+feature-complete,,,,1,unclassified
+floatfsz,,,,1,unclassified
+floatingpoint,,,,1,unclassified
+freeable,,,,1,unclassified
+frontend,,,,1,unclassified
+fsz,,,,1,unclassified
+"functions,4",,,,1,unclassified
+Georges-Axel,,,,1,unclassified
+Henriksen,,,,1,unclassified
+here.3,,,,1,unclassified
+high-performance,,,,1,unclassified
+Hoang-Hai,,,,1,unclassified
+Hou,,,,1,unclassified
+https,,,,1,unclassified
+Jacques-Henri,,,,1,unclassified
+Jean-Louis,,,,1,unclassified
+Jeehoon,,,,1,unclassified
+Jianzhou,,,,1,unclassified
+Kaliszyk,,,,1,unclassified
+Kloop,,,,1,unclassified
+Kreturnto,,,,1,unclassified
+l-values,,,,1,unclassified
+Lennart,,,,1,unclassified
+Liron,,,,1,unclassified
+Liyi,,,,1,unclassified
+lower-level,,,,1,unclassified
+M.K,,,,1,unclassified
+Maalej,,,,1,unclassified
+Mahony,,,,1,unclassified
+Maroua,,,,1,unclassified
+matrix_mul,,,,1,unclassified
+max_uint64,,,,1,unclassified
+Melquiond,,,,1,unclassified
+Middle-End,,,,1,unclassified
+min_signed,,,,1,unclassified
+miscompiled,,,,1,unclassified
+Monniaux,,,,1,unclassified
+mpn,,,,1,unclassified
+mpz,,,,1,unclassified
+Nagarakatte,,,,1,unclassified
+NBtoB.v,,,,1,unclassified
+non-aliased,,,,1,unclassified
+non-lexical,,,,1,unclassified
+Norrish,,,,1,unclassified
+OOPSLA2,,,,1,unclassified
+optimization-wise,,,,1,unclassified
+Paris-Saclay,,,,1,unclassified
+Paskevich,,,,1,unclassified
+pass-by-reference,,,,1,unclassified
+Pauget,,,,1,unclassified
+Performance-wise,,,,1,unclassified
+person-months,,,,1,unclassified
+Pichardie,,,,1,unclassified
+post-conditions,,,,1,unclassified
+Postol,,,,1,unclassified
+Pouzet,,,,1,unclassified
+prefetch,,,,1,unclassified
+prepends,,,,1,unclassified
+Project's,,,,1,unclassified
+Qinxiang,,,,1,unclassified
+Ramana,,,,1,unclassified
+register-sized,,,,1,unclassified
+Rust-like,,,,1,unclassified
+Sandrine,,,,1,unclassified
+Santosh,,,,1,unclassified
+SecDev,,,,1,unclassified
+Shang-Wei,,,,1,unclassified
+sig.sig_res,,,,1,unclassified
+size-dependent,,,,1,unclassified
+SSA-Based,,,,1,unclassified
+Sylvain,,,,1,unclassified
+Toom-Cook's,,,,1,unclassified
+transl_value,,,,1,unclassified
+uint64_t,,,,1,unclassified
+update_env,,,,1,unclassified
+Validity.v,,,,1,unclassified
+Vbool,,,,1,unclassified
+vectorize,,,,1,unclassified
+verification-wise,,,,1,unclassified
+Vfloat32,,,,1,unclassified
+Vptr,,,,1,unclassified
+VST-Floyd,,,,1,unclassified
+Vundef,,,,1,unclassified
+well-typedness,,,,1,unclassified
+Why3,,,,1,unclassified
+WriteErr,,,,1,unclassified
+WriteErrVal,,,,1,unclassified
+Yannick,,,,1,unclassified
+Zhe,,,,1,unclassified

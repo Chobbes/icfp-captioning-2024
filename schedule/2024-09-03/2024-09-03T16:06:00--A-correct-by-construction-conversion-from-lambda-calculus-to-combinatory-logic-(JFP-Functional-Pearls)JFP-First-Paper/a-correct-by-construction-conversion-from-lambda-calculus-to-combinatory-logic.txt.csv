@@ -1,0 +1,107 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Wouter Swierstra,,,,1,Author
+ University of Cambridge,,,,2,Institution
+Utrecht University,,,,1,Institution
+K ,,“K axiom”,,30,
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,29,
+combinator,,,,25,Common-term
+lambda calculus,lam-duh calculus,,,15,theory
+semantics,,,,11,
+context,,,,10,Common-term
+McBride,,,,8,Name
+ref,,,,8,
+abstraction,,,,7,Common-term
+cons,kon-ss,,,7,
+datatype,,,,7,Common-term
+evaluator,,,,7,
+functional programming,,,,7,
+reduction,,,,7,Common-term
+Agda,,Agda-style,,6,Common-term Programming-language
+Scheme,,,,5,Common-term programming-language
+ACM,,Association for Computing Machinery,,4,
+constructor,,,,4,Common-term
+Dependent types,,,,4,types
+Swierstra,,,,4,
+succ,,,,3,
+Abel,,,,2,Name
+abstractions,,,,2,
+algebras,,,,2,
+applicative,,,,2,Common-term
+axiom,,,,2,
+dynamic semantics,,,,2,
+Kiselyov,,,,2,
+ornaments,,,,2,
+Paterson,,,,2,
+Peyton Jones,,,,2,Name
+well-typed,,,,2,Common-term
+applicative functor,,,,1,
+calculus,,Used to describe a core simple programming language,,1,Common-term
+Chalmers University of Technology,,,,1,Institute
+Curry-Howard,,,,1,
+denotational semantics,,,,1,semantics
+dependent,,,,1,Common-term
+distribution,,,,1,
+extensionality,,,,1,Common-term
+induction,,,,1,Common-term
+inductive,,,,1,Common-term
+lemma,,,,1,Common-term
+nil,,,,1,
+Peano,,,,1,
+reflection,,,,1,Common-term
+SIGPLAN,,special interest group on programming languages,,1,
+syntax,,,,1,Common-term
+untyped,,,,1,
+w.s.swierstra@uu.nl,,,,1,email
+Why,,,,1,
+sapp,,,,9,unclassified
+Ctx,,,,7,unclassified
+correct-by-construction,,,,5,unclassified
+Norell,,,,5,unclassified
+Hindley,,,,3,unclassified
+Schonfinkel,,,,3,unclassified
+Seldin,,,,3,unclassified
+Stoye,,,,3,unclassified
+Agda's,,,,2,unclassified
+Barendregt,,,,2,unclassified
+Bruijn,,,,2,unclassified
+Funct,,,,2,unclassified
+JFP,,,,2,unclassified
+Mimram,,,,2,unclassified
+Scheevel,,,,2,unclassified
+type-preserving,,,,2,unclassified
+Urzyczyn,,,,2,unclassified
+Author(s,,,,1,unclassified
+Bausteine,,,,1,unclassified
+co-De,,,,1,unclassified
+Comput,,,,1,unclassified
+correct-byconstruction,,,,1,unclassified
+Curry's,,,,1,unclassified
+e-mail,,,,1,unclassified
+Everybody's,,,,1,unclassified
+Feys,,,,1,unclassified
+Hilbert-style,,,,1,unclassified
+https://creativecommons.org,,,,1,unclassified
+Ixx,,,,1,unclassified
+Kxyx,,,,1,unclassified
+lambda's,,,,1,unclassified
+licenses/by/4.0,,,,1,unclassified
+Logik,,,,1,unclassified
+Mathematische,,,,1,unclassified
+mathematischen,,,,1,unclassified
+Microprogrammer's,,,,1,unclassified
+North-Holland,,,,1,unclassified
+PrenticeHall,,,,1,unclassified
+Schonfinkel's,,,,1,unclassified
+Selinger,,,,1,unclassified
+SKI-combinators,,,,1,unclassified
+subterms,,,,1,unclassified
+Super-combinators,,,,1,unclassified
+Symb,,,,1,unclassified
+Theoret,,,,1,unclassified
+type-free,,,,1,unclassified
+Uber,,,,1,unclassified
+UCAM-CL-TR-40,,,,1,unclassified
+well-scoped,,,,1,unclassified
+x.M,,,,1,unclassified
+x.t=Kt,,,,1,unclassified
+x.x=I,,,,1,unclassified

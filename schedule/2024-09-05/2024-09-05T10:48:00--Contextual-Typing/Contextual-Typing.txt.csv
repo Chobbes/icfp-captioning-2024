@@ -1,0 +1,266 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Frank Pfenning,Frank “Fenning”,,,4,Author
+Neel Krishnaswami,,,,2,Author
+Ningning Xie,,,,2,Author
+Simon Peyton Jones,,,,2,Author
+Armando Solar-Lezama,,,,1,Author
+Conor McBride,,,,1,Author
+Daan Leijen,,,,1,Author
+Martin Odersky,,,,1,Author
+Nadia Polikarpova,,,,1,Author
+Peter Thiemann,,,,1,Author
+Steve Zdancewic,,,,1,Author
+Tom Schrijvers,,,,1,Author
+Wilmer Ricciotti,,,,1,Author
+Wouter Swierstra,,,,1,Author
+Xu Xue,,,,1,Author
+ Meta,,,,1,Institution
+contextual,,,,111,Common-term
+bidirectional,,,,71,
+context,,,,68,Common-term
+subtyping,,,,66,Common-term
+consumer,,,,34,
+expression,,,,34,Common-term
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,30,
+algorithmic,,,,29,Common-term
+intersection types,,,,22,Common-term
+theorem,,,,22,Common-term
+calculus,,Used to describe a core simple programming language,,20,Common-term
+TAs,,,,20,
+lemma,,,,18,Common-term
+ACM,,Association for Computing Machinery,,15,
+backtracking,,,,15,Common-term
+Krishnaswami,,,,15,
+Power,,,,15,
+syntax,,,,15,Common-term
+syntactic,,,,14,Common-term
+decidability,,,,13,
+stack,,,,13,
+polymorphism,,,,12,Common-term
+expressive,,,,11,Common-term
+matching,,“pattern matching”,,10,Common-term
+metatheory,,,,9,Common-term
+well-formed,,,,9,Common-term
+derivation,,,,8,
+generic,,,,8,
+Go,,,,6,
+lambda calculus,lam-duh calculus,,,6,theory
+quantitative,,,,6,
+SIGPLAN,,special interest group on programming languages,,6,
+conclusion,,,,5,
+decidable,,,,5,
+type-check,,,,5,Common-term
+calculi,,,,4,
+Cervesato,,,,4,
+integer,,,,4,Common-term
+polymorphic,,,,4,Common-term
+Pottier,,,,4,
+Reynolds,,,,4,Name
+abstraction,,,,3,Common-term
+Agda,,Agda-style,,3,Common-term Programming-language
+AST ,A.S.T.,Abstract Syntax Tree,,3,
+erasure,,type erasure,,3,Common-term
+expressiveness,,,,3,Common-term
+functional programming,,,,3,
+ICFP,,Conference,,3,Common-term
+inferring,,,,3,
+POPL,pop-ill,Conference,,3,Common-term
+Stump,,,,3,
+syntax-directed,,,,3,
+tries,"Sometimes tries sometimes trees, I think",Prefix tree data structure,,3,
+unification,,,,3,
+well-typed,,,,3,Common-term
+Dependent types,,,,2,types
+desugar,,,,2,Common-term
+Elimination,,,,2,
+formalization,,,,2,Common-term
+instantiation,,,,2,
+PLDI,,Conference,,2,Common-term
+recursive,,,,2,Common-term
+redexes,,,,2,Common-term
+reflexivity,,,,2,Common-term
+typeability,,,,2,Common-term
+typechecking,,,,2,Common-term
+uncurried,,,,2,
+Vytiniotis,,,,2,
+Xi,,,,2,
+applicative,,,,1,Common-term
+backtrack,,,,1,Common-term
+category,,,,1,
+coherence,,,,1,
+cons,kon-ss,,,1,
+dependent,,,,1,Common-term
+derive,,,,1,
+filter,,,,1,
+impredicative,,,,1,Common-term
+induction,,,,1,Common-term
+inductive,,,,1,Common-term
+judgement,,dependent types,,1,theory
+linear,,,,1,Common-term
+match,,,,1,
+Non-determinism,,,,1,Common-term
+refinement types,,,,1,
+Small-step operational semantics,,,,1,
+symbolic,,,,1,
+type checker,,,,1,Common-term
+well-formedness,,,,1,Common-term
+QTAS,,,,59,unclassified
+App2,,,,27,unclassified
+annotatability,,,,26,unclassified
+Dunfield,,,,21,unclassified
+App1,,,,20,unclassified
+DApp2,,,,19,unclassified
+STLC,,,,17,unclassified
+DApp1,,,,15,unclassified
+Oliveira,,,,15,unclassified
+Pfenning,,,,15,unclassified
+supertype,,,,14,unclassified
+QTASs,,,,12,unclassified
+inferrable,,,,11,unclassified
+DLam,,,,9,unclassified
+all-or-nothing,,,,7,unclassified
+DLit,,,,6,unclassified
+Zhao,,,,6,unclassified
+CDApp1,,,,5,unclassified
+CDSArr,,,,5,unclassified
+Rioux,,,,5,unclassified
+spine-local,,,,5,unclassified
+ALam2,,,,4,unclassified
+CASArr,,,,4,unclassified
+CDSInt,,,,4,unclassified
+DSub,,,,4,unclassified
+DVar,,,,4,unclassified
+EApp2,,,,4,unclassified
+SubTerm,,,,4,unclassified
+AAnn,,,,3,unclassified
+ALam1,,,,3,unclassified
+App3,,,,3,unclassified
+ASub,,,,3,unclassified
+CASAnd,,,,3,unclassified
+CASAndL,,,,3,unclassified
+CASRcd,,,,3,unclassified
+CDRcd,,,,3,unclassified
+CDSAndL,,,,3,unclassified
+CDSRefl,,,,3,unclassified
+CDSub,,,,3,unclassified
+Coppo,,,,3,unclassified
+DApp,,,,3,unclassified
+EApp3,,,,3,unclassified
+let-expressions,,,,3,unclassified
+LetChk,,,,3,unclassified
+LetInf,,,,3,unclassified
+mode-correct,,,,3,unclassified
+non-algorithmic,,,,3,unclassified
+non-backtracking,,,,3,unclassified
+Odersky,,,,3,unclassified
+Polikarpova,,,,3,unclassified
+Regis-Gianas,,,,3,unclassified
+SIGPLAN-SIGACT,,,,3,unclassified
+Xue,,,,3,unclassified
+AApp,,,,2,unclassified
+al.'s,,,,2,unclassified
+App4,,,,2,unclassified
+Asperti,,,,2,unclassified
+Barendregt,,,,2,unclassified
+bidirectionalize,,,,2,unclassified
+CAPrj,,,,2,unclassified
+CARcd,,,,2,unclassified
+CASAndR,,,,2,unclassified
+CASEmpty,,,,2,unclassified
+CASInt,,,,2,unclassified
+CASLabel,,,,2,unclassified
+CASTerm,,,,2,unclassified
+CASTop,,,,2,unclassified
+CASub,,,,2,unclassified
+CDAnn,,,,2,unclassified
+CDApp2,,,,2,unclassified
+CDConst,,,,2,unclassified
+CDLam,,,,2,unclassified
+CDPrj,,,,2,unclassified
+CDSAnd,,,,2,unclassified
+CDSAndR,,,,2,unclassified
+CDSFloat,,,,2,unclassified
+CDSRcd,,,,2,unclassified
+CDSTop,,,,2,unclassified
+Dezani-Ciancaglini,,,,2,unclassified
+Dimitrios,,,,2,unclassified
+EApp1,,,,2,unclassified
+Hage,,,,2,unclassified
+Impredicativity,,,,2,unclassified
+Jinxu,,,,2,unclassified
+Jurriaan,,,,2,unclassified
+Leijen,,,,2,unclassified
+lightweightness,,,,2,unclassified
+Loh,,,,2,unclassified
+Mariangiola,,,,2,unclassified
+Mode-correctness,,,,2,unclassified
+SAndR,,,,2,unclassified
+SubEmpty,,,,2,unclassified
+subterms,,,,2,unclassified
+Xuejing,,,,2,unclassified
+Abadi,,,,1,unclassified
+ALGOL-like,,,,1,unclassified
+App1Fail,,,,1,unclassified
+AppS2,,,,1,unclassified
+arXiv,,,,1,unclassified
+assumming,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+bi-directional,,,,1,unclassified
+CAAnn,,,,1,unclassified
+CAApp,,,,1,unclassified
+CAConst,,,,1,unclassified
+CALam1,,,,1,unclassified
+CALam2,,,,1,unclassified
+CASFloat,,,,1,unclassified
+CAVar,,,,1,unclassified
+CDVar,,,,1,unclassified
+Coen,,,,1,unclassified
+Comput,,,,1,unclassified
+Consequentely,,,,1,unclassified
+CSUR,,,,1,unclassified
+decreasable,,,,1,unclassified
+ELit,,,,1,unclassified
+encodable,,,,1,unclassified
+ETAPS,,,,1,unclassified
+EVar,,,,1,unclassified
+expressions/consumers,,,,1,unclassified
+Fundamenta,,,,1,unclassified
+Garrel,,,,1,unclassified
+Henk,,,,1,unclassified
+higher-rank,,,,1,unclassified
+higher-ranked,,,,1,unclassified
+HMF,,,,1,unclassified
+Hongwei,,,,1,unclassified
+Iliano,,,,1,unclassified
+ill-typed,,,,1,unclassified
+informaticae,,,,1,unclassified
+Krishnaswami's,,,,1,unclassified
+Kuraj,,,,1,unclassified
+let-binding,,,,1,unclassified
+meta-operation,,,,1,unclassified
+Metavariables,,,,1,unclassified
+Multi-field,,,,1,unclassified
+Neelakantan,,,,1,unclassified
+non-deterministic,,,,1,unclassified
+non-zero,,,,1,unclassified
+ObjectOriented,,,,1,unclassified
+Oliveira's,,,,1,unclassified
+ommiting,,,,1,unclassified
+Regis-Gianas's,,,,1,unclassified
+Roadmap,,,,1,unclassified
+Sacerdoti,,,,1,unclassified
+SAndL,,,,1,unclassified
+selection/matching,,,,1,unclassified
+strategies/guidelines,,,,1,unclassified
+subtyping/matching,,,,1,unclassified
+Tassi,,,,1,unclassified
+teleportation-based,,,,1,unclassified
+Thessaloniki,,,,1,unclassified
+Torgersen,,,,1,unclassified
+Tridirectional,,,,1,unclassified
+type-directed,,,,1,unclassified
+type-inference,,,,1,unclassified
+type-safety,,,,1,unclassified
+unannotted,,,,1,unclassified
+Venneri,,,,1,unclassified
+vice-versa,,,,1,unclassified

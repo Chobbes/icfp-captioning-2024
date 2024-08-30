@@ -1,0 +1,330 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Amr Sabry,,,,3,Author
+Matthias Felleisen,,,,3,Author
+Olivier Danvy,,,,2,researcher
+Amal Ahmed,,,,1,Author
+Delia Kesner,,,,1,Author
+Eduardo Bonelli,,,,1,researcher
+Giulio Guerrieri,,Author,,1,Author
+Martin Odersky,,,,1,Author
+Paul Downen,,,,1,Author
+Sam Lindley,,,,1,Author
+Simon Peyton Jones,,,,1,Author
+ Independent,,,,2,Institution
+ Queen Mary University of London,,,,1,Institution
+University of Edinburgh,,,,1,Institution
+reduction,,,,112,Common-term
+K ,,“K axiom”,,92,
+calculus,,Used to describe a core simple programming language,,78,Common-term
+CPS,C.P.S.,abbreviation for continuation-passing style ,,54,
+IR ,I.R.,intermediate representation,,42,
+lemma,,,,41,Common-term
+context,,,,39,Common-term
+ACM,,Association for Computing Machinery,,38,
+theorem,,,,31,Common-term
+continuation,,,,27,
+semantics,,,,25,
+calculi,,,,22,
+normalization,,computations,,22,theory
+redexes,,,,21,Common-term
+equational theory,,,,20,Common-term
+Semantic,,,,20,Common-term
+CBV,,Call-by-Value,,19,Common-term evaluation
+Plotkin,,Name,,16,name
+compiler,,,,14,Common-term
+reducibility,,,,14,
+Appel,,,,13,
+Elimination,,,,13,
+induction,,,,13,Common-term
+bisimilarity,,Notion of equivalence between programs,,12,Common-term equivalence
+CBN,,call-by-name,,12,Common-term evaluation
+garbage collection,,GC,,12,Common-term
+syntax,,,,12,Common-term
+reduction semantics,,,,11,
+closure,,,,10,Common-term
+reduction relation,,,,10,
+well-typed,,,,10,Common-term
+contextual,,,,9,Common-term
+contraction,,,,9,
+heap,,,,9,
+redex,,,,9,
+syntactic,,,,9,Common-term
+bisimulation,,,,8,Common-term equivalence
+derive,,,,8,
+functional programming,,,,8,
+SIGPLAN,,special interest group on programming languages,,8,
+axioms,,,,7,
+congruence,,,,7,Common-term
+Jim,,,,7,
+linear,,,,7,Common-term
+operational semantics,,,,7,
+weakening,,,,6,Common-term
+Call-by-Value,,(CBV),,5,Common-term evaluation
+ANF,,,,4,
+axiom,,,,4,
+consistency,,Gradual typing,,4,theory
+evaluator,,,,4,
+GC,,garbage collector,,4,Common-term
+subject reduction,,,,4,Common-term
+tail call,,,,4,
+Wadler,,,,4,Name
+Why,,,,4,
+Call-by-Name,,(CBN),,3,Common-term evaluation
+continuation-passing style,,,,3,
+denotational semantics,,,,3,semantics
+fn,,,,3,
+Honda,,,,3,
+inductive,,,,3,Common-term
+judgement,,dependent types,,3,theory
+KN,K.N.,KN abstract machine,,3,
+lambda calculus,lam-duh calculus,,,3,theory
+Levy,,,,3,
+metatheory,,,,3,Common-term
+observational,,,,3,
+untyped,,,,3,
+Bowman,,,,2,Name
+conservative,,,,2,theory
+decomposition,,,,2,
+deriving,,,,2,
+direct style,,,,2,
+Felleisen,,,,2,
+Flanagan,,,,2,
+formalization,,,,2,Common-term
+Girard,,,,2,Name
+Go,,,,2,
+ICFP,,Conference,,2,Common-term
+match,,,,2,
+PLDI,,Conference,,2,Common-term
+POPL,pop-ill,Conference,,2,Common-term
+Reynolds,,,,2,Name
+stack,,,,2,
+Steele,,,,2,Name
+symbolic,,,,2,
+abstraction,,,,1,Common-term
+applicative,,,,1,Common-term
+automata,,,,1,Common-term
+axiomatic,,,,1,
+Call-by-Push-Value,,(CBPV),,1,Common-term evaluation
+call/cc,,Call with current continuation,,1,Common-term
+capability,,,,1,
+Church-Rosser,,,,1,
+closures,,,,1,Common-term
+conclusion,,,,1,
+concurrent,,,,1,Common-term
+constructor,,,,1,Common-term
+Coq,“Coq”,,,1,Common-term programming-language theorem-prover
+decidable,,,,1,
+dependent,,,,1,Common-term
+derivation,,,,1,
+domain-theoretic,,,,1,Common-term
+equational,,,,1,Common-term
+erasure,,type erasure,,1,Common-term
+extensionality,,,,1,Common-term
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,1,
+isomorphic,,,,1,Common-term
+Java,,,,1,
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,1,
+logical relation,,,,1,Common-term
+ML,,,,1,Programming-language
+monadic,Mow-nad-ick,,,1,
+propositional,,,,1,Common-term
+recursion,,,,1,Common-term
+reflection,,,,1,Common-term
+Rosen,,,,1,
+runtime,,,,1,Common-term
+Scheme,,,,1,Common-term programming-language
+SML/NJ,,,,1,
+subtyping,,,,1,Common-term
+System F,,,,1,Common-term
+well-formed,,,,1,Common-term
+Xi,,,,1,
+CPS-calculus,,,,85,unclassified
+kx,,,,40,unclassified
+Appel's,,,,20,unclassified
+C[b,,,,18,unclassified
+Thielecke,,,,17,unclassified
+Merro,,,,15,unclassified
+Plotkin's,,,,13,unclassified
+C[c,,,,11,unclassified
+contification,,,,10,unclassified
+Sangiorgi,,,,8,unclassified
+Barendregt,,,,7,unclassified
+dom(C,,,,7,unclassified
+Kennedy's,,,,7,unclassified
+x.e,,,,7,unclassified
+Yoshida,,,,7,unclassified
+FV(b,,,,6,unclassified
+FV(c,,,,6,unclassified
+Accattoli,,,,5,unclassified
+Ariola,,,,5,unclassified
+head-normal,,,,5,unclassified
+head-redex,,,,5,unclassified
+inlining,,,,5,unclassified
+Thielecke's,,,,5,unclassified
+y.c,,,,5,unclassified
+yz,,,,5,unclassified
+C[kx,,,,4,unclassified
+c[x/y,,,,4,unclassified
+fxn,,,,4,unclassified
+https,,,,4,unclassified
+ISWIM,,,,4,unclassified
+jz,,,,4,unclassified
+name-passing,,,,4,unclassified
+r\s,,,,4,unclassified
+Sabry,,,,4,unclassified
+x/y,,,,4,unclassified
+Abramsky,,,,3,unclassified
+b\r,,,,3,unclassified
+call-by-need,,,,3,unclassified
+Danvy,,,,3,unclassified
+Fuhrmann,,,,3,unclassified
+Hayo,,,,3,unclassified
+jx,,,,3,unclassified
+kk,,,,3,unclassified
+Takahashi,,,,3,unclassified
+type-preserving,,,,3,unclassified
+WN,,,,3,unclassified
+x.c,,,,3,unclassified
+xz,,,,3,unclassified
+arity,,,,2,unclassified
+b[x/y,,,,2,unclassified
+C[D[c,,,,2,unclassified
+C[e,,,,2,unclassified
+C[f,,,,2,unclassified
+c[j/k,,,,2,unclassified
+capture-avoiding,,,,2,unclassified
+cont(c,,,,2,unclassified
+continuation-passing,,,,2,unclassified
+Cytron,,,,2,unclassified
+dom(D,,,,2,unclassified
+e[f/x,,,,2,unclassified
+e[v/x,,,,2,unclassified
+exprs,,,,2,unclassified
+Felleisen's,,,,2,unclassified
+FLOAT-L,,,,2,unclassified
+FLOAT-R,,,,2,unclassified
+full-normal,,,,2,unclassified
+FV(d,,,,2,unclassified
+Girard's,,,,2,unclassified
+Hatcliff,,,,2,unclassified
+j/k,,,,2,unclassified
+jump-normal,,,,2,unclassified
+jump-redex,,,,2,unclassified
+kf,,,,2,unclassified
+Kohei,,,,2,unclassified
+Morrisett,,,,2,unclassified
+Patrignani,,,,2,unclassified
+RECJMP,,,,2,unclassified
+s\t,,,,2,unclassified
+Sangiorgi's,,,,2,unclassified
+SECD,,,,2,unclassified
+SML.NET,,,,2,unclassified
+subterm,,,,2,unclassified
+subterms,,,,2,unclassified
+t\s,,,,2,unclassified
+term's,,,,2,unclassified
+vx,,,,2,unclassified
+xk,,,,2,unclassified
+xV,,,,2,unclassified
+Youyou,,,,2,unclassified
+6We,,,,1,unclassified
+A-normal,,,,1,unclassified
+Abramsky's,,,,1,unclassified
+absense,,,,1,unclassified
+ad-hoc,,,,1,unclassified
+Addison-Wesley,,,,1,unclassified
+Adeqacy,,,,1,unclassified
+APLAS,,,,1,unclassified
+arXiv,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+b[j/k,,,,1,unclassified
+b[k/j,,,,1,unclassified
+b\s,,,,1,unclassified
+b\t,,,,1,unclassified
+battle-tested,,,,1,unclassified
+Belmina,,,,1,unclassified
+big-step,,,,1,unclassified
+Bruijn,,,,1,unclassified
+bytecodes,,,,1,unclassified
+c[xn,,,,1,unclassified
+categories.4,,,,1,unclassified
+Church's,,,,1,unclassified
+Comput,,,,1,unclassified
+cont(b,,,,1,unclassified
+cont(C[H[fx1,,,,1,unclassified
+continue9,,,,1,unclassified
+CPScalculus,,,,1,unclassified
+cut-elimination,,,,1,unclassified
+D[c,,,,1,unclassified
+de-facto,,,,1,unclassified
+defined8,,,,1,unclassified
+Duba,,,,1,unclassified
+Dzafic,,,,1,unclassified
+Eqational,,,,1,unclassified
+Eqivalence,,,,1,unclassified
+Essertel,,,,1,unclassified
+evaluator.3,,,,1,unclassified
+Faggian,,,,1,unclassified
+Ferrante,,,,1,unclassified
+Funct,,,,1,unclassified
+FV(ci,,,,1,unclassified
+FV(e,,,,1,unclassified
+FV(H,,,,1,unclassified
+FV(kx,,,,1,unclassified
+GitHub1,,,,1,unclassified
+go-to,,,,1,unclassified
+head-redexes,,,,1,unclassified
+head-reduction,,,,1,unclassified
+in-practice,,,,1,unclassified
+Jean-Yves,,,,1,unclassified
+JFP,,,,1,unclassified
+k.b,,,,1,unclassified
+k.s,,,,1,unclassified
+Lafont,,,,1,unclassified
+Landin's,,,,1,unclassified
+language2,,,,1,unclassified
+Levy's,,,,1,unclassified
+link-time,,,,1,unclassified
+Longman,,,,1,unclassified
+macro-step,,,,1,unclassified
+Maraist,,,,1,unclassified
+Masako,,,,1,unclassified
+Moggi's,,,,1,unclassified
+multi-hole,,,,1,unclassified
+near-linear,,,,1,unclassified
+necessary.11,,,,1,unclassified
+Nobuko,,,,1,unclassified
+non-compatible,,,,1,unclassified
+non-erasing,,,,1,unclassified
+non-linear,,,,1,unclassified
+non-recursive,,,,1,unclassified
+non-terminating,,,,1,unclassified
+order-sensitive,,,,1,unclassified
+Osvald,,,,1,unclassified
+Pfennin,,,,1,unclassified
+pi-calculus,,,,1,unclassified
+postpooned,,,,1,unclassified
+proof-nets,,,,1,unclassified
+r\r,,,,1,unclassified
+r\t,,,,1,unclassified
+redution,,,,1,unclassified
+Rioux,,,,1,unclassified
+Rompf,,,,1,unclassified
+Self-adjointness,,,,1,unclassified
+shrink-normal,,,,1,unclassified
+SIGPLAN-SIGACT,,,,1,unclassified
+Springer-Verlag,,,,1,unclassified
+stataments,,,,1,unclassified
+tensor-not,,,,1,unclassified
+thedefinition,,,,1,unclassified
+Tiark,,,,1,unclassified
+variables5,,,,1,unclassified
+vk,,,,1,unclassified
+Wegman,,,,1,unclassified
+x.eN,,,,1,unclassified
+x.eV,,,,1,unclassified
+x.k.s,,,,1,unclassified
+x.r,,,,1,unclassified
+x.s,,,,1,unclassified
+x/yi,,,,1,unclassified
+Zadeck,,,,1,unclassified

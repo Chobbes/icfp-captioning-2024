@@ -1,0 +1,420 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Lars Birkedal,,,,8,Author
+Derek Dreyer,,,,5,Author
+Gilles Barthe,,,,5,Author
+Ralf Jung,,,,5,Author
+Robbert Krebbers,,,,4,Author
+Alejandro Aguirre,,,,3,Author
+Joseph Tassarotti,,,,3,Author
+Filip Sieczkowski,,,,2,Author
+Amal Ahmed,,,,1,Author
+Amin Timany,,,,1,Author
+Guillaume Melquiond,,,,1,Author
+Peter Thiemann,,,,1,Author
+Shin-ya Katsumata,,,,1,Author
+Simon Oddershede Gregersen,,,,1,Author
+Simon Spies,,,,1,Author
+ Independent,,,,1,Institution
+probabilistic,,,,67,Common-term
+probability,,,,51,Common-term
+higher-order,,,,48,Common-term
+amortized,,amortized analyses,,36,Common-term
+separation logic,,,,32,Common-term
+Hoare,Like “horse”,,,31,Name
+theorem,,,,25,Common-term
+ACM,,Association for Computing Machinery,,24,
+modality,,,,24,Common-term
+induction,,,,20,Common-term
+ref,,,,19,
+Iris,,,,18,theorem-proving tool
+distribution,,,,15,
+modular,,,,15,Common-term
+clause,,,,14,
+match,,,,11,
+POPL,pop-ill,Conference,,11,Common-term
+Boolean,,,,10,
+lemma,,,,9,Common-term
+operational semantics,,,,8,
+recursion,,,,8,Common-term
+Barthe,,,,7,
+concurrent,,,,7,Common-term
+Coq,“Coq”,,,7,Common-term programming-language theorem-prover
+Pottier,,,,7,
+recursive,,,,7,Common-term
+Hsu,,,,6,
+modularity,,,,6,Common-term
+Aguirre,,,,5,
+SAT,,Type of problem,,5,term
+semantics,,,,5,
+array,,,,4,Common-term
+dependent,,,,4,Common-term
+derive,,,,4,
+discrete,,,,4,
+expression,,,,4,Common-term
+hash table,,,,4,
+heap,,,,4,
+SIGPLAN,,special interest group on programming languages,,4,
+abstraction,,,,3,Common-term
+closure,,,,3,Common-term
+conjunction,,,,3,
+continuation,,,,3,
+expressive,,,,3,Common-term
+fold,,,,3,Common-term
+ghost,,,,3,
+Go,,,,3,
+ICFP,,Conference,,3,Common-term
+modalities,,,,3,Common-term
+monad,Mow-nad,,,3,Common-term
+PLDI,,Conference,,3,Common-term
+relational,,,,3,
+Ret,,,,3,
+Semantic,,,,3,Common-term
+algebra,,,,2,
+calculus,,Used to describe a core simple programming language,,2,Common-term
+HM,,,,2,
+inductive,,,,2,Common-term
+integer,,,,2,Common-term
+judgement,,dependent types,,2,theory
+monadic,Mow-nad-ick,,,2,
+monoids,,,,2,Common-term
+pointer,,,,2,Common-term
+precision,,Gradual typing,,2,theory
+quantitative,,,,2,
+reduction,,,,2,Common-term
+sequential ,,,,2,
+symbolic,,,,2,
+syntactic,,,,2,Common-term
+syntax,,,,2,Common-term
+abstractions,,,,1,
+AST ,A.S.T.,Abstract Syntax Tree,,1,
+automata,,,,1,Common-term
+categorical semantics,,,,1,
+conclusion,,,,1,
+concurrency,,,,1,Common-term
+conservative,,,,1,theory
+context,,,,1,Common-term
+contextual,,,,1,Common-term
+formalization,,,,1,Common-term
+Higher-order ghost state,,,,1,
+Hoare logic,,,,1,Common-term
+instantiation,,,,1,
+iterations,,,,1,
+iterator,,,,1,Common-term
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,1,
+lambda calculus,lam-duh calculus,,,1,theory
+linear,,,,1,Common-term
+modal,,,,1,
+monotonicity,,Mathematical property,,1,Common-term
+nil,,,,1,
+paradigm,,,,1,Common-term
+polarity,,,,1,
+quantified,,,,1,Common-term
+Scheme,,,,1,Common-term programming-language
+session types,,,,1,
+step-indexed,,“step-indexed logical relations” “step-indexed logics” “step-indexed reasoning”,,1,Common-term
+weakening,,,,1,Common-term
+Why,,,,1,
+almost-sure,,,,18,unclassified
+GLM,,,,18,unclassified
+hashfun,,,,17,unclassified
+collision-free,,,,16,unclassified
+hash_rs,,,,15,unclassified
+WalkSAT,,,,14,unclassified
+presampling,,,,13,unclassified
+ecRem,,,,12,unclassified
+lproof,,,,12,unclassified
+false,,,,10,unclassified
+height(tree,,,,10,unclassified
+List.map,,,,10,unclassified
+lleaf,,,,10,unclassified
+vec,,,,10,unclassified
+amort_cf,,,,9,unclassified
+ecAmp,,,,9,unclassified
+first-order,,,,8,unclassified
+Gregersen,,,,8,unclassified
+List.iter,,,,8,unclassified
+step-simple,,,,8,unclassified
+expectation-preserving,,,,7,unclassified
+isHashmap,,,,7,unclassified
+isList,,,,7,unclassified
+Prexec,,,,7,unclassified
+ecExc,,,,6,unclassified
+ht-rec,,,,6,unclassified
+idx,,,,6,unclassified
+randomised,,,,6,unclassified
+value-dependent,,,,6,unclassified
+Atkey,,,,5,unclassified
+Cfg,,,,5,unclassified
+ecRem3,,,,5,unclassified
+eval_var,,,,5,unclassified
+Gaboardi,,,,5,unclassified
+hash_path,,,,5,unclassified
+Mevel,,,,5,unclassified
+non-amortized,,,,5,unclassified
+PGL,,,,5,unclassified
+presample-exp,,,,5,unclassified
+step-exp,,,,5,unclassified
+3SAT,,,,4,unclassified
+allocn,,,,4,unclassified
+almost-surely,,,,4,unclassified
+bounds_check,,,,4,unclassified
+Chargueraud,,,,4,unclassified
+compute_hash,,,,4,unclassified
+dynamically-resizing,,,,4,unclassified
+eval_clause,,,,4,unclassified
+ht-bind-exp,,,,4,unclassified
+https,,,,4,unclassified
+inv_asn,,,,4,unclassified
+Jost,,,,4,unclassified
+Kaminski,,,,4,unclassified
+leaf_lookup,,,,4,unclassified
+MAX-1)MAX,,,,4,unclassified
+non-resizing,,,,4,unclassified
+PGLexec,,,,4,unclassified
+Pnueli,,,,4,unclassified
+pushback,,,,4,unclassified
+rand-exp,,,,4,unclassified
+read_tree,,,,4,unclassified
+state_step,,,,4,unclassified
+step(rand,,,,4,unclassified
+subdistribution,,,,4,unclassified
+vec_spec,,,,4,unclassified
+Zuck,,,,4,unclassified
+Adeqacy,,,,3,unclassified
+assignemnt,,,,3,unclassified
+Bellare,,,,3,unclassified
+Bizjak,,,,3,unclassified
+Comput,,,,3,unclassified
+Coq-level,,,,3,unclassified
+eval_asn,,,,3,unclassified
+inr,,,,3,unclassified
+iProp,,,,3,unclassified
+Jacques-Henri,,,,3,unclassified
+Joost-Pieter,,,,3,unclassified
+Katoen,,,,3,unclassified
+liftings,,,,3,unclassified
+Matheja,,,,3,unclassified
+PGLstep,,,,3,unclassified
+Rogaway,,,,3,unclassified
+statestep-exp,,,,3,unclassified
+statestep-simple,,,,3,unclassified
+sub-program,,,,3,unclassified
+subdistributions,,,,3,unclassified
+total-correctness,,,,3,unclassified
+up-to-error,,,,3,unclassified
+2height(tree,,,,2,unclassified
+Chakarov,,,,2,unclassified
+DeCandia,,,,2,unclassified
+Deepak,,,,2,unclassified
+error-incurring,,,,2,unclassified
+expectation-based,,,,2,unclassified
+Expr,,,,2,unclassified
+HO-UBL,,,,2,unclassified
+ht-bind,,,,2,unclassified
+ht-frame,,,,2,unclassified
+IMAX-1,,,,2,unclassified
+init_asn,,,,2,unclassified
+intial,,,,2,unclassified
+isc(sampler,,,,2,unclassified
+List.make,,,,2,unclassified
+MAX-1,,,,2,unclassified
+non-approximate,,,,2,unclassified
+non-probabilistic,,,,2,unclassified
+non-termination,,,,2,unclassified
+Papadimitriou,,,,2,unclassified
+PGLstate_step,,,,2,unclassified
+Pierre-Yves,,,,2,unclassified
+points-to,,,,2,unclassified
+rand-err-list,,,,2,unclassified
+root_hash,,,,2,unclassified
+sampler/checker,,,,2,unclassified
+Sankaranarayanan,,,,2,unclassified
+SIGPLAN-SIGACT,,,,2,unclassified
+Solovay,,,,2,unclassified
+Strassen,,,,2,unclassified
+sub-tree,,,,2,unclassified
+Svendsen,,,,2,unclassified
+Swasey,,,,2,unclassified
+Tetsuya,,,,2,unclassified
+upd_asn,,,,2,unclassified
+1/ecExc,,,,1,unclassified
+2We,,,,1,unclassified
+accuracy/termination,,,,1,unclassified
+ACM-SIGACT,,,,1,unclassified
+aHL-style,,,,1,unclassified
+Albarghouthi,,,,1,unclassified
+Aleksandar,,,,1,unclassified
+alloc-tape,,,,1,unclassified
+ammortize,,,,1,unclassified
+aproach,,,,1,unclassified
+Armael,,,,1,unclassified
+arXiv,,,,1,unclassified
+Auth(N,,,,1,unclassified
+Auth(R+0,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+Avinash,,,,1,unclassified
+Aws,,,,1,unclassified
+Birkedal,,,,1,unclassified
+Boole's,,,,1,unclassified
+Borel-Cantelli,,,,1,unclassified
+bounds:1,,,,1,unclassified
+C.H,,,,1,unclassified
+Caires,,,,1,unclassified
+Carbonneaux,,,,1,unclassified
+checker's,,,,1,unclassified
+checker_spec,,,,1,unclassified
+composability,,,,1,unclassified
+concantenate,,,,1,unclassified
+configuration-indexed,,,,1,unclassified
+conjuct,,,,1,unclassified
+corrolary,,,,1,unclassified
+critereon,,,,1,unclassified
+cs.NI,,,,1,unclassified
+Deniz,,,,1,unclassified
+ecAmp3,,,,1,unclassified
+Ectx,,,,1,unclassified
+elif,,,,1,unclassified
+error-annotated,,,,1,unclassified
+ETAPS,,,,1,unclassified
+everywhere-zero,,,,1,unclassified
+excesively,,,,1,unclassified
+expectationpreserving,,,,1,unclassified
+expected-error,,,,1,unclassified
+filterUnits,,,,1,unclassified
+fixed-size,,,,1,unclassified
+fst,,,,1,unclassified
+Funct,,,,1,unclassified
+Futher,,,,1,unclassified
+Gaher,,,,1,unclassified
+Goharshady,,,,1,unclassified
+Gueneau,,,,1,unclassified
+Gunavardhan,,,,1,unclassified
+Haselwarter,,,,1,unclassified
+Hastorun,,,,1,unclassified
+HeapLang,,,,1,unclassified
+HigherOrder,,,,1,unclassified
+Hoare-triples,,,,1,unclassified
+Holtzen,,,,1,unclassified
+Hongfei,,,,1,unclassified
+ht-bind-simpl,,,,1,unclassified
+ht-load,,,,1,unclassified
+ht-rand-err-list,,,,1,unclassified
+ICALP,,,,1,unclassified
+idx-th,,,,1,unclassified
+img,,,,1,unclassified
+Incrementalized,,,,1,unclassified
+Informatik,,,,1,unclassified
+insertions.4,,,,1,unclassified
+instansiation,,,,1,unclassified
+IPFS,,,,1,unclassified
+Iris-based,,,,1,unclassified
+isfies,,,,1,unclassified
+Jialu,,,,1,unclassified
+Jinyi,,,,1,unclassified
+Kafshdar,,,,1,unclassified
+Kakulapati,,,,1,unclassified
+Katzenbeisser,,,,1,unclassified
+key-value,,,,1,unclassified
+Krebbers,,,,1,unclassified
+Krishnendu,,,,1,unclassified
+Kruegel,,,,1,unclassified
+Lakshman,,,,1,unclassified
+Lelay,,,,1,unclassified
+let-bindings,,,,1,unclassified
+Line-by-line,,,,1,unclassified
+lis[idx,,,,1,unclassified
+load-tape,,,,1,unclassified
+logic-level,,,,1,unclassified
+Louisisana,,,,1,unclassified
+Madan,,,,1,unclassified
+max(0,,,,1,unclassified
+MAX/2,,,,1,unclassified
+McIver,,,,1,unclassified
+mean-preserving,,,,1,unclassified
+mechanised,,,,1,unclassified
+meta-logic,,,,1,unclassified
+Mihir,,,,1,unclassified
+Miller-Rabin,,,,1,unclassified
+ML-like,,,,1,unclassified
+Monte-Carlo,,,,1,unclassified
+Morrisett,,,,1,unclassified
+Mumbai,,,,1,unclassified
+Noemie,,,,1,unclassified
+non-empty,,,,1,unclassified
+non-incremental,,,,1,unclassified
+non-value,,,,1,unclassified
+nonprobabilistic,,,,1,unclassified
+not_tree_leaf,,,,1,unclassified
+novely,,,,1,unclassified
+offseting,,,,1,unclassified
+Olmedo,,,,1,unclassified
+over-approximate,,,,1,unclassified
+over-approximates,,,,1,unclassified
+own.2,,,,1,unclassified
+ownerhip,,,,1,unclassified
+P2P,,,,1,unclassified
+paramaterized,,,,1,unclassified
+paramaterizing,,,,1,unclassified
+partial-correctness,,,,1,unclassified
+Pilchin,,,,1,unclassified
+Pomerance,,,,1,unclassified
+postconditions,,,,1,unclassified
+postitive,,,,1,unclassified
+prefetch,,,,1,unclassified
+presample-planner,,,,1,unclassified
+presampled,,,,1,unclassified
+ProbLang,,,,1,unclassified
+progresss,,,,1,unclassified
+"Prstep(1,1",,,,1,unclassified
+pure7,,,,1,unclassified
+re-arranging,,,,1,unclassified
+re-consider,,,,1,unclassified
+real-valued,,,,1,unclassified
+recurisvely,,,,1,unclassified
+relationship.6,,,,1,unclassified
+resouce,,,,1,unclassified
+Resource-Aware,,,,1,unclassified
+Riemann's,,,,1,unclassified
+Run-Times,,,,1,unclassified
+Runtimes,,,,1,unclassified
+sampler's,,,,1,unclassified
+satisfiable.8,,,,1,unclassified
+satisyfing,,,,1,unclassified
+satref,,,,1,unclassified
+satsify,,,,1,unclassified
+Schloss-Dagstuhl,,,,1,unclassified
+Sharygina,,,,1,unclassified
+side-condition,,,,1,unclassified
+SIGSAC,,,,1,unclassified
+simplied,,,,1,unclassified
+simplified9,,,,1,unclassified
+Sivasubramanian,,,,1,unclassified
+snd,,,,1,unclassified
+Solovay-Strassen,,,,1,unclassified
+step(if,,,,1,unclassified
+stepexp,,,,1,unclassified
+STOC,,,,1,unclassified
+store-tape,,,,1,unclassified
+structrures,,,,1,unclassified
+Swaminathan,,,,1,unclassified
+TGL,,,,1,unclassified
+tree_leaf,,,,1,unclassified
+tree_valid,,,,1,unclassified
+tree_valid_with_leaf_list,,,,1,unclassified
+underapproximate,,,,1,unclassified
+union-bound,,,,1,unclassified
+Union-Find,,,,1,unclassified
+unsatsified,,,,1,unclassified
+up-to-errors,,,,1,unclassified
+upperbounded,,,,1,unclassified
+User-Friendly,,,,1,unclassified
+varibles,,,,1,unclassified
+Veith,,,,1,unclassified
+Verscht,,,,1,unclassified
+Versioned,,,,1,unclassified
+Vogels,,,,1,unclassified
+Vosshall,,,,1,unclassified
+weakest-precondition-style,,,,1,unclassified
+Weippl,,,,1,unclassified
+Yican,,,,1,unclassified
+Zentrum,,,,1,unclassified

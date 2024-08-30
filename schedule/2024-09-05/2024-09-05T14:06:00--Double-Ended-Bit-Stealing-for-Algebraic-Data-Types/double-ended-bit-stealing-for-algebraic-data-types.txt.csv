@@ -1,0 +1,367 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Martin Elsman,,,,6,Author
+Lars Birkedal,,,,3,Author
+Simon Peyton Jones,,,,2,Author
+Stephen Dolan,,,,2,Author
+Gabriel Radanne,,,,1,Author
+Gabriel Scherer,,,,1,Author
+Jacques Carette,,,,1,Author
+James Cheney,,,,1,Author
+Jeremy Yallop,,,,1,Author
+John Reppy,,,,1,Author
+Laure Gonnord,,,,1,Author
+Leo White,,,,1,Author
+Paul Downen,,,,1,Author
+IT University of Copenhagen,,,,2,Institution
+Carnegie Mellon University,,CMU,,1,Institution
+Microsoft Research,,Often “MSR”,,1,Institution
+ Princeton University,,,,1,Institution
+constructor,,,,57,Common-term
+ACM,,Association for Computing Machinery,,51,
+compiler,,,,34,Common-term
+MLton,I assume “milton”,,,31,
+ICFP,,Conference,,29,Common-term
+ML,,,,26,Programming-language
+well-formed,,,,19,Common-term
+expression,,,,12,Common-term
+Scheme,,,,12,Common-term programming-language
+SML/NJ,,,,12,
+pointer,,,,11,Common-term
+polymorphic,,,,10,Common-term
+runtime,,,,10,Common-term
+datatype,,,,9,Common-term
+garbage collection,,GC,,9,Common-term
+nil,,,,9,
+ref,,,,9,
+context,,,,7,Common-term
+memory management,,,,7,Common-term
+OCaml,,,,7,Common-term programming-language
+polymorphism,,,,7,Common-term
+induction,,,,6,Common-term
+recursive,,,,6,Common-term
+reduction,,,,6,Common-term
+fn,,,,5,
+functional programming,,,,5,
+K ,,“K axiom”,,5,
+POPL,pop-ill,Conference,,5,Common-term
+Semantic,,,,5,Common-term
+SIGPLAN,,special interest group on programming languages,,5,
+garbage collector,,GC,,4,Common-term
+integer,,,,4,Common-term
+Patricia trees,,,,4,
+Appel,,,,3,
+compiled,,,,3,
+derivation,,,,3,
+Peyton Jones,,,,3,Name
+Pi, pie,dependent types,,3,theory
+PLDI,,Conference,,3,Common-term
+redex,,,,3,
+syntactic,,,,3,Common-term
+well-typed,,,,3,Common-term
+atomic,,,,2,
+category,,,,2,
+closures,,,,2,Common-term
+contextual,,,,2,Common-term
+inductive,,,,2,Common-term
+inferring,,,,2,
+Leroy,,,,2,Name
+pattern matching,,,,2,
+Rust,,,,2,Common-term programming-language
+unification,,,,2,
+beta-reduction,,,,1,Common-term evaluation
+compile-time,,,,1,Common-term
+conclusion,,,,1,
+cons,kon-ss,,,1,
+conservative,,,,1,theory
+decomposition,,,,1,
+dependent,,,,1,Common-term
+dynamic semantics,,,,1,
+enumeration,,,,1,Common-term
+Felleisen,,,,1,
+Haskell,,,,1,Common-term programming-language
+heap,,,,1,
+instantiation,,,,1,
+instruction,,,,1,
+JavaScript,,,,1,Common-term programming-language
+Jim,,,,1,
+Kiselyov,,,,1,
+match,,,,1,
+modular,,,,1,Common-term
+Peterson,,,,1,
+redexes,,,,1,Common-term
+reflect,,,,1,
+register,,,,1,
+semantics,,,,1,
+small-step,,,,1,Common-term
+subject reduction,,,,1,Common-term
+syntax,,,,1,Common-term
+type substitution,,,,1,
+Type-preservation,,,,1,
+Wadler,,,,1,Name
+Why,,,,1,
+MLKit,,,,104,unclassified
+boxity,,,,102,unclassified
+data-type,,,,44,unclassified
+bit-stealing,,,,39,unclassified
+ckind(B,,,,36,unclassified
+high-bit,,,,21,unclassified
+B(t,,,,15,unclassified
+boxities,,,,11,unclassified
+low-unboxed,,,,11,unclassified
+c.v,,,,10,unclassified
+union-find,,,,10,unclassified
+high-unboxed,,,,9,unclassified
+RegionExp,,,,9,unclassified
+enum,,,,7,unclassified
+least-significant,,,,7,unclassified
+ML-Yacc,,,,7,unclassified
+MLKitr,,,,7,unclassified
+uf,,,,7,unclassified
+whole-program,,,,7,unclassified
+C(c,,,,6,unclassified
+E[e,,,,6,unclassified
+reference-tracing,,,,6,unclassified
+data-types,,,,5,unclassified
+e[w/x,,,,5,unclassified
+lexing,,,,5,unclassified
+most-significant,,,,5,unclassified
+SIGPLAN-SIGACT,,,,5,unclassified
+arity,,,,4,unclassified
+DLX,,,,4,unclassified
+kbc,,,,4,unclassified
+LambdaExp,,,,4,unclassified
+Mega,,,,4,unclassified
+ML-Lex,,,,4,unclassified
+MosML,,,,4,unclassified
+MUL,,,,4,unclassified
+multi-argument,,,,4,unclassified
+PTR,,,,4,unclassified
+Springer-Verlag,,,,4,unclassified
+wall-clock,,,,4,unclassified
+db1,,,,3,unclassified
+dbn,,,,3,unclassified
+Hallenberg,,,,3,unclassified
+lexgen,,,,3,unclassified
+LineStmt,,,,3,unclassified
+low-bit,,,,3,unclassified
+ML-like,,,,3,unclassified
+Morrisett,,,,3,unclassified
+optimisation,,,,3,unclassified
+optimisations,,,,3,unclassified
+s-sym,,,,3,unclassified
+s-var,,,,3,unclassified
+ad-hoc,,,,2,unclassified
+argument-flattening,,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+BIBOP,,,,2,unclassified
+blk2,,,,2,unclassified
+ClosExp,,,,2,unclassified
+cm+n,,,,2,unclassified
+Comput,,,,2,unclassified
+e-dd,,,,2,unclassified
+effect-binding,,,,2,unclassified
+ftv,,,,2,unclassified
+Henglein,,,,2,unclassified
+inlining,,,,2,unclassified
+Inter-Module,,,,2,unclassified
+Lf(k,,,,2,unclassified
+MacQueen,,,,2,unclassified
+mergeable,,,,2,unclassified
+MulExp,,,,2,unclassified
+non-bound,,,,2,unclassified
+non-strict,,,,2,unclassified
+owner/author(s,,,,2,unclassified
+real-world,,,,2,unclassified
+referencetracing,,,,2,unclassified
+region-inference,,,,2,unclassified
+ribbit,,,,2,unclassified
+S(X,,,,2,unclassified
+s-bl1,,,,2,unclassified
+s-case,,,,2,unclassified
+s-fix,,,,2,unclassified
+s-hb0,,,,2,unclassified
+s-hb1,,,,2,unclassified
+s-hl0,,,,2,unclassified
+s-hl1,,,,2,unclassified
+s-lam,,,,2,unclassified
+s-let,,,,2,unclassified
+s-tup,,,,2,unclassified
+source-level,,,,2,unclassified
+specialisations,,,,2,unclassified
+tag-free,,,,2,unclassified
+Tagless,,,,2,unclassified
+TopdecGrammar,,,,2,unclassified
+type-based,,,,2,unclassified
+unboxity,,,,2,unclassified
+untagging,,,,2,unclassified
+USENIX,,,,2,unclassified
+withtype,,,,2,unclassified
+32bit,,,,1,unclassified
+A.K,,,,1,unclassified
+ADTs,,,,1,unclassified
+anti-codon,,,,1,unclassified
+argument-carrying,,,,1,unclassified
+argument-taking,,,,1,unclassified
+Ariola,,,,1,unclassified
+arities,,,,1,unclassified
+ASTs,,,,1,unclassified
+ATEC,,,,1,unclassified
+Atsushi,,,,1,unclassified
+Baudon,,,,1,unclassified
+big-bag-of-pages,,,,1,unclassified
+big-bag-ofpages,,,,1,unclassified
+bit-maps,,,,1,unclassified
+bitstealing,,,,1,unclassified
+box.2,,,,1,unclassified
+boxity-environment,,,,1,unclassified
+boxity-environments,,,,1,unclassified
+Br(w,,,,1,unclassified
+byte-addressed,,,,1,unclassified
+Chaitanya,,,,1,unclassified
+Chataing,,,,1,unclassified
+Chung-chieh,,,,1,unclassified
+closure-explicit,,,,1,unclassified
+compiler-flags,,,,1,unclassified
+cons-cells,,,,1,unclassified
+cross-module,,,,1,unclassified
+data-layouts,,,,1,unclassified
+data-parallel,,,,1,unclassified
+data-representations,,,,1,unclassified
+dictionary-passing,,,,1,unclassified
+e-db,,,,1,unclassified
+e[(fix,,,,1,unclassified
+e[l/x,,,,1,unclassified
+E[r,,,,1,unclassified
+e[v/x,,,,1,unclassified
+effect-annotated,,,,1,unclassified
+effect-variables,,,,1,unclassified
+effecttyped,,,,1,unclassified
+EQR,,,,1,unclassified
+fc(B,,,,1,unclassified
+fix-point,,,,1,unclassified
+FPCA,,,,1,unclassified
+front-end,,,,1,unclassified
+Funct,,,,1,unclassified
+GADTs,,,,1,unclassified
+garbage-collection,,,,1,unclassified
+generalpurpose,,,,1,unclassified
+heap-allocated,,,,1,unclassified
+heap-to-live,,,,1,unclassified
+Hennesey's,,,,1,unclassified
+high-bits,,,,1,unclassified
+high-end,,,,1,unclassified
+high-performance,,,,1,unclassified
+high-tagged,,,,1,unclassified
+high-unboxing,,,,1,unclassified
+highbit,,,,1,unclassified
+Hojfeld,,,,1,unclassified
+https,,,,1,unclassified
+Huu-Duc,,,,1,unclassified
+identically-sized,,,,1,unclassified
+intermediate-language,,,,1,unclassified
+intermediatelanguage,,,,1,unclassified
+interoperability,,,,1,unclassified
+Jagannathan,,,,1,unclassified
+Knuth-Bendix,,,,1,unclassified
+Koparkar,,,,1,unclassified
+Langgaards,,,,1,unclassified
+Launchbury,,,,1,unclassified
+Launchbury's,,,,1,unclassified
+left-most,,,,1,unclassified
+Leroy's,,,,1,unclassified
+let-reduction,,,,1,unclassified
+lexed,,,,1,unclassified
+lexer,,,,1,unclassified
+lexers,,,,1,unclassified
+look-ahead,,,,1,unclassified
+low-tagged,,,,1,unclassified
+low-unboxing,,,,1,unclassified
+M(x,,,,1,unclassified
+MacBook,,,,1,unclassified
+macOS,,,,1,unclassified
+micro-benchmarks,,,,1,unclassified
+Milind,,,,1,unclassified
+MLton's,,,,1,unclassified
+multi-constructor,,,,1,unclassified
+multiplicity-inferred,,,,1,unclassified
+NaN-boxing,,,,1,unclassified
+no_high_pointer_tagging,,,,1,unclassified
+non-argument-taking,,,,1,unclassified
+non-enumeration,,,,1,unclassified
+non-exhaustive,,,,1,unclassified
+non-nullary,,,,1,unclassified
+non-uniform,,,,1,unclassified
+non-used,,,,1,unclassified
+Ohori,,,,1,unclassified
+Okasaki,,,,1,unclassified
+Olesen,,,,1,unclassified
+page-aligned,,,,1,unclassified
+parameterised,,,,1,unclassified
+path-compression,,,,1,unclassified
+path-halving,,,,1,unclassified
+PATRICIA--Practical,,,,1,unclassified
+Patriciatrees,,,,1,unclassified
+Patterson's,,,,1,unclassified
+pointer-tagging,,,,1,unclassified
+pointer-tracing,,,,1,unclassified
+PPDP,,,,1,unclassified
+prefix-tag,,,,1,unclassified
+pretty-printing,,,,1,unclassified
+Procedings,,,,1,unclassified
+program-analyses,,,,1,unclassified
+Program/Compiler,,,,1,unclassified
+Rainey,,,,1,unclassified
+ray-tracing,,,,1,unclassified
+"ref(PTR(ref(ECR(data,8",,,,1,unclassified
+Region-Based,,,,1,unclassified
+report_boxities,,,,1,unclassified
+representation-wise,,,,1,unclassified
+runtimes,,,,1,unclassified
+S(B,,,,1,unclassified
+s-app,,,,1,unclassified
+s-bl0,,,,1,unclassified
+s-int,,,,1,unclassified
+s-lb0,,,,1,unclassified
+s-sel,,,,1,unclassified
+s-vtup,,,,1,unclassified
+Sestoft,,,,1,unclassified
+single-argument,,,,1,unclassified
+size-information,,,,1,unclassified
+sourcelevel,,,,1,unclassified
+SSAlike,,,,1,unclassified
+strongly-connected,,,,1,unclassified
+subcases,,,,1,unclassified
+sum-type,,,,1,unclassified
+tag-less,,,,1,unclassified
+Talpin,,,,1,unclassified
+TALT,,,,1,unclassified
+Tarditi,,,,1,unclassified
+Thiemann,,,,1,unclassified
+third-party,,,,1,unclassified
+time-performing,,,,1,unclassified
+today's,,,,1,unclassified
+top-left,,,,1,unclassified
+top-right,,,,1,unclassified
+trade-offs,,,,1,unclassified
+treetraversals,,,,1,unclassified
+Tup-value,,,,1,unclassified
+tuple-flattening,,,,1,unclassified
+tupleflattening,,,,1,unclassified
+tupleselection,,,,1,unclassified
+type-binding,,,,1,unclassified
+type-case,,,,1,unclassified
+type-indexed,,,,1,unclassified
+Uniqe,,,,1,unclassified
+usr/bin/time,,,,1,unclassified
+utilisation,,,,1,unclassified
+Vej,,,,1,unclassified
+Vejlstrup,,,,1,unclassified
+Vollmer,,,,1,unclassified
+w-box,,,,1,unclassified
+w/x,,,,1,unclassified
+word-alignment,,,,1,unclassified
+word-operations,,,,1,unclassified
+word.1,,,,1,unclassified
+wordrepresentation,,,,1,unclassified
+Yanling,,,,1,unclassified
+Ziarek,,,,1,unclassified

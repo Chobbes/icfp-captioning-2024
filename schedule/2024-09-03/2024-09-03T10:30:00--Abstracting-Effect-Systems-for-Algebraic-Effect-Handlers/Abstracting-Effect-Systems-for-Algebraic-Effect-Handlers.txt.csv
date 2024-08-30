@@ -1,0 +1,351 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Sam Lindley,,,,6,Author
+Daan Leijen,,,,5,Author
+Taro Sekiyama,,,,4,Author
+Dariusz Biernacki,Dariush /ˈdarʲjuʃ/ Biernacki,,,3,Author
+Filip Sieczkowski,,,,3,Author
+Ohad Kammar,,,,3,Author
+Philipp Schuster,,,,3,Author
+Piotr Polesiuk,,,,3,Author
+Amal Ahmed,,,,2,Author
+Atsushi Igarashi,,,,2,Author
+Giuseppe Castagna,,,,2,Author
+Hiroshi Unno,,,,2,Author
+Klaus Ostermann,,,,2,Author
+Matthias Felleisen,,,,2,Author
+Ningning Xie,,,,2,Author
+Darius Foo,,,,1,Author
+Frank Emrich,,,,1,Author
+Ilya Sergey,,,,1,Author
+James Chapman,,,,1,Author
+James Cheney,,,,1,Author
+Jan Stolarek,,,,1,Author
+Martin Odersky,,,,1,Author
+Ranjit Jhala,,,,1,Author
+Shin-ya Katsumata,,,,1,Author
+Simon Fowler,,,,1,Author
+Tom Schrijvers,,,,1,Author
+Wei-Ngan Chin,,,,1,Author
+Wenhao Tang,,,,1,Author
+Wilmer Ricciotti,,,,1,Author
+Wouter Swierstra,,,,1,Author
+Yahui Song,,,,1,Author
+Yannick Forster,,,,1,Author
+K ,,“K axiom”,,111,
+effect handlers,,,,72,
+algebras,,,,66,
+Eff,,,,63,
+ACM,,Association for Computing Machinery,,60,
+algebra,,,,60,
+semantics,,,,50,
+expression,,,,46,Common-term
+effect handler,,,,30,
+polymorphism,,,,26,Common-term
+scoped,,,,26,Common-term
+context,,,,19,Common-term
+Pretnar,,,,18,
+algebraic effects,,,,17,
+clause,,,,17,
+Koka,,,,17,Programming-language
+theorem,,,,14,Common-term
+abstraction,,,,11,Common-term
+continuation,,,,11,
+POPL,pop-ill,Conference,,11,Common-term
+sequential ,,,,11,
+syntax,,,,10,Common-term
+type-and-effect system,,,,10,
+reduction,,,,9,Common-term
+polymorphic,,,,8,Common-term
+subtyping,,,,8,Common-term
+integer,,,,7,Common-term
+unification,,,,7,
+well-formedness,,,,7,Common-term
+generic,,,,6,
+operational semantics,,,,6,
+calculus,,Used to describe a core simple programming language,,5,Common-term
+constructor,,,,5,Common-term
+lemma,,,,5,Common-term
+Plotkin,,Name,,5,name
+SIGPLAN,,special interest group on programming languages,,5,
+abstractions,,,,4,
+effectful,,,,4,
+expressive,,,,4,Common-term
+ICFP,,Conference,,4,Common-term
+idempotence,,,,4,
+row polymorphism,,,,4,
+syntactic,,,,4,Common-term
+derivation,,,,3,
+modular,,,,3,Common-term
+monoid,,,,3,Common-term
+object-oriented,,,,3,Common-term paradigm
+Power,,,,3,
+reduction relation,,,,3,
+Wadler,,,,3,Name
+Boolean,,,,2,
+calculi,,,,2,
+Cardelli,,,,2,
+formalization,,,,2,Common-term
+functional programming,,,,2,
+homomorphism,,,,2,Common-term
+idempotent,,,,2,Common-term
+Moggi,,,,2,Name
+monomorphic,,,,2,
+reflect,,,,2,
+Scheme,,,,2,Common-term programming-language
+typechecking,,,,2,Common-term
+backtracking,,,,1,Common-term
+Call-by-Value,,(CBV),,1,Common-term evaluation
+category,,,,1,
+closure,,,,1,Common-term
+conclusion,,,,1,
+contextual,,,,1,Common-term
+CPS,C.P.S.,abbreviation for continuation-passing style ,,1,
+dependent,,,,1,Common-term
+derive,,,,1,
+erasure,,type erasure,,1,Common-term
+Felleisen,,,,1,
+higher-order function,,,,1,
+Hudak,,,,1,Name
+inferring,,,,1,
+injection,,,,1,
+Katsumata,,,,1,
+KN,K.N.,KN abstract machine,,1,
+matching,,“pattern matching”,,1,Common-term
+metatheory,,,,1,Common-term
+ML,,,,1,Programming-language
+monadic,Mow-nad-ick,,,1,
+Nijmegen,,“Radboud University Nijmegen” A city in the Netherlands,,1,City
+nondeterministic,,,,1,
+OOPSLA,oops-la,,,1,Conference
+PLDI,,Conference,,1,Common-term
+producer,,,,1,
+recursive,,,,1,Common-term
+redex,,,,1,
+reflection,,,,1,Common-term
+relational,,,,1,
+sequential semantics,,,,1,
+symbolic,,,,1,
+TyDe@ICFP,,,,1,email
+Why,,,,1,
+type-erasure,,,,35,unclassified
+type-and-effect,,,,28,unclassified
+EASet,,,,25,unclassified
+typelike,,,,23,unclassified
+Hillerstrom,,,,21,unclassified
+handlel,,,,20,unclassified
+EAScpR,,,,19,unclassified
+Leijen,,,,19,unclassified
+multisets,,,,19,unclassified
+Biernacki,,,,18,unclassified
+EASimpR,,,,17,unclassified
+n-free(L,,,,17,unclassified
+subeffecting,,,,14,unclassified
+opl,,,,13,unclassified
+SimpR,,,,13,unclassified
+0-free(l,,,,10,unclassified
+EAMSet,,,,10,unclassified
+e:A,,,,9,unclassified
+Matija,,,,9,unclassified
+Kammar,,,,8,unclassified
+R_Handle2,,,,8,unclassified
+ScpR,,,,8,unclassified
+E[opl,,,,7,unclassified
+false,,,,7,unclassified
+typelikes,,,,7,unclassified
+Brachthauser,,,,6,unclassified
+row-based,,,,6,unclassified
+Sekiyama,,,,6,unclassified
+set-based,,,,6,unclassified
+Comput,,,,5,unclassified
+EAEScpR,,,,5,unclassified
+tellWriter,,,,5,unclassified
+vcont,,,,5,unclassified
+EAESet,,,,4,unclassified
+handleExc,,,,4,unclassified
+handleWriter,,,,4,unclassified
+IntSet,,,,4,unclassified
+MSet,,,,4,unclassified
+raiseExc,,,,4,unclassified
+T_Handling,,,,4,unclassified
+type-andeffect,,,,4,unclassified
+user-defined,,,,4,unclassified
+0-freeness,,,,3,unclassified
+Atkey,,,,3,unclassified
+Dagstuhl,,,,3,unclassified
+dom(eff,,,,3,unclassified
+dom(lab,,,,3,unclassified
+ECOOP,,,,3,unclassified
+ETAPS,,,,3,unclassified
+filtered_set,,,,3,unclassified
+handleChoice,,,,3,unclassified
+Informatik,,,,3,unclassified
+K_Cons,,,,3,unclassified
+label-based,,,,3,unclassified
+Leibniz-Zentrum,,,,3,unclassified
+let-bindings,,,,3,unclassified
+LIPIcs,,,,3,unclassified
+Maciej,,,,3,unclassified
+McKinna,,,,3,unclassified
+overapproximate,,,,3,unclassified
+R_Handle1,,,,3,unclassified
+Saleh,,,,3,unclassified
+T_Lift,,,,3,unclassified
+T_Sub,,,,3,unclassified
+typechecked,,,,3,unclassified
+0-free,,,,2,unclassified
+1-free(L,,,,2,unclassified
+E[z,,,,2,unclassified
+E_Eval,,,,2,unclassified
+EAEMSet,,,,2,unclassified
+ESet,,,,2,unclassified
+Foulis,,,,2,unclassified
+Funct,,,,2,unclassified
+H_Op,,,,2,unclassified
+H_Return,,,,2,unclassified
+handle-with,,,,2,unclassified
+handleState,,,,2,unclassified
+https,,,,2,unclassified
+int_to_string,,,,2,unclassified
+Kawamata,,,,2,unclassified
+Kinding,,,,2,unclassified
+label-removing,,,,2,unclassified
+Millstein,,,,2,unclassified
+Mycroft,,,,2,unclassified
+operation-based,,,,2,unclassified
+R_Lift,,,,2,unclassified
+Rytz,,,,2,unclassified
+semilattice,,,,2,unclassified
+ST_Comp,,,,2,unclassified
+T_Op,,,,2,unclassified
+Typ.Unit,,,,2,unclassified
+type-directed,,,,2,unclassified
+typecheck,,,,2,unclassified
+v/p,,,,2,unclassified
+v/x,,,,2,unclassified
+z.handlel,,,,2,unclassified
+4We,,,,1,unclassified
+Abstraction-safe,,,,1,unclassified
+actually--the,,,,1,unclassified
+algebraicity,,,,1,unclassified
+algebras2,,,,1,unclassified
+Answer-Effect,,,,1,unclassified
+APLAS,,,,1,unclassified
+application--unification,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+Bernd,,,,1,unclassified
+Caires,,,,1,unclassified
+CALCO,,,,1,unclassified
+case--that,,,,1,unclassified
+checkings,,,,1,unclassified
+Coalgebra,,,,1,unclassified
+collections--i.e,,,,1,unclassified
+compositionality,,,,1,unclassified
+constructs--are,,,,1,unclassified
+continuationpassing,,,,1,unclassified
+Control-Flow,,,,1,unclassified
+Cousot,,,,1,unclassified
+Dillig,,,,1,unclassified
+e[fun,,,,1,unclassified
+e[v/x,,,,1,unclassified
+EAESimpR,,,,1,unclassified
+Eff.(Unit,,,,1,unclassified
+effect-level,,,,1,unclassified
+expect--and,,,,1,unclassified
+Flow-Sensitive,,,,1,unclassified
+FSCD,,,,1,unclassified
+Fuga,,,,1,unclassified
+Galpin,,,,1,unclassified
+Georgios,,,,1,unclassified
+Ghica,,,,1,unclassified
+Giacobazzi,,,,1,unclassified
+given--thus,,,,1,unclassified
+handled--and,,,,1,unclassified
+Hankin,,,,1,unclassified
+Hanne,,,,1,unclassified
+Hany,,,,1,unclassified
+Heckel,,,,1,unclassified
+Igarashi,,,,1,unclassified
+Ikemori,,,,1,unclassified
+Int.y,,,,1,unclassified
+Isil,,,,1,unclassified
+it--the,,,,1,unclassified
+Jagannathan,,,,1,unclassified
+Joinsemilattices,,,,1,unclassified
+K_Fun,,,,1,unclassified
+K_Poly,,,,1,unclassified
+K_Var,,,,1,unclassified
+Karachalias,,,,1,unclassified
+Kazuki,,,,1,unclassified
+kind-aware,,,,1,unclassified
+Krieg-Bruckner,,,,1,unclassified
+let-constructs,,,,1,unclassified
+let-expression,,,,1,unclassified
+MFPS,,,,1,unclassified
+Milius,,,,1,unclassified
+Millstein's,,,,1,unclassified
+Mislove,,,,1,unclassified
+ML-like,,,,1,unclassified
+Morrisett,,,,1,unclassified
+nonerasable,,,,1,unclassified
+ObjectOriented,,,,1,unclassified
+OOPSLA2,,,,1,unclassified
+op's,,,,1,unclassified
+Oury,,,,1,unclassified
+overapproximates,,,,1,unclassified
+overapproximation,,,,1,unclassified
+paper--sets,,,,1,unclassified
+Parameterised,,,,1,unclassified
+Petricek,,,,1,unclassified
+Probst,,,,1,unclassified
+Queinnec,,,,1,unclassified
+R_App,,,,1,unclassified
+R_Let,,,,1,unclassified
+R_TApp,,,,1,unclassified
+Radhia,,,,1,unclassified
+Remy's,,,,1,unclassified
+respectively.5,,,,1,unclassified
+row-typed,,,,1,unclassified
+rows--called,,,,1,unclassified
+rows--is,,,,1,unclassified
+Rudi,,,,1,unclassified
+Rydhof,,,,1,unclassified
+safety--terminating,,,,1,unclassified
+safety--therefore,,,,1,unclassified
+setState,,,,1,unclassified
+SIGPLAN-SIGACT,,,,1,unclassified
+SIGPLANSIGACT,,,,1,unclassified
+Sivaramakrishnan,,,,1,unclassified
+ST_Fun,,,,1,unclassified
+ST_Poly,,,,1,unclassified
+ST_Refl,,,,1,unclassified
+state-passing,,,,1,unclassified
+T_Abs,,,,1,unclassified
+T_App,,,,1,unclassified
+T_Let,,,,1,unclassified
+T_TAbs,,,,1,unclassified
+T_TApp,,,,1,unclassified
+T_Var,,,,1,unclassified
+Tachio,,,,1,unclassified
+Tarmo,,,,1,unclassified
+Terauchi,,,,1,unclassified
+Thessaloniki,,,,1,unclassified
+Tsukada,,,,1,unclassified
+Typ.{set,,,,1,unclassified
+Typ.{tell,,,,1,unclassified
+Type-Driven,,,,1,unclassified
+type-inference,,,,1,unclassified
+typecheckes,,,,1,unclassified
+typeerasure,,,,1,unclassified
+unclarities,,,,1,unclassified
+unions).4,,,,1,unclassified
+Unno,,,,1,unclassified
+Uustalu,,,,1,unclassified
+values--as,,,,1,unclassified
+Well-Formedness-Preserving,,,,1,unclassified
+well-typedness,,,,1,unclassified
+wellformedness,,,,1,unclassified
+x.e,,,,1,unclassified
+x/y,,,,1,unclassified
+x:A,,,,1,unclassified
+Yizhou,,,,1,unclassified
+Youyou,,,,1,unclassified

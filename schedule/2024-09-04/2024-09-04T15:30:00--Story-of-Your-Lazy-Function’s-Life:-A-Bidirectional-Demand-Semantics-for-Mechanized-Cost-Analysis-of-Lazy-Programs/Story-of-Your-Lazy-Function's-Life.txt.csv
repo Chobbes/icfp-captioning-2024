@@ -1,0 +1,361 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Graham Hutton,,,,3,Author
+Simon Peyton Jones,,,,3,Author
+Derek Dreyer,,,,2,Author
+Ilya Sergey,,,,2,Author
+Joachim Breitner,,,,2,Author
+Lars Birkedal,,,,2,Author
+Niki Vazou,,,,2,Author
+Ralf Jung,,,,2,Author
+Robbert Krebbers,,,,2,Author
+Stephanie Weirich,,,,2,Author
+Yao Li,,,,2,Author
+Amr Sabry,,,,1,Author
+Joseph Tassarotti,,,,1,Author
+Koen Claessen,,,,1,Author
+Leonidas Lampropoulos,,,,1,Author
+Li-yao Xia,,,,1,Author
+Matthias Felleisen,,,,1,Author
+Nicolas Tabareau,nikola tabaro,,,1,Author
+Nils Anders Danielsson,,,,1,Author
+Norman Danner,,,,1,Author
+Simon Spies,,,,1,Author
+Tom Schrijvers,,,,1,Author
+Yannick Forster,,,,1,Author
+ Queen Mary University of London,,,,1,Institution
+University of California,,,,1,Institution
+semantics,,,,106,
+thunk,,,,62,Common-term evaluation
+ACM,,Association for Computing Machinery,,59,
+amortized,,amortized analyses,,36,Common-term
+ICFP,,Conference,,36,Common-term
+nil,,,,33,
+cons,kon-ss,,,32,
+theorem,,,,31,Common-term
+K ,,“K axiom”,,16,
+lemma,,,,14,Common-term
+recursive,,,,14,Common-term
+calculus,,Used to describe a core simple programming language,,13,Common-term
+laziness,,,,12,
+match,,,,12,
+Ret,,,,12,
+Haskell,,,,10,Common-term programming-language
+bidirectional,,,,9,
+Coq,“Coq”,,,8,Common-term programming-language theorem-prover
+functional programming,,,,8,
+derive,,,,7,
+fixpoint,,,,7,Common-term
+force,,,,7,Common-term evaluation
+higher-order,,,,7,Common-term
+Call-by-Value,,(CBV),,6,Common-term evaluation
+modular,,,,6,Common-term
+POPL,pop-ill,Conference,,6,Common-term
+Iris,,,,5,theorem-proving tool
+monad,Mow-nad,,,5,Common-term
+monadic,Mow-nad-ick,,,5,
+Pottier,,,,5,
+denotational semantics,,,,4,semantics
+forall,,quantifier,,4,Common-term logic
+inductive,,,,4,Common-term
+separation logic,,,,4,Common-term
+symbolic,,,,4,
+compiler,,,,3,Common-term
+constructor,,,,3,Common-term
+GHC,,,,3,compiler tool
+Handley,,,,3,
+monotone,,,,3,Common-term
+OCaml,,,,3,Common-term programming-language
+quantified,,,,3,Common-term
+SIGPLAN,,special interest group on programming languages,,3,
+syntax,,,,3,Common-term
+untyped,,,,3,
+Wadler,,,,3,Name
+Appel,,,,2,
+asymptotic,,,,2,Common-term
+Call-by-Push-Value,,(CBPV),,2,Common-term evaluation
+combinator,,,,2,Common-term
+Control-flow analysis,,,,2,
+expressiveness,,,,2,Common-term
+fold,,,,2,Common-term
+lattice,,,,2,Common-term
+Levy,,,,2,
+Liquid Haskell,,,,2,Tool programming-language
+nondeterminism,,,,2,
+nondeterministic,,,,2,
+Paterson,,,,2,
+pattern matching,,,,2,
+Peyton Jones,,,,2,Name
+polymorphic,,,,2,Common-term
+potential function,,,,2,
+Power,,,,2,
+recursion,,,,2,Common-term
+Vytiniotis,,,,2,
+well-typed,,,,2,Common-term
+Why,,,,2,
+ANF,,,,1,
+Boolean,,,,1,
+Call-by-Name,,(CBN),,1,Common-term evaluation
+category,,,,1,
+conclusion,,,,1,
+concurrent,,,,1,Common-term
+conjunction,,,,1,
+context,,,,1,Common-term
+continuation-passing style,,,,1,
+Danielsson,,,,1,
+datatype,,,,1,Common-term
+dependent,,,,1,Common-term
+dependently-typed,,,,1,types
+deriving,,,,1,
+discrete,,,,1,
+Elimination,,,,1,
+expression,,,,1,Common-term
+Felleisen,,,,1,
+Glasgow Haskell Compiler,,,,1,compiler tool
+Go,,,,1,
+Haskell@ICFP,,,,1,email
+higher-order function,,,,1,
+homomorphism,,,,1,Common-term
+induction,,,,1,Common-term
+lambda calculus,lam-duh calculus,,,1,theory
+linear,,,,1,Common-term
+metalanguage,,,,1,
+ML,,,,1,Programming-language
+modality,,,,1,Common-term
+model checking,,Automatic theorem proving,,1,technique tool
+monotonicity,,Mathematical property,,1,Common-term
+recurrence,,,,1,
+reflexivity,,,,1,Common-term
+Semi-lattice,,,,1,Common-term
+type-theory,,,,1,Common-term
+universe,,dependent types,,1,theory
+Vazou,,,,1,
+zip,,,,1,
+outD,,,,52,unclassified
+JKeval,,,,50,unclassified
+banker's,,,,38,unclassified
+JKdem,,,,36,unclassified
+Kdem,,,,29,unclassified
+JKapprox,,,,28,unclassified
+listA,,,,27,unclassified
+insertion_sort,,,,26,unclassified
+Keval,,,,23,unclassified
+insertion_sortD,,,,17,unclassified
+insertD,,,,15,unclassified
+Rocq,,,,14,unclassified
+ConsA,,,,13,unclassified
+zsD,,,,13,unclassified
+foldrdem,,,,11,unclassified
+selection_sort,,,,11,unclassified
+sizeX,,,,11,unclassified
+Tick.cost,,,,11,unclassified
+ysD,,,,11,unclassified
+Okasaki,,,,10,unclassified
+nback,,,,8,unclassified
+nfront,,,,8,unclassified
+Bjerner,,,,7,unclassified
+foldr,,,,7,unclassified
+foldreval,,,,7,unclassified
+Holmstrom,,,,7,unclassified
+JKcv,,,,7,unclassified
+Launchbury,,,,7,unclassified
+pushD,,,,7,unclassified
+Demand-driven,,,,6,unclassified
+Jforce,,,,6,unclassified
+MkQueue,,,,6,unclassified
+Okasaki's,,,,6,unclassified
+definedness,,,,5,unclassified
+Funct,,,,5,unclassified
+Kcv,,,,5,unclassified
+lA1,,,,5,unclassified
+qOutD,,,,5,unclassified
+QueueA,,,,5,unclassified
+Tarjan,,,,5,unclassified
+insertion_sortD_cost,,,,4,unclassified
+Jcons,,,,4,unclassified
+Jfoldr,,,,4,unclassified
+Jlist,,,,4,unclassified
+lA2,,,,4,unclassified
+Mevel,,,,4,unclassified
+minimality,,,,4,unclassified
+selectD,,,,4,unclassified
+takeD_cost,,,,4,unclassified
+thunkD,,,,4,unclassified
+compositionality,,,,3,unclassified
+Facchinetti,,,,3,unclassified
+frontD,,,,3,unclassified
+Gaher,,,,3,unclassified
+insertD_cost,,,,3,unclassified
+is_approx,,,,3,unclassified
+Jacques-Henri,,,,3,unclassified
+Jlazy,,,,3,unclassified
+Jlet,,,,3,unclassified
+Kapprox,,,,3,unclassified
+popD,,,,3,unclassified
+qInD,,,,3,unclassified
+queue's,,,,3,unclassified
+Rajani,,,,3,unclassified
+real-world,,,,3,unclassified
+RZero,,,,3,unclassified
+selection_sortD,,,,3,unclassified
+subterms,,,,3,unclassified
+take_insertion_sortD,,,,3,unclassified
+take_insertion_sortD_cost,,,,3,unclassified
+"a:b:bot,bot",,,,2,unclassified
+"a:bot,bot",,,,2,unclassified
+"a:nil,b:bot",,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+backD,,,,2,unclassified
+Besson,,,,2,unclassified
+Coinduction,,,,2,unclassified
+Cook-Levin,,,,2,unclassified
+cost-aware,,,,2,unclassified
+Dagstuhl,,,,2,unclassified
+demand's,,,,2,unclassified
+Dimitrios,,,,2,unclassified
+Dube,,,,2,unclassified
+Endre,,,,2,unclassified
+Ennals,,,,2,unclassified
+false,,,,2,unclassified
+first-order,,,,2,unclassified
+Foner,,,,2,unclassified
+hs-to-coq,,,,2,unclassified
+https,,,,2,unclassified
+inequational,,,,2,unclassified
+insertion_sortD_approx,,,,2,unclassified
+Kunze,,,,2,unclassified
+let-expression,,,,2,unclassified
+Liqid,,,,2,unclassified
+Makarov,,,,2,unclassified
+max(1,,,,2,unclassified
+MkQueueA,,,,2,unclassified
+Partain,,,,2,unclassified
+Pedrot,,,,2,unclassified
+pushD_cost,,,,2,unclassified
+selection_sortD_cost,,,,2,unclassified
+SIGPLAN-SIGACT,,,,2,unclassified
+SIGSOFT,,,,2,unclassified
+Smolka,,,,2,unclassified
+A-normal,,,,1,unclassified
+Aehlig,,,,1,unclassified
+al.'s,,,,1,unclassified
+analysis/evaluation,,,,1,unclassified
+Armael,,,,1,unclassified
+backA,,,,1,unclassified
+bidirection,,,,1,unclassified
+Bidirectionality,,,,1,unclassified
+Bizjak,,,,1,unclassified
+"bot,bot",,,,1,unclassified
+Breitner,,,,1,unclassified
+Bror,,,,1,unclassified
+Caires,,,,1,unclassified
+Call-by-need,,,,1,unclassified
+Cezary,,,,1,unclassified
+Claessen,,,,1,unclassified
+complexity.4,,,,1,unclassified
+Comput,,,,1,unclassified
+data-flow,,,,1,unclassified
+Deepak,,,,1,unclassified
+definitions--in,,,,1,unclassified
+demands--e.g,,,,1,unclassified
+Deusen,,,,1,unclassified
+do-notation,,,,1,unclassified
+elements--but,,,,1,unclassified
+ETAPS,,,,1,unclassified
+Evgeny,,,,1,unclassified
+first-in-first-out,,,,1,unclassified
+first-in-firstout,,,,1,unclassified
+formlize,,,,1,unclassified
+FPCA,,,,1,unclassified
+frontA,,,,1,unclassified
+fst,,,,1,unclassified
+full-spectrum,,,,1,unclassified
+Gaboardi,,,,1,unclassified
+Gallina's,,,,1,unclassified
+Gueneau,,,,1,unclassified
+Haskell's,,,,1,unclassified
+Hengchu,,,,1,unclassified
+hs-to-coqm,,,,1,unclassified
+if-expression,,,,1,unclassified
+immediately--it,,,,1,unclassified
+Informatik,,,,1,unclassified
+Interprocedural,,,,1,unclassified
+ITP,,,,1,unclassified
+JboolKapprox,,,,1,unclassified
+JboolKeval,,,,1,unclassified
+JKapproxeval,,,,1,unclassified
+JnilKeval,,,,1,unclassified
+Jtick,,,,1,unclassified
+Kaliszyk,,,,1,unclassified
+leb_count,,,,1,unclassified
+Leibniz-Zentrum,,,,1,unclassified
+LFP,,,,1,unclassified
+Licata,,,,1,unclassified
+LIPIcs,,,,1,unclassified
+Liron,,,,1,unclassified
+list's,,,,1,unclassified
+m(n,,,,1,unclassified
+Machine-checked,,,,1,unclassified
+max(2,,,,1,unclassified
+May-1,,,,1,unclassified
+Mechanising,,,,1,unclassified
+memoized,,,,1,unclassified
+Micromega,,,,1,unclassified
+mkQueueD,,,,1,unclassified
+nbackA,,,,1,unclassified
+nbackD,,,,1,unclassified
+Necula,,,,1,unclassified
+nfrontA,,,,1,unclassified
+Nil(line,,,,1,unclassified
+non-empty,,,,1,unclassified
+non-lazy,,,,1,unclassified
+non-persistent,,,,1,unclassified
+Non-Strict,,,,1,unclassified
+Nx,,,,1,unclassified
+NxJKapprox,,,,1,unclassified
+overestimation--the,,,,1,unclassified
+owner/author(s,,,,1,unclassified
+pairA,,,,1,unclassified
+pattern-matching,,,,1,unclassified
+Pierre-Marie,,,,1,unclassified
+Piskac,,,,1,unclassified
+popA,,,,1,unclassified
+prodA,,,,1,unclassified
+programming--computing,,,,1,unclassified
+Prover's,,,,1,unclassified
+queue--the,,,,1,unclassified
+Rizkallah,,,,1,unclassified
+Ruzica,,,,1,unclassified
+Sabry,,,,1,unclassified
+Sagiv,,,,1,unclassified
+selectD_cost,,,,1,unclassified
+Sergey,,,,1,unclassified
+shallowembedding-based,,,,1,unclassified
+Shiwei,,,,1,unclassified
+simplifications--we,,,,1,unclassified
+slow-down,,,,1,unclassified
+snd,,,,1,unclassified
+space-usage,,,,1,unclassified
+Spector-Zabusky,,,,1,unclassified
+STOC,,,,1,unclassified
+StrictCheck,,,,1,unclassified
+Tabareau,,,,1,unclassified
+tailX,,,,1,unclassified
+take--note,,,,1,unclassified
+take_insertion_sort,,,,1,unclassified
+take_selection_sort,,,,1,unclassified
+take_selection_sortD,,,,1,unclassified
+take_selection_sortD_cost,,,,1,unclassified
+take_selection_sortD_cost.3,,,,1,unclassified
+terminate.2,,,,1,unclassified
+Theorem-Proving,,,,1,unclassified
+Tick.val,,,,1,unclassified
+trace--a,,,,1,unclassified
+tricky-looking,,,,1,unclassified
+value.1,,,,1,unclassified
+Vineet,,,,1,unclassified
+VMCAI,,,,1,unclassified
+well_formed,,,,1,unclassified
+Weng,,,,1,unclassified
+Wiegley,,,,1,unclassified
+x:nat,,,,1,unclassified
+Yue,,,,1,unclassified

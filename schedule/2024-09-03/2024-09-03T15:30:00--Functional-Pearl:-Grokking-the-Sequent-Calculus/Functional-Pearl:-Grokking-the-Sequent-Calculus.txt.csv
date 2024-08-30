@@ -1,0 +1,368 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Paul Downen,,,,8,Author
+Simon Peyton Jones,,,,3,Author
+Klaus Ostermann,,,,2,Author
+Matthias Felleisen,,,,2,Author
+Andreas Abel,,,,1,Author
+Arnaud Spiwack,,,,1,Author
+Brigitte Pientka,,,,1,Author
+David Binder,,,,1,Author
+Guillaume Munch-Maccagnoni,,,,1,Author
+Ingo Skupin,,,,1,Author
+Naoki Kobayashi,,,,1,Author
+Philipp Schuster,,,,1,Author
+ Independent,,,,1,Institution
+K ,,“K axiom”,,65,
+sequent calculus ,,,,53,Common-term
+ACM,,Association for Computing Machinery,,44,
+calculus,,Used to describe a core simple programming language,,41,Common-term
+OOPSLA,oops-la,,,33,Conference
+producer,,,,32,
+context,,,,31,Common-term
+continuation,,,,22,
+consumer,,,,21,
+compiler,,,,17,Common-term
+cons,kon-ss,,,17,
+nil,,,,17,
+Call-by-Value,,(CBV),,15,Common-term evaluation
+duality,,,,15,
+constructor,,,,12,Common-term
+syntax,,,,12,Common-term
+deriving,,,,11,
+recursive,,,,11,Common-term
+syntactic,,,,11,Common-term
+destructor,,,,10,Common-term
+Call-by-Name,,(CBN),,9,Common-term evaluation
+call/cc,,Call with current continuation,,9,Common-term
+reduction,,,,9,Common-term
+theorem,,,,9,Common-term
+redexes,,,,8,Common-term
+Why,,,,8,
+abstractions,,,,7,
+clause,,,,7,
+expression,,,,7,Common-term
+functional programming,,,,7,
+Gentzen,,,,7,
+induction,,,,7,Common-term
+judgement,,dependent types,,7,theory
+lambda calculus,lam-duh calculus,,,7,theory
+Wadler,,,,7,Name
+abstraction,,,,6,Common-term
+category,,,,6,
+continuation-passing style,,,,6,
+Haskell,,,,6,Common-term programming-language
+CPS,C.P.S.,abbreviation for continuation-passing style ,,5,
+evaluator,,,,5,
+linear,,,,5,Common-term
+redex,,,,5,
+scoped,,,,5,Common-term
+SIGPLAN,,special interest group on programming languages,,5,
+well-typed,,,,5,Common-term
+conclusion,,,,4,
+instruction,,,,4,
+Java,,,,4,
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,4,
+match,,,,4,
+well-formed,,,,4,Common-term
+binder,like in bind,,,3,
+case expression,,,,3,
+CBN,,call-by-name,,3,Common-term evaluation
+CBV,,Call-by-Value,,3,Common-term evaluation
+copattern,,,,3,
+Felleisen,,,,3,
+ICFP,,Conference,,3,Common-term
+calculi,,,,2,
+Curry-Howard,,,,2,
+derivation,,,,2,
+effect handlers,,,,2,
+expressive,,,,2,Common-term
+forall,,quantifier,,2,Common-term logic
+Girard,,,,2,Name
+IO,Eye-oh,,,2,
+ML,,,,2,Programming-language
+object-oriented,,,,2,Common-term paradigm
+operational semantics,,,,2,
+Parigot,,,,2,Name
+pattern matching,,,,2,
+PLDI,,Conference,,2,Common-term
+polarity,,,,2,
+polymorphism,,,,2,Common-term
+POPL,pop-ill,Conference,,2,Common-term
+Power,,,,2,
+stack,,,,2,
+typeability,,,,2,Common-term
+typechecker,,,,2,Common-term
+Abel,,,,1,Name
+Agda,,Agda-style,,1,Common-term Programming-language
+Algol,,,,1,
+algorithmic,,,,1,Common-term
+coinductive,,,,1,Common-term
+compiled,,,,1,
+conjunction,,,,1,
+Curry-Howard correspondence,,,,1,Common-term
+Dependent types,,,,1,types
+derive,,,,1,
+desugar,,,,1,Common-term
+divergence,,,,1,Common-term
+Elimination,,,,1,
+formalization,,,,1,Common-term
+Hindley-Milner type inference,,,,1,
+integer,,,,1,Common-term
+JavaScript,,,,1,Common-term programming-language
+linear types,,,,1,Common-term
+matching,,“pattern matching”,,1,Common-term
+OCaml,,,,1,Common-term programming-language
+register,,,,1,
+reified,,,,1,
+Rust,,,,1,Common-term programming-language
+Scala,,,,1,Common-term programming-language
+stuck term,,,,1,
+symbolic,,,,1,
+zip,,,,1,
+cnt,,,,69,unclassified
+codata,,,,40,unclassified
+cocase,,,,35,unclassified
+ifz,,,,23,unclassified
+snd,,,,23,unclassified
+toplevel,,,,20,unclassified
+fst,,,,19,unclassified
+Grokking,,,,17,unclassified
+Core.Covar,,,,16,unclassified
+JK,,,,16,unclassified
+args,,,,15,unclassified
+Core.Cut,,,,14,unclassified
+freshCovar,,,,14,unclassified
+Ariola,,,,12,unclassified
+Covar,,,,11,unclassified
+Core.Mu,,,,10,unclassified
+Curien,,,,10,unclassified
+Herbelin,,,,10,unclassified
+let-bindings,,,,10,unclassified
+destructee,,,,9,unclassified
+Downen,,,,8,unclassified
+cocases,,,,7,unclassified
+LPair,,,,7,unclassified
+covalues,,,,6,unclassified
+Ctor,,,,6,unclassified
+Dtor,,,,6,unclassified
+LPair(1,,,,6,unclassified
+newCut,,,,6,unclassified
+Pair(1,,,,6,unclassified
+BinOp,,,,5,unclassified
+Duality.Syntax,,,,5,unclassified
+rhss,,,,5,unclassified
+swap_lazy,,,,5,unclassified
+typecheck,,,,5,unclassified
+Case-PaiR,,,,4,unclassified
+compileDef,,,,4,unclassified
+ifz(2,,,,4,unclassified
+Landin,,,,4,unclassified
+newD,,,,4,unclassified
+prodargs,,,,4,unclassified
+Wf-Cons,,,,4,unclassified
+case-of-case,,,,3,unclassified
+compilePattern,,,,3,unclassified
+compileProg,,,,3,unclassified
+Core.Def,,,,3,unclassified
+Core.MkPattern,,,,3,unclassified
+Core.Syntax,,,,3,unclassified
+Dagstuhl,,,,3,unclassified
+DL.Def,,,,3,unclassified
+DL.MkClause,,,,3,unclassified
+goto(0,,,,3,unclassified
+ifz(0,,,,3,unclassified
+ifz(J,,,,3,unclassified
+let/cc,,,,3,unclassified
+sequent-calculus,,,,3,unclassified
+VaR2,,,,3,unclassified
+Wf-Empty,,,,3,unclassified
+ap(cocase,,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+Brachthauser,,,,2,unclassified
+Case-List,,,,2,unclassified
+Core.Cocase,,,,2,unclassified
+Core.Destructor,,,,2,unclassified
+Core.Fun,,,,2,unclassified
+Core.Substitution,,,,2,unclassified
+ctargs,,,,2,unclassified
+DL.Ap,,,,2,unclassified
+DL.Dtor,,,,2,unclassified
+DL.Fun,,,,2,unclassified
+EACSL,,,,2,unclassified
+fac(0,,,,2,unclassified
+Hagino,,,,2,unclassified
+Informatik,,,,2,unclassified
+Inr,,,,2,unclassified
+J-K,,,,2,unclassified
+Jlabel,,,,2,unclassified
+Landin's,,,,2,unclassified
+Leibniz-Zentrum,,,,2,unclassified
+let-binding,,,,2,unclassified
+LIPIcs,,,,2,unclassified
+logische,,,,2,unclassified
+Mathematische,,,,2,unclassified
+Miquey,,,,2,unclassified
+MkProg,,,,2,unclassified
+Negri,,,,2,unclassified
+newtype,,,,2,unclassified
+North-Holland,,,,2,unclassified
+ptFun,,,,2,unclassified
+Schlieen,,,,2,unclassified
+Schwichtenberg,,,,2,unclassified
+set(3,,,,2,unclassified
+set(4,,,,2,unclassified
+short-circuits,,,,2,unclassified
+SIGPLAN-SIGACT,,,,2,unclassified
+Spiwack,,,,2,unclassified
+Troelstra,,,,2,unclassified
+Tup(2,,,,2,unclassified
+typechecked,,,,2,unclassified
+uber,,,,2,unclassified
+Untersuchungen,,,,2,unclassified
+Urzyczyn,,,,2,unclassified
+whiteboard,,,,2,unclassified
+Zeilberger,,,,2,unclassified
+Zeitschrift,,,,2,unclassified
+Achim,,,,1,unclassified
+adress,,,,1,unclassified
+adressed,,,,1,unclassified
+al.'s,,,,1,unclassified
+ap(J,,,,1,unclassified
+Becasue,,,,1,unclassified
+Beightol,,,,1,unclassified
+boundary/break1,,,,1,unclassified
+calculus-based,,,,1,unclassified
+capture-avoiding,,,,1,unclassified
+cargs,,,,1,unclassified
+case-ofcase,,,,1,unclassified
+Cc-StR,,,,1,unclassified
+Church's,,,,1,unclassified
+Cocase-Fun,,,,1,unclassified
+Cocase-LPaiR,,,,1,unclassified
+Cocase-StReam,,,,1,unclassified
+Codatatypes,,,,1,unclassified
+Commun,,,,1,unclassified
+Comput,,,,1,unclassified
+constraint-based,,,,1,unclassified
+Copatterns,,,,1,unclassified
+Core.Case,,,,1,unclassified
+Core.Constructor,,,,1,unclassified
+Core.Eval,,,,1,unclassified
+Core.Focusing,,,,1,unclassified
+Core.IfZ,,,,1,unclassified
+Core.Lit,,,,1,unclassified
+Core.MkProg,,,,1,unclassified
+Core.MuTilde,,,,1,unclassified
+Core.Op,,,,1,unclassified
+Core.patcv,,,,1,unclassified
+Core.patst,,,,1,unclassified
+Core.Pattern,,,,1,unclassified
+Core.patv,,,,1,unclassified
+Core.Pretty,,,,1,unclassified
+Core.Producer,,,,1,unclassified
+Core.Prog,,,,1,unclassified
+Core.Var,,,,1,unclassified
+Core.xtor,,,,1,unclassified
+DesT,,,,1,unclassified
+DL.App,,,,1,unclassified
+DL.Case,,,,1,unclassified
+DL.Clause,,,,1,unclassified
+DL.Cocase,,,,1,unclassified
+DL.ConT,,,,1,unclassified
+DL.DesT,,,,1,unclassified
+DL.IfZ,,,,1,unclassified
+DL.Jump,,,,1,unclassified
+DL.Label,,,,1,unclassified
+DL.Lam,,,,1,unclassified
+DL.Let,,,,1,unclassified
+DL.Lit,,,,1,unclassified
+DL.MkProg,,,,1,unclassified
+DL.Op,,,,1,unclassified
+DL.Prog,,,,1,unclassified
+DL.Term,,,,1,unclassified
+DL.VarT,,,,1,unclassified
+Duality.Parser,,,,1,unclassified
+Duality.Types,,,,1,unclassified
+Eta-Laws,,,,1,unclassified
+excpetions,,,,1,unclassified
+expression-based,,,,1,unclassified
+expression-oriented,,,,1,unclassified
+expressionoriented,,,,1,unclassified
+f(F,,,,1,unclassified
+fac(1,,,,1,unclassified
+false,,,,1,unclassified
+Felleisen's,,,,1,unclassified
+Formulae-as-Type,,,,1,unclassified
+FSCD,,,,1,unclassified
+Fun-terms,,,,1,unclassified
+Ghica,,,,1,unclassified
+Giesl,,,,1,unclassified
+Gradel,,,,1,unclassified
+https,,,,1,unclassified
+ifz(1,,,,1,unclassified
+ifz(F,,,,1,unclassified
+influental,,,,1,unclassified
+J-operator,,,,1,unclassified
+Jcall/cc,,,,1,unclassified
+Jcase,,,,1,unclassified
+Jcocase,,,,1,unclassified
+Jdef,,,,1,unclassified
+Jean-Yves,,,,1,unclassified
+Jgoto,,,,1,unclassified
+Jifz,,,,1,unclassified
+Jlet,,,,1,unclassified
+Jlet/cc,,,,1,unclassified
+JSR,,,,1,unclassified
+K|case,,,,1,unclassified
+label/goto,,,,1,unclassified
+Lambda-notation,,,,1,unclassified
+Liskov,,,,1,unclassified
+MkClause,,,,1,unclassified
+MkPattern,,,,1,unclassified
+Multi-Discipline,,,,1,unclassified
+Munch-Maccagnoni,,,,1,unclassified
+MuTilde,,,,1,unclassified
+non-confluence,,,,1,unclassified
+non-exhaustive,,,,1,unclassified
+occured,,,,1,unclassified
+onFailure,,,,1,unclassified
+onSuccess,,,,1,unclassified
+Ostermann,,,,1,unclassified
+P-OK,,,,1,unclassified
+Par(1,,,,1,unclassified
+pargs,,,,1,unclassified
+passing-style,,,,1,unclassified
+patcv,,,,1,unclassified
+patst,,,,1,unclassified
+patv,,,,1,unclassified
+Pawe,,,,1,unclassified
+Pierre-Louis,,,,1,unclassified
+prettyprinter,,,,1,unclassified
+programming-language,,,,1,unclassified
+Realisability,,,,1,unclassified
+remFig,,,,1,unclassified
+retTy,,,,1,unclassified
+Salvaneschi,,,,1,unclassified
+sc-compiler.github.io,,,,1,unclassified
+Screenshot,,,,1,unclassified
+Setzer,,,,1,unclassified
+short-circuiting,,,,1,unclassified
+Sjerp,,,,1,unclassified
+Suberkrub,,,,1,unclassified
+subterm,,,,1,unclassified
+subterms,,,,1,unclassified
+Tatsuya,,,,1,unclassified
+Thibodeau,,,,1,unclassified
+third-argument,,,,1,unclassified
+Tup(1,,,,1,unclassified
+Tup(3,,,,1,unclassified
+type-acrobatics,,,,1,unclassified
+user-defined,,,,1,unclassified
+VaR1,,,,1,unclassified
+VarT,,,,1,unclassified
+Voronkov,,,,1,unclassified
+website,,,,1,unclassified
+WfEmpty,,,,1,unclassified
+xtor,,,,1,unclassified
+Yizhou,,,,1,unclassified
+Zenodo,,,,1,unclassified

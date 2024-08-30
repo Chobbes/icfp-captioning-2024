@@ -1,0 +1,405 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Nicolas Tabareau,nikola tabaro,,,9,Author
+Ronald Garcia,,,,5,Author
+Stephanie Weirich,,,,4,Author
+Chris Casinghino,,,,3,Author
+Amal Ahmed,,,,2,Author
+Conor McBride,,,,2,Author
+Edwin Brady,,,,2,Author
+Joseph Eremondi,,,,2,Author
+Kenji Maillard,ken-jee my-yar,,,2,Author
+Meven Lennon-Bertrand,May-van Lenon Bear-tran,,,2,Author
+Adam Chlipala,,,,1,Author
+Brent Yorgey,,,,1,Author
+Frank Pfenning,Frank “Fenning”,,,1,Author
+Giuseppe Castagna,,,,1,Author
+Jesper Cockx,,,,1,Author
+Leonardo de Moura,,,,1,Author
+Ranjit Jhala,,,,1,Author
+Robert Bruce Findler,,,,1,Author
+Steve Zdancewic,,,,1,Author
+University of Edinburgh,,,,1,Institution
+inductive,,,,205,Common-term
+precision,,Gradual typing,,83,theory
+cast,,Gradual typing,,63,theory
+nil,,,,62,
+semantics,,,,43,
+Elimination,,,,40,
+constructor,,,,39,Common-term
+reduction,,,,33,Common-term
+ACM,,Association for Computing Machinery,,24,
+graduality,,,,21,
+cons,kon-ss,,,19,
+GCIC,jee-see-ay-see,Gradual version of the Calculus of Inductive Constructions,,18,
+theorem,,,,18,Common-term
+dependent,,,,15,Common-term
+Siek ,,,,15,
+GRIP ,greep,,,14,
+induction,,,,14,Common-term
+CastCIC,kast-see-ay-see,cast calculus associated to GCIC,,13,
+dependently-typed,,,,13,types
+Coq,“Coq”,,,11,Common-term programming-language theorem-prover
+propositional equality,,,,11,Common-term
+subject reduction,,,,11,Common-term
+normalization,,computations,,10,theory
+Lennon-Bertrand ,,,,9,Name
+Maillard,,,,9,
+POPL,pop-ill,Conference,,9,Common-term
+reduction semantics,,,,9,
+Dependent types,,,,8,types
+monotone,,,,8,Common-term
+universe,,dependent types,,8,theory
+Wadler,,,,7,Name
+derivation,,,,6,
+fixpoint,,,,6,Common-term
+match,,,,6,
+runtime,,,,6,Common-term
+calculus,,Used to describe a core simple programming language,,5,Common-term
+Calculus of Inductive Constructions,,,,5,
+functional programming,,,,5,
+GDTL,,Gradual Dependently Typed Language,,5,
+gradual dependent types,,,,5,
+K ,,“K axiom”,,5,
+lemma,,,,5,Common-term
+telescope,,,,5,
+well-typed,,,,5,Common-term
+Ahmed,,,,4,Name
+context,,,,4,Common-term
+dynamic semantics,,,,4,
+effectful,,,,4,
+ICFP,,Conference,,4,Common-term
+metatheory,,,,4,Common-term
+Semantic,,,,4,Common-term
+SIGPLAN,,special interest group on programming languages,,4,
+Brady,,,,3,
+conservative extension,,,,3,
+decidable,,,,3,
+expressive,,,,3,Common-term
+gradual types,,,,3,
+instantiation,,,,3,
+monotonicity,,Mathematical property,,3,Common-term
+Prop,,,,3,
+recursion,,,,3,Common-term
+Stump,,,,3,
+syntax,,,,3,Common-term
+type-level,,,,3,Common-term
+abstraction,,,,2,Common-term
+Agda,,Agda-style,,2,Common-term Programming-language
+Call-by-Value,,(CBV),,2,Common-term evaluation
+congruence,,,,2,Common-term
+consistency,,Gradual typing,,2,theory
+Flanagan,,,,2,
+fold,,,,2,Common-term
+formalization,,,,2,Common-term
+Haskell,,,,2,Common-term programming-language
+higher-order,,,,2,Common-term
+Idris,,,,2,
+lambda calculus,lam-duh calculus,,,2,theory
+Lean,,,,2,
+metatheoretical,,,,2,Common-term
+PLDI,,Conference,,2,Common-term
+Power,,,,2,
+propositional,,,,2,Common-term
+recursive,,,,2,Common-term
+refinement types,,,,2,
+Swamy,,,,2,
+typechecking,,,,2,Common-term
+Xi,,,,2,
+A Reasonably Gradual Type Theory,,,,1,Title
+array,,,,1,Common-term
+Boolean,,,,1,
+Call-by-Name,,(CBN),,1,Common-term evaluation
+capability,,,,1,
+category,,,,1,
+Chalmers University of Technology,,,,1,Institute
+compile-time,,,,1,Common-term
+conclusion,,,,1,
+de Moura,,,,1,
+decomposition,,,,1,
+equational,,,,1,Common-term
+expression,,,,1,Common-term
+expressiveness,,,,1,Common-term
+Findler,,,,1,
+force,,,,1,Common-term evaluation
+generic,,,,1,
+gradually typed language,,,,1,
+heterogeneous,,,,1,
+Id,,,,1,
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,1,
+indexed families,,,,1,Common-term
+internal precision,,,,1,theory
+isomorphic,,,,1,Common-term
+J eliminator,,,,1,
+judgement,,dependent types,,1,theory
+Lean theorem prover,,,,1,
+Martin-Lof,,,Martin-Lôf,1,
+matching,,“pattern matching”,,1,Common-term
+McBride,,,,1,Name
+metatheoretic,,,,1,Common-term
+monotonic,,,,1,Common-term
+morphism,,,,1,Common-term
+predicative,,,,1,Common-term
+Proof-irrelevant,,,,1,Common-term
+Racket,racket,Racket programming language,,1,
+redex,,,,1,
+reflect,,,,1,
+Scheme,,,,1,Common-term programming-language
+simply-typed,,,,1,Common-term
+typechecker,,,,1,Common-term
+well-formedness,,,,1,Common-term
+Idxp,,,,41,unclassified
+errN,,,,19,unclassified
+self-precise,,,,19,unclassified
+Argc,,,,14,unclassified
+catchp,,,,13,unclassified
+FreeAcc,,,,13,unclassified
+Idx,,,,13,unclassified
+IndArgc,,,,13,unclassified
+arg_idxc,,,,12,unclassified
+inductives,,,,12,unclassified
+Tanter,,,,12,unclassified
+Accp,,,,11,unclassified
+ctr_idxc,,,,11,unclassified
+Pedrot,,,,11,unclassified
+errI,,,,9,unclassified
+conservativity,,,,8,unclassified
+elim,,,,8,unclassified
+Eremondi,,,,8,unclassified
+catchI,,,,7,unclassified
+underprecise,,,,7,unclassified
+Vfix,,,,7,unclassified
+Whnf,,,,7,unclassified
+equiprecise,,,,6,unclassified
+f_ty,,,,6,unclassified
+self-precision,,,,6,unclassified
+Tabareau,,,,6,unclassified
+ctr_idx,,,,5,unclassified
+GI-Ctor-Cast,,,,5,unclassified
+indargsc,,,,5,unclassified
+non-gradual,,,,5,unclassified
+vec,,,,5,unclassified
+ctors,,,,4,unclassified
+GI-Ctor,,,,4,unclassified
+metafunctions,,,,4,unclassified
+non-inductive,,,,4,unclassified
+Pierre-Marie,,,,4,unclassified
+See[ICFP,,,,4,unclassified
+SIGPLAN-SIGACT,,,,4,unclassified
+Springer-Verlag,,,,4,unclassified
+Bodik,,,,3,unclassified
+Dagand,,,,3,unclassified
+elimp,,,,3,unclassified
+getp,,,,3,unclassified
+GI-Catch-Ctor,,,,3,unclassified
+I-Elim-Ctor,,,,3,unclassified
+Interoperability,,,,3,unclassified
+Majumdar,,,,3,unclassified
+non-indexed,,,,3,unclassified
+precision-related,,,,3,unclassified
+Punk's,,,,3,unclassified
+Veq,,,,3,unclassified
+Accp2,,,,2,unclassified
+Branchc,,,,2,unclassified
+Caglayan,,,,2,unclassified
+Castagna,,,,2,unclassified
+Cimini,,,,2,unclassified
+counit,,,,2,unclassified
+cp1,,,,2,unclassified
+Embedding-Projection,,,,2,unclassified
+equiprecision,,,,2,unclassified
+err-I,,,,2,unclassified
+err-I--Ty,,,,2,unclassified
+errB,,,,2,unclassified
+errerr,,,,2,unclassified
+fixpoints,,,,2,unclassified
+Fordism,,,,2,unclassified
+GI-Catch,,,,2,unclassified
+GI-Catch-Err,,,,2,unclassified
+GI-Catch-Unk,,,,2,unclassified
+GI-Dec-Down,,,,2,unclassified
+GI-Dec-Up,,,,2,unclassified
+GI-Err,,,,2,unclassified
+GI-Err-Cast,,,,2,unclassified
+GI-Head-Err,,,,2,unclassified
+GI-Ty,,,,2,unclassified
+GI-Unk,,,,2,unclassified
+GI-Unk-Cast,,,,2,unclassified
+Gradualizing,,,,2,unclassified
+https,,,,2,unclassified
+I--Cong-Ty,,,,2,unclassified
+I--Ty,,,,2,unclassified
+I-Ctor,,,,2,unclassified
+I-Ty,,,,2,unclassified
+Idx?Param,,,,2,unclassified
+inequations,,,,2,unclassified
+k-th,,,,2,unclassified
+NoConf-c,,,,2,unclassified
+NoConf-I-Down-Ty,,,,2,unclassified
+NoConf-I-Up-Ty,,,,2,unclassified
+Norell,,,,2,unclassified
+Osera,,,,2,unclassified
+Ph.D,,,,2,unclassified
+PLPV,,,,2,unclassified
+Red-Cong,,,,2,unclassified
+two-one,,,,2,unclassified
+"V,cons",,,,2,unclassified
+"V,cons,1",,,,2,unclassified
+"V,nil",,,,2,unclassified
+Vitousek,,,,2,unclassified
+Walid,,,,2,unclassified
+0(nil,,,,1,unclassified
+Aart,,,,1,unclassified
+AccAcc,,,,1,unclassified
+ACM/IEEE,,,,1,unclassified
+ad-hoc,,,,1,unclassified
+Ahn,,,,1,unclassified
+Amarasinghe,,,,1,unclassified
+arg_idx,,,,1,unclassified
+"arg_idxc,2",,,,1,unclassified
+Argc2,,,,1,unclassified
+argument-less,,,,1,unclassified
+Aseem,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+auxilliary,,,,1,unclassified
+Avigad,,,,1,unclassified
+bcpierce/sf,,,,1,unclassified
+Beguelin,,,,1,unclassified
+Bhargavan,,,,1,unclassified
+Boyland,,,,1,unclassified
+Btrue,,,,1,unclassified
+Casinghino,,,,1,unclassified
+CastCIC's,,,,1,unclassified
+casts--to,,,,1,unclassified
+checks--usually,,,,1,unclassified
+Chlipala,,,,1,unclassified
+cons'ing,,,,1,unclassified
+Coquand,,,,1,unclassified
+cp2,,,,1,unclassified
+cs.PL,,,,1,unclassified
+ctorsV,,,,1,unclassified
+Dagstuhl-Leibniz-Zentrum,,,,1,unclassified
+Delignat-Lavaud,,,,1,unclassified
+dependentlyand,,,,1,unclassified
+dependentlytyped,,,,1,unclassified
+downcasting,,,,1,unclassified
+Eades,,,,1,unclassified
+elimination--namely,,,,1,unclassified
+eliminator's,,,,1,unclassified
+embeddingprojection,,,,1,unclassified
+eqiprecise,,,,1,unclassified
+Eqs,,,,1,unclassified
+equality[Martin-Lof,,,,1,unclassified
+err-min-ty,,,,1,unclassified
+errlength,,,,1,unclassified
+errlist,,,,1,unclassified
+"errlist,N",,,,1,unclassified
+errNN,,,,1,unclassified
+error-approximate,,,,1,unclassified
+Fehrmann,,,,1,unclassified
+Fordism1,,,,1,unclassified
+Fournet,,,,1,unclassified
+FreeAcc--cons,,,,1,unclassified
+FreeAcc--down,,,,1,unclassified
+FreeAcc--nil,,,,1,unclassified
+FreeAcc--ret,,,,1,unclassified
+FreeAcc--trans,,,,1,unclassified
+FreeAcc--up,,,,1,unclassified
+FreeAccoption,,,,1,unclassified
+FreeAccp,,,,1,unclassified
+fuer,,,,1,unclassified
+Gaboardi,,,,1,unclassified
+Gaetan,,,,1,unclassified
+Garrin,,,,1,unclassified
+getp2,,,,1,unclassified
+GIIT,,,,1,unclassified
+gradualization,,,,1,unclassified
+gradualize,,,,1,unclassified
+Gradualized,,,,1,unclassified
+gradually-typed,,,,1,unclassified
+Hongwei,,,,1,unclassified
+Hricu,,,,1,unclassified
+Hritcu,,,,1,unclassified
+I-Elim,,,,1,unclassified
+idFreeAcc,,,,1,unclassified
+Idxp1,,,,1,unclassified
+Idxp2,,,,1,unclassified
+IndArg,,,,1,unclassified
+"IndArgc,2",,,,1,unclassified
+"indargsV,cons",,,,1,unclassified
+"indargsV,nil",,,,1,unclassified
+inductive's,,,,1,unclassified
+Informatik,,,,1,unclassified
+inhabitants--the,,,,1,unclassified
+initiality,,,,1,unclassified
+interoperate,,,,1,unclassified
+is_err,,,,1,unclassified
+Karthikeyan,,,,1,unclassified
+Kohlweiss,,,,1,unclassified
+length-indexed,,,,1,unclassified
+LennonBertrand,,,,1,unclassified
+LICS,,,,1,unclassified
+LIPIcs,,,,1,unclassified
+Markulf,,,,1,unclassified
+Martin-Lof's,,,,1,unclassified
+max-ty,,,,1,unclassified
+McKinna,,,,1,unclassified
+Middeldorp,,,,1,unclassified
+multi-effects,,,,1,unclassified
+Nikhil,,,,1,unclassified
+nil=1,,,,1,unclassified
+NN,,,,1,unclassified
+non-empty,,,,1,unclassified
+non-monotone,,,,1,unclassified
+non-self-precise,,,,1,unclassified
+non-termination,,,,1,unclassified
+non-uniform,,,,1,unclassified
+notationally,,,,1,unclassified
+omiting,,,,1,unclassified
+Over-precise,,,,1,unclassified
+ParamV,,,,1,unclassified
+Pck,,,,1,unclassified
+Peter-Michael,,,,1,unclassified
+Pfenning,,,,1,unclassified
+Pierre-Evariste,,,,1,unclassified
+Pierre-Yves,,,,1,unclassified
+printf,,,,1,unclassified
+Proof-Irrelevance,,,,1,unclassified
+quasi-reflexive,,,,1,unclassified
+quasi-reflexivity,,,,1,unclassified
+rAcc,,,,1,unclassified
+Rastislav,,,,1,unclassified
+Rastogi,,,,1,unclassified
+Raumer,,,,1,unclassified
+relativised,,,,1,unclassified
+run-time,,,,1,unclassified
+Rupak,,,,1,unclassified
+rxg/agt-erratum.pdf,,,,1,unclassified
+sAcc,,,,1,unclassified
+selfprecision,,,,1,unclassified
+sFreeAcc,,,,1,unclassified
+SMT-decidable,,,,1,unclassified
+SNAPL,,,,1,unclassified
+Soonho,,,,1,unclassified
+Sozeau,,,,1,unclassified
+structure-preserving,,,,1,unclassified
+t:Ipi,,,,1,unclassified
+target's,,,,1,unclassified
+Thessaloniki,,,,1,unclassified
+Tobin-Hochstadt,,,,1,unclassified
+top-most,,,,1,unclassified
+Trellys,,,,1,unclassified
+type--there,,,,1,unclassified
+Type-valued,,,,1,unclassified
+types--free,,,,1,unclassified
+Ulf,,,,1,unclassified
+Under-precise,,,,1,unclassified
+unk,,,,1,unclassified
+up-casting,,,,1,unclassified
+up-to,,,,1,unclassified
+upper-decomposition,,,,1,unclassified
+weak-head,,,,1,unclassified
+well-behavedness,,,,1,unclassified
+Xinming,,,,1,unclassified
+Yitzhak,,,,1,unclassified
+"zero,Acc",,,,1,unclassified
+Zinzindohoue,,,,1,unclassified

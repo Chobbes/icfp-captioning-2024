@@ -1,0 +1,260 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Christos Dimoulas,,,,5,Author
+Matthias Felleisen,,,,5,Author
+Robert Bruce Findler,,,,5,Author
+Frank Pfenning,Frank “Fenning”,,,2,Author
+Simon Fowler,,,,2,Author
+Arnaud Spiwack,,,,1,Author
+Gabriele Keller,,,,1,Author
+Jacques Garrigue,,,,1,Author
+Laura Bocchi,,,,1,Author
+Olivier Danvy,,,,1,researcher
+Sam Lindley,,,,1,Author
+Zhenjiang Hu,,,,1,Author
+ Independent,,,,2,Institution
+expression,,,,54,Common-term
+semantics,,,,53,
+stack,,,,39,
+higher-order,,,,24,Common-term
+ACM,,Association for Computing Machinery,,23,
+dependent,,,,17,Common-term
+theorem,,,,17,Common-term
+well-formed,,,,16,Common-term
+reduction,,,,14,Common-term
+calculus,,Used to describe a core simple programming language,,13,Common-term
+sequential ,,,,13,
+session types,,,,13,
+syntax,,,,12,Common-term
+context,,,,10,Common-term
+well-formedness,,,,10,Common-term
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,9,
+callee,,,,8,Common-term
+Boolean,,,,7,
+match,,,,6,
+concurrent,,,,5,Common-term
+ICFP,,Conference,,5,Common-term
+nil,,,,5,
+recursive,,,,5,Common-term
+SIGPLAN,,special interest group on programming languages,,5,
+cons,kon-ss,,,4,
+functional programming,,,,4,
+matching,,“pattern matching”,,4,Common-term
+category,,,,3,
+concurrency,,,,3,Common-term
+Honda,,,,3,
+lemma,,,,3,Common-term
+object-oriented,,,,3,Common-term paradigm
+POPL,pop-ill,Conference,,3,Common-term
+congruence,,,,2,Common-term
+expressive,,,,2,Common-term
+Flanagan,,,,2,
+Go,,,,2,
+induction,,,,2,Common-term
+integer,,,,2,Common-term
+reduction relation,,,,2,
+Scheme,,,,2,Common-term programming-language
+calculi,,,,1,
+closures,,,,1,Common-term
+conclusion,,,,1,
+constructor,,,,1,Common-term
+continuation-passing style,,,,1,
+decidable,,,,1,
+derive,,,,1,
+Findler,,,,1,
+Gay ,,,,1,Name
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,1,
+mechanization,,,,1,
+nondeterministic,,,,1,
+OOPSLA,oops-la,,,1,Conference
+permissions@acm.org,,,,1,email
+Peyton Jones,,,,1,Name
+Pi, pie,dependent types,,1,theory
+Racket,racket,Racket programming language,,1,
+reduction semantics,,,,1,
+runtime,,,,1,Common-term
+typechecking,,,,1,Common-term
+Wadler,,,,1,Name
+message/c,,,,23,unclassified
+monc,,,,19,unclassified
+Blame-correct,,,,15,unclassified
+Recursively-Structured,,,,15,unclassified
+ensures/c,,,,14,unclassified
+multi-media,,,,11,unclassified
+design-by-contract,,,,10,unclassified
+request-tag,,,,10,unclassified
+behavior/c,,,,9,unclassified
+E-SendSelf,,,,9,unclassified
+map-positive,,,,9,unclassified
+request-contracts,,,,9,unclassified
+specific-recipient,,,,9,unclassified
+any-recipient,,,,8,unclassified
+E-Send,,,,8,unclassified
+MonFun,,,,8,unclassified
+only/c,,,,8,unclassified
+request-reply,,,,8,unclassified
+Dimoulas,,,,7,unclassified
+M-Send,,,,7,unclassified
+request-reply/c,,,,7,unclassified
+false,,,,6,unclassified
+reply-contract,,,,6,unclassified
+reply-tag,,,,6,unclassified
+reply-to,,,,6,unclassified
+Scholliers,,,,6,unclassified
+four-tuple,,,,5,unclassified
+Actor-global,,,,4,unclassified
+actor-local,,,,4,unclassified
+bi-directional,,,,4,unclassified
+Congr,,,,4,unclassified
+Gommerstadt,,,,4,unclassified
+meta-function,,,,4,unclassified
+Nobuko,,,,4,unclassified
+SIGPLAN-SIGACT,,,,4,unclassified
+unconstrained/c,,,,4,unclassified
+Yoshida,,,,4,unclassified
+actor-based,,,,3,unclassified
+AmbientTalk,,,,3,unclassified
+Comput,,,,3,unclassified
+dosend,,,,3,unclassified
+Kohei,,,,3,unclassified
+listof,,,,3,unclassified
+meta-functions,,,,3,unclassified
+Meuter,,,,3,unclassified
+MonFlat,,,,3,unclassified
+run-time,,,,3,unclassified
+Tobin-Hochstadt,,,,3,unclassified
+ActorRef,,,,2,unclassified
+AnyRecipient,,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+client-behavior,,,,2,unclassified
+correlation-id,,,,2,unclassified
+Dagstuhl,,,,2,unclassified
+double-actor,,,,2,unclassified
+double/c,,,,2,unclassified
+Flatt,,,,2,unclassified
+four-tuples,,,,2,unclassified
+Harnie,,,,2,unclassified
+Jia,,,,2,unclassified
+Limin,,,,2,unclassified
+M-Become,,,,2,unclassified
+M-ESend,,,,2,unclassified
+M-ESendSelf,,,,2,unclassified
+Melgratti,,,,2,unclassified
+non-trivial,,,,2,unclassified
+post-conditions,,,,2,unclassified
+receiver's,,,,2,unclassified
+reply-contracts,,,,2,unclassified
+same-as,,,,2,unclassified
+Self-Send,,,,2,unclassified
+service-behavior,,,,2,unclassified
+Session-typed,,,,2,unclassified
+SpecificRecipient1,,,,2,unclassified
+SpecificRecipient2,,,,2,unclassified
+user-specified,,,,2,unclassified
+Waye,,,,2,unclassified
+31-September,,,,1,unclassified
+actor-eq,,,,1,unclassified
+actor-specific,,,,1,unclassified
+actorlocal,,,,1,unclassified
+Andoni,,,,1,unclassified
+anonymized,,,,1,unclassified
+answer-value,,,,1,unclassified
+ASPLOS,,,,1,unclassified
+behavior(1,,,,1,unclassified
+bi-directionality,,,,1,unclassified
+BlameLabel,,,,1,unclassified
+Bodik,,,,1,unclassified
+Boix,,,,1,unclassified
+call-return,,,,1,unclassified
+Chakravarty,,,,1,unclassified
+checktrace,,,,1,unclassified
+Commun,,,,1,unclassified
+correlation-request-reply/c,,,,1,unclassified
+CPCF,,,,1,unclassified
+Cutsem,,,,1,unclassified
+Dardha,,,,1,unclassified
+Datacenter,,,,1,unclassified
+define/contract,,,,1,unclassified
+do-work,,,,1,unclassified
+E-Receive,,,,1,unclassified
+each-other,,,,1,unclassified
+Eastlund,,,,1,unclassified
+ECOOP,,,,1,unclassified
+Eijiro,,,,1,unclassified
+ESend,,,,1,unclassified
+ESend-Self,,,,1,unclassified
+ETAPS,,,,1,unclassified
+fault-injected,,,,1,unclassified
+first-order,,,,1,unclassified
+forward-flow/c,,,,1,unclassified
+Freund,,,,1,unclassified
+Gastin,,,,1,unclassified
+Gunawi,,,,1,unclassified
+Hamdaoui,,,,1,unclassified
+Haryadi,,,,1,unclassified
+Hernan,,,,1,unclassified
+implemenServices,,,,1,unclassified
+Informatik,,,,1,unclassified
+Laroussinie,,,,1,unclassified
+Leesatapornwongsa,,,,1,unclassified
+left-to-right,,,,1,unclassified
+Leibniz-Zentrum,,,,1,unclassified
+LIPIcs,,,,1,unclassified
+Lombide,,,,1,unclassified
+Lukman,,,,1,unclassified
+M-Congruence,,,,1,unclassified
+M-Spawn,,,,1,unclassified
+Majumdar,,,,1,unclassified
+memory-isolated,,,,1,unclassified
+metafunction,,,,1,unclassified
+Mooly,,,,1,unclassified
+Multi-)party,,,,1,unclassified
+Neykova,,,,1,unclassified
+non-deterministically,,,,1,unclassified
+non-positive,,,,1,unclassified
+Ornela,,,,1,unclassified
+Padovani,,,,1,unclassified
+peer-to-peer,,,,1,unclassified
+pick-service,,,,1,unclassified
+plt-redex,,,,1,unclassified
+pre-condition,,,,1,unclassified
+pre-conditions,,,,1,unclassified
+previouslydefined,,,,1,unclassified
+primarly,,,,1,unclassified
+procedure:number,,,,1,unclassified
+protetected,,,,1,unclassified
+provenance-based,,,,1,unclassified
+Rafkind,,,,1,unclassified
+Rastislav,,,,1,unclassified
+Receive-side,,,,1,unclassified
+receiver-related,,,,1,unclassified
+router-behavior,,,,1,unclassified
+router-service,,,,1,unclassified
+Rumyana,,,,1,unclassified
+Rupak,,,,1,unclassified
+Sagiv,,,,1,unclassified
+Seidl,,,,1,unclassified
+semruleESend,,,,1,unclassified
+Send-site,,,,1,unclassified
+Sender-side,,,,1,unclassified
+sent/received,,,,1,unclassified
+seperately,,,,1,unclassified
+server-side,,,,1,unclassified
+session-types,,,,1,unclassified
+Softw,,,,1,unclassified
+spawn/c,,,,1,unclassified
+specific-recipient/c,,,,1,unclassified
+stackp,,,,1,unclassified
+Sumii,,,,1,unclassified
+suports,,,,1,unclassified
+Tanakorn,,,,1,unclassified
+Tanter,,,,1,unclassified
+tation,,,,1,unclassified
+TaxDC,,,,1,unclassified
+Tuosto,,,,1,unclassified
+understand2,,,,1,unclassified
+unexpexted,,,,1,unclassified
+visualised,,,,1,unclassified
+well-assertness,,,,1,unclassified
+wellformed,,,,1,unclassified
+Yuanyuan,,,,1,unclassified
+Zhou,,,,1,unclassified

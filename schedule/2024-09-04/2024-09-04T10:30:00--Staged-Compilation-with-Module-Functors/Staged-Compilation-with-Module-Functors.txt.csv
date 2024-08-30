@@ -1,0 +1,395 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Jeremy Yallop,,,,7,Author
+Jacques Carette,,,,3,Author
+Leo White,,,,3,Author
+Andreas Rossberg,,,,2,Author
+Anil Madhavapeddy,,,,2,Author
+Martin Odersky,,,,2,Author
+Ningning Xie,,,,2,Author
+Amr Sabry,,,,1,Author
+Derek Dreyer,,,,1,Author
+Frank Pfenning,Frank “Fenning”,,,1,Author
+Gabriel Radanne,,,,1,Author
+Jacques Garrigue,,,,1,Author
+Martin Elsman,,,,1,Author
+Matthias Felleisen,,,,1,Author
+Meng Wang,,,,1,Author
+Nicolas Wu,,,,1,Author
+Ohad Kammar,,,,1,Author
+Olivier Danvy,,,,1,researcher
+Olivier Nicole,,,,1,Author
+Peter Thiemann,,,,1,Author
+Simon Peyton Jones,,,,1,Author
+Stefan Wehr,,,,1,Author
+Carnegie Mellon University,,CMU,,1,Institution
+functor,,,,111,Common-term
+compile-time,,,,76,Common-term
+macro,,,,49,
+ACM,,Association for Computing Machinery,,40,
+calculus,,Used to describe a core simple programming language,,36,Common-term
+staging,,,,32,
+context,,,,31,Common-term
+expression,,,,26,Common-term
+OCaml,,,,23,Common-term programming-language
+syntax,,,,18,Common-term
+semantics,,,,17,
+compiler,,,,16,Common-term
+SIGPLAN,,special interest group on programming languages,,16,
+heap,,,,14,
+monoid,,,,14,Common-term
+Power,,,,14,
+ML,,,,13,Programming-language
+abstraction,,,,12,Common-term
+compiled,,,,12,
+theorem,,,,12,Common-term
+type-check,,,,12,Common-term
+ref,,,,11,
+recursive,,,,9,Common-term
+ICFP,,Conference,,8,Common-term
+Kiselyov,,,,8,
+operational semantics,,,,8,
+subtyping,,,,8,Common-term
+well-typed,,,,8,Common-term
+functional programming,,,,5,
+Haskell,,,,5,Common-term programming-language
+modular,,,,5,Common-term
+Scheme,,,,5,Common-term programming-language
+Template Haskell ,,,,5,tool
+type-checked,,,,5,Common-term
+instantiation,,,,4,
+integer,,,,4,Common-term
+Shao,,,,4,
+syntactic,,,,4,Common-term
+closures,,,,3,Common-term
+DSL,,,,3,
+dynamic semantics,,,,3,
+generic,,,,3,
+Go,,,,3,
+Id,,,,3,
+Leroy,,,,3,Name
+MetaOCaml,,,,3,
+runtime,,,,3,Common-term
+Scala,,,,3,Common-term programming-language
+algebras,,,,2,
+Appel,,,,2,
+composable,,,,2,
+dependent,,,,2,Common-term
+erasure,,type erasure,,2,Common-term
+lemma,,,,2,Common-term
+MetaML,,,,2,
+metaprogramming,,,,2,Common-term
+metatheory,,,,2,Common-term
+MLton,I assume “milton”,,,2,
+PLDI,,Conference,,2,Common-term
+System F,,,,2,Common-term
+Trigger,,,,2,
+applicative,,,,1,Common-term
+automata,,,,1,Common-term
+Brady,,,,1,
+closure,,,,1,Common-term
+conclusion,,,,1,
+constructor,,,,1,Common-term
+datatype,,,,1,Common-term
+Elimination,,,,1,
+expressive,,,,1,Common-term
+fixpoint,,,,1,Common-term
+higher-order,,,,1,Common-term
+judgement,,dependent types,,1,theory
+K ,,“K axiom”,,1,
+lambda calculus,lam-duh calculus,,,1,theory
+macro system,,,,1,Common-term
+meta-programming,,,,1,
+ML-style,,Similar to ML programming language,,1,
+Moggi,,,,1,Name
+permissions@acm.org,,,,1,email
+Plotkin,,Name,,1,name
+POPL,pop-ill,Conference,,1,Common-term
+precision,,Gradual typing,,1,theory
+Racket,racket,Racket programming language,,1,
+reflection,,,,1,Common-term
+relational,,,,1,
+Siek ,,,,1,
+SML/NJ,,,,1,
+Staged Compilation with Two-Level Type Theory,,,,1,Title
+Stirling,,,,1,
+subject reduction,,,,1,Common-term
+toolchain,,,,1,
+type-theoretic,,,,1,Common-term
+unification,,,,1,
+universe,,dependent types,,1,theory
+well-formedness,,,,1,Common-term
+MacoCaml,,,,28,unclassified
+run-time,,,,24,unclassified
+mpower,,,,17,unclassified
+expr,,,,15,unclassified
+fpower,,,,14,unclassified
+FInt,,,,10,unclassified
+Int_d,,,,10,unclassified
+mul,,,,10,unclassified
+power5,,,,10,unclassified
+Kameyama,,,,9,unclassified
+M.mul,,,,9,unclassified
+M.one,,,,9,unclassified
+quotation-based,,,,9,unclassified
+rpower,,,,9,unclassified
+Int_s,,,,8,unclassified
+Multi-Stage,,,,8,unclassified
+level-annotated,,,,7,unclassified
+instantiation-based,,,,6,unclassified
+Yukiyoshi,,,,6,unclassified
+GPCE,,,,5,unclassified
+inlined,,,,5,unclassified
+inlining,,,,5,unclassified
+M.show,,,,5,unclassified
+PEPM,,,,5,unclassified
+showOne,,,,5,unclassified
+side-effects,,,,5,unclassified
+string_of_int,,,,5,unclassified
+Walid,,,,5,unclassified
+e-m-app,,,,4,unclassified
+e-st-def,,,,4,unclassified
+e-st-macro,,,,4,unclassified
+F(Int,,,,4,unclassified
+Flatt,,,,4,unclassified
+Rompf,,,,4,unclassified
+tagless,,,,4,unclassified
+type-checks,,,,4,unclassified
+Type-Safe,,,,4,unclassified
+Anon_d,,,,3,unclassified
+c-loc,,,,3,unclassified
+Calcagno,,,,3,unclassified
+Carette,,,,3,unclassified
+cs-m-functor,,,,3,unclassified
+dot-separated,,,,3,unclassified
+e-app-functor,,,,3,unclassified
+e-codeGen,,,,3,unclassified
+e-qote,,,,3,unclassified
+F(Int_s,,,,3,unclassified
+F(Int_s)(Int_d,,,,3,unclassified
+F(M,,,,3,unclassified
+FPrintShow,,,,3,unclassified
+Funct,,,,3,unclassified
+Int_d.show,,,,3,unclassified
+M.m,,,,3,unclassified
+MacroML,,,,3,unclassified
+ML-family,,,,3,unclassified
+N.id,,,,3,unclassified
+ppx,,,,3,unclassified
+print_endline,,,,3,unclassified
+Rossberg,,,,3,unclassified
+SIGPLAN-SIGACT,,,,3,unclassified
+Stucki,,,,3,unclassified
+Tiark,,,,3,unclassified
+Yallop,,,,3,unclassified
+1ML,,,,2,unclassified
+Anon_s,,,,2,unclassified
+Burmako,,,,2,unclassified
+c-qote,,,,2,unclassified
+c-splice,,,,2,unclassified
+Camlp5,,,,2,unclassified
+Chakravarty,,,,2,unclassified
+code-generating,,,,2,unclassified
+codeGen,,,,2,unclassified
+cs-m-local,,,,2,unclassified
+DSLs,,,,2,unclassified
+e-app-mvar1,,,,2,unclassified
+e-app-mvar2,,,,2,unclassified
+e-m-functor,,,,2,unclassified
+e-m-mvar,,,,2,unclassified
+e-m-pmvar,,,,2,unclassified
+e-m-struct,,,,2,unclassified
+e-splice,,,,2,unclassified
+e-st-empty,,,,2,unclassified
+e-st-module,,,,2,unclassified
+ev-qote,,,,2,unclassified
+ev-splice,,,,2,unclassified
+ev-spliceCode,,,,2,unclassified
+FInt_d,,,,2,unclassified
+FInt_s,,,,2,unclassified
+FLINT/ML,,,,2,unclassified
+FPrintShow.showOne,,,,2,unclassified
+Ganz,,,,2,unclassified
+Gurtovoy,,,,2,unclassified
+implicits,,,,2,unclassified
+Int_s.one,,,,2,unclassified
+Kohlbecker,,,,2,unclassified
+m-app,,,,2,unclassified
+m-functor,,,,2,unclassified
+m-pmvar,,,,2,unclassified
+m-struct,,,,2,unclassified
+M.t,,,,2,unclassified
+MacoCaml's,,,,2,unclassified
+MacQueen,,,,2,unclassified
+MetaML-family,,,,2,unclassified
+qote,,,,2,unclassified
+Rauglaudre,,,,2,unclassified
+RInt,,,,2,unclassified
+RInt.rpower,,,,2,unclassified
+show_power5,,,,2,unclassified
+specialization-time,,,,2,unclassified
+st-def,,,,2,unclassified
+st-macro,,,,2,unclassified
+Takahisa,,,,2,unclassified
+Tokuda,,,,2,unclassified
+Yuhi,,,,2,unclassified
+Zhong,,,,2,unclassified
+1We,,,,1,unclassified
+5When,,,,1,unclassified
+Addison-Wesley,,,,1,unclassified
+Aggelos,,,,1,unclassified
+aggressively-optimising,,,,1,unclassified
+Aleksey,,,,1,unclassified
+alpha-conversion,,,,1,unclassified
+alpha-renaming,,,,1,unclassified
+Anon_d.show,,,,1,unclassified
+APLAS,,,,1,unclassified
+application8,,,,1,unclassified
+application:7,,,,1,unclassified
+ASTs,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+Automatique,,,,1,unclassified
+Benaissa,,,,1,unclassified
+Biboudis,,,,1,unclassified
+binding-aware,,,,1,unclassified
+C]F,,,,1,unclassified
+C]M,,,,1,unclassified
+cd-m-path,,,,1,unclassified
+cd-m-struct,,,,1,unclassified
+cd-m-var,,,,1,unclassified
+cd-st-def,,,,1,unclassified
+cd-st-empty,,,,1,unclassified
+cd-st-module,,,,1,unclassified
+Chung-chieh,,,,1,unclassified
+closely-related,,,,1,unclassified
+Closure_1,,,,1,unclassified
+Codish,,,,1,unclassified
+Comput,,,,1,unclassified
+cs-m-path,,,,1,unclassified
+cs-m-struct,,,,1,unclassified
+cs-m-var,,,,1,unclassified
+cs-st-empty,,,,1,unclassified
+cs-st-macro,,,,1,unclassified
+cs-st-module,,,,1,unclassified
+ctypes,,,,1,unclassified
+defunctorization,,,,1,unclassified
+domain-specific,,,,1,unclassified
+Duba,,,,1,unclassified
+eGe,,,,1,unclassified
+Eijiro,,,,1,unclassified
+Elsheikh,,,,1,unclassified
+Elsman,,,,1,unclassified
+env-c-empty,,,,1,unclassified
+env-c-macro,,,,1,unclassified
+env-c-module,,,,1,unclassified
+env-r-empty,,,,1,unclassified
+env-r-kvar,,,,1,unclassified
+env-r-module,,,,1,unclassified
+EPTCS,,,,1,unclassified
+Erwig,,,,1,unclassified
+est-module,,,,1,unclassified
+ev-kvar,,,,1,unclassified
+ev-m-mvar,,,,1,unclassified
+ev-m-pmvar,,,,1,unclassified
+ev-m-struct,,,,1,unclassified
+ev-macro,,,,1,unclassified
+ev-pkvar,,,,1,unclassified
+ev-pmacro,,,,1,unclassified
+ev-ref,,,,1,unclassified
+ev-st-def1,,,,1,unclassified
+ev-st-def2,,,,1,unclassified
+ev-st-module1,,,,1,unclassified
+ev-st-module2,,,,1,unclassified
+exprs,,,,1,unclassified
+F'(Int_d,,,,1,unclassified
+F(Anon_s)(Anon_d,,,,1,unclassified
+F(P,,,,1,unclassified
+F(struct,,,,1,unclassified
+F-ing,,,,1,unclassified
+Family/OCaml,,,,1,unclassified
+feature-rich,,,,1,unclassified
+Ferrante,,,,1,unclassified
+Gazagnaire,,,,1,unclassified
+generation.4,,,,1,unclassified
+gensym,,,,1,unclassified
+Glehn,,,,1,unclassified
+H(Int,,,,1,unclassified
+H(M,,,,1,unclassified
+Hannes,,,,1,unclassified
+Harper-Stone,,,,1,unclassified
+Haskell's,,,,1,unclassified
+Henglein,,,,1,unclassified
+higherorder,,,,1,unclassified
+Hsiang-Shang,,,,1,unclassified
+https,,,,1,unclassified
+Informatique,,,,1,unclassified
+Institut,,,,1,unclassified
+Int_s.mul,,,,1,unclassified
+J*K,,,,1,unclassified
+JK,,,,1,unclassified
+JM,,,,1,unclassified
+JMK,,,,1,unclassified
+Kenichi,,,,1,unclassified
+Khoo,,,,1,unclassified
+language-integrated,,,,1,unclassified
+let-definitions,,,,1,unclassified
+libraries9,,,,1,unclassified
+Liwen,,,,1,unclassified
+Loh,,,,1,unclassified
+m-mvar,,,,1,unclassified
+m-var,,,,1,unclassified
+M.Closure_1.secret,,,,1,unclassified
+M.mpower,,,,1,unclassified
+M.secret,,,,1,unclassified
+macro-defined,,,,1,unclassified
+macros.2,,,,1,unclassified
+Mager,,,,1,unclassified
+Mehnert,,,,1,unclassified
+ML's,,,,1,unclassified
+ML/OCaml,,,,1,unclassified
+MLKit,,,,1,unclassified
+module-based,,,,1,unclassified
+module-local,,,,1,unclassified
+Mustafa,,,,1,unclassified
+Odersky,,,,1,unclassified
+OPAM,,,,1,unclassified
+optimisations,,,,1,unclassified
+P.mpower,,,,1,unclassified
+Palsberg,,,,1,unclassified
+parameterization-based,,,,1,unclassified
+Partially-static,,,,1,unclassified
+post-quantum,,,,1,unclassified
+ppxlib,,,,1,unclassified
+program.ml,,,,1,unclassified
+quotationbased,,,,1,unclassified
+R(Int,,,,1,unclassified
+R(M,,,,1,unclassified
+Radanne,,,,1,unclassified
+Ramalingam,,,,1,unclassified
+re-used,,,,1,unclassified
+refactoring,,,,1,unclassified
+relation.6,,,,1,unclassified
+Ryo,,,,1,unclassified
+safely-extensible,,,,1,unclassified
+Semantics-Based,,,,1,unclassified
+Siau-Cheng,,,,1,unclassified
+Sidd,,,,1,unclassified
+sideeffects,,,,1,unclassified
+SIGPLAN'94,,,,1,unclassified
+Smaragdakis,,,,1,unclassified
+Soffa,,,,1,unclassified
+st-empty,,,,1,unclassified
+st-module,,,,1,unclassified
+stage-indexed,,,,1,unclassified
+Sumii,,,,1,unclassified
+term-level,,,,1,unclassified
+term.ml,,,,1,unclassified
+Thiemann,,,,1,unclassified
+TTH,,,,1,unclassified
+type-checking,,,,1,unclassified
+Unikernels,,,,1,unclassified
+unit0,,,,1,unclassified
+well-stagedness,,,,1,unclassified
+Whole-program,,,,1,unclassified
+Wyk,,,,1,unclassified
+Yannis,,,,1,unclassified
+Zine-El-Abidine,,,,1,unclassified

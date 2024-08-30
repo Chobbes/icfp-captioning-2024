@@ -1,0 +1,524 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Steve Zdancewic,,,,7,Author
+David Van Horn,,,,4,Author
+Li-yao Xia,,,,3,Author
+Sebastian Erdweg,,,,3,Author
+Sven Keidel,,,,3,Author
+Yannick Zakowski,,,,3,Author
+Ilya Sergey,,,,2,Author
+Adam Chlipala,,,,1,Author
+Brent Yorgey,,,,1,Author
+Calvin Beck,,,,1,Author
+Casper Bach Poulsen,,,,1,Author
+Chris Casinghino,,,,1,Author
+Conor McBride,,,,1,Author
+Derek Dreyer,,,,1,Author
+Irene Yoon,,,,1,Author
+Jan Midtgaard,,,,1,researcher
+Ludovic Henrio,,,,1,Author
+Ralf Jung,,,,1,Author
+Robbert Krebbers,,,,1,Author
+Wouter Swierstra,,,,1,Author
+Yao Li,,,,1,Author
+ Independent,,,,4,Institution
+ University of Maryland College Park,,,,1,Institution
+monadic,Mow-nad-ick,,,42,
+monad,Mow-nad,,,33,Common-term
+K ,,“K axiom”,,31,
+Ret,,,,29,
+combinator,,,,28,Common-term
+modular,,,,27,Common-term
+IMP,Like the little demon “imp”,A simple “imperative” programming language,,26,
+semantics,,,,25,
+StateT,,,,22,Common-term
+ACM,,Association for Computing Machinery,,19,
+fixpoint,,,,18,Common-term
+Coq,“Coq”,,,14,Common-term programming-language theorem-prover
+match,,,,12,
+monad transformer,,,,12,Common-term
+theorem,,,,11,Common-term
+monadic interpreters,,,,10,
+AST ,A.S.T.,Abstract Syntax Tree,,7,
+lattice,,,,7,Common-term
+lemma,,,,7,Common-term
+matching,,“pattern matching”,,7,Common-term
+POPL,pop-ill,Conference,,7,Common-term
+syntax,,,,7,Common-term
+constructor,,,,6,Common-term
+modularity,,,,6,Common-term
+SIGPLAN,,special interest group on programming languages,,6,
+coinductive,,,,5,Common-term
+ICFP,,Conference,,5,Common-term
+continuation,,,,4,
+derive,,,,4,
+effectful,,,,4,
+generic,,,,4,
+Leroy,,,,4,Name
+paradigm,,,,4,Common-term
+Scheme,,,,4,Common-term programming-language
+abstractions,,,,3,
+ASM,A.S.M.,Assembly language,,3,
+datatype,,,,3,Common-term
+decidable,,,,3,
+deriving,,,,3,
+formalization,,,,3,Common-term
+freer monad,,,,3,
+LLVM,L.L.V.M.,,,3,
+recursion,,,,3,Common-term
+Semantic,,,,3,Common-term
+abstraction,,,,2,Common-term
+axioms,,,,2,
+Capretta,,,,2,
+category,,,,2,
+CBN,,call-by-name,,2,Common-term evaluation
+context,,,,2,Common-term
+Coq's,“Coq”,,,2,Common-term programming-language theorem-prover
+dependent,,,,2,Common-term
+derivation,,,,2,
+expression,,,,2,Common-term
+expressive,,,,2,Common-term
+functional programming,,,,2,
+Gibbons,,,,2,
+Go,,,,2,
+Hancock,,,,2,Name
+induction,,,,2,Common-term
+inductive,,,,2,Common-term
+IR ,I.R.,intermediate representation,,2,
+Ishii,,,,2,
+isomorphic,,,,2,Common-term
+Kiselyov,,,,2,
+Letan,,,,2,
+macro,,,,2,
+meta-theory,,,"also ""metatheory""",2,Common-term
+metatheory,,,,2,Common-term
+Prop,,,,2,
+recursive,,,,2,Common-term
+symbolic,,,,2,
+Vellvm,vellum,,,2,
+Why,,,,2,
+Agda,,Agda-style,,1,Common-term Programming-language
+algebraic effects,,,,1,
+API,A.P.I.,Application Programming Interface,,1,Common-term
+atomic,,,,1,
+boilerplate,,,,1,
+Boolean,,,,1,
+CertiKOS,,“Certified Kit Operating System”,,1,
+closure,,,,1,Common-term
+CompCert,,A certified compiler,,1,
+compiled,,,,1,
+compiler,,,,1,Common-term
+conclusion,,,,1,
+concurrency,,,,1,Common-term
+concurrent,,,,1,Common-term
+denotational semantics,,,,1,semantics
+dependently-typed,,,,1,types
+Dijkstra monad ,/ˈdɑɪkstɹə/ DYKE-struh,,,1,
+divergence,,,,1,Common-term
+Dominique Devriese,,,,1,
+DSL,,,,1,
+duality,,,,1,
+dynamic semantics,,,,1,
+ecosystem,,,,1,
+effect handlers,,,,1,
+equational,,,,1,Common-term
+equational theory,,,,1,Common-term
+evaluator,,,,1,
+expressiveness,,,,1,Common-term
+free monad,free mow-nad,,,1,
+freer monads,,,,1,
+FreeSpec,,,,1,
+Haskell,,,,1,Common-term programming-language
+integer,,,,1,Common-term
+Interp,,,,1,
+iterations,,,,1,
+Java,,,,1,
+linear,,,,1,Common-term
+linearization,,,,1,
+McBride,,,,1,Name
+mechanization,,,,1,
+meta-language,,,,1,
+ML,,,,1,Programming-language
+morphism,,,,1,Common-term
+nondeterministic,,,,1,
+noninterference,,,,1,Common-term
+object-oriented,,,,1,Common-term paradigm
+OCaml,,,,1,Common-term programming-language
+OOPSLA,oops-la,,,1,Conference
+operational semantics,,,,1,
+OS,operating system,,,1,
+reflect,,,,1,
+relational,,,,1,
+resumption monad,,,,1,
+Rust,,,,1,Common-term programming-language
+RustBelt,,,,1,
+sequential ,,,,1,
+Shao,,,,1,
+small-step,,,,1,Common-term
+Swierstra,,,,1,
+syntactic,,,,1,Common-term
+transition system,,,,1,
+typeclass,,,,1,Common-term
+VST,,Verified Software Toolchain,,1,theorem-proving tool
+itree,,,,53,unclassified
+failT,,,,26,unclassified
+Cousot,,,,21,unclassified
+SurfaceAST,,,,21,unclassified
+ITrees,,,,18,unclassified
+may_exit,,,,17,unclassified
+memE,,,,17,unclassified
+arithE,,,,16,unclassified
+handle_state,,,,14,unclassified
+csum,,,,13,unclassified
+Darais,,,,13,unclassified
+assertE,,,,12,unclassified
+JsK,,,,11,unclassified
+do-loop,,,,10,unclassified
+handle_fail,,,,10,unclassified
+JeK,,,,10,unclassified
+ast2itree,,,,9,unclassified
+h_assert,,,,9,unclassified
+tailmrec,,,,9,unclassified
+ast2aflow,,,,8,unclassified
+h_arith,,,,8,unclassified
+Bodin,,,,7,unclassified
+inr,,,,7,unclassified
+Keidel,,,,7,unclassified
+concrete/abstract,,,,6,unclassified
+do-and,,,,6,unclassified
+expr_sound,,,,6,unclassified
+ITree.ret,,,,6,unclassified
+ITree.trigger,,,,6,unclassified
+J*K,,,,6,unclassified
+non-local,,,,6,unclassified
+Pichardie,,,,6,unclassified
+ret-and,,,,6,unclassified
+BooleanDomain,,,,5,unclassified
+snd,,,,5,unclassified
+SoundAST_Seq,,,,5,unclassified
+AST_If,,,,4,unclassified
+big-step,,,,4,unclassified
+evl_in,,,,4,unclassified
+failT_kmerge,,,,4,unclassified
+Imp's,,,,4,unclassified
+imp_interp,,,,4,unclassified
+ITree.iter,,,,4,unclassified
+J-K,,,,4,unclassified
+Js1K,,,,4,unclassified
+Js2K,,,,4,unclassified
+Monniaux,,,,4,unclassified
+sound_unfold,,,,4,unclassified
+stmt_sound,,,,4,unclassified
+Value*T*U3,,,,4,unclassified
+Verasco,,,,4,unclassified
+AST_Ret,,,,3,unclassified
+AST_Seq,,,,3,unclassified
+AST_While_unit,,,,3,unclassified
+ASTs,,,,3,unclassified
+Boulme,,,,3,unclassified
+cfg,,,,3,unclassified
+compute_binop,,,,3,unclassified
+Erdweg,,,,3,unclassified
+h_arith_sound,,,,3,unclassified
+h_assert_sound,,,,3,unclassified
+h_mem,,,,3,unclassified
+handle_pure,,,,3,unclassified
+isfalse,,,,3,unclassified
+istrue,,,,3,unclassified
+ITree-based,,,,3,unclassified
+Labich,,,,3,unclassified
+mksum,,,,3,unclassified
+next_t,,,,3,unclassified
+SoundAST,,,,3,unclassified
+SoundAST_Event,,,,3,unclassified
+su2,,,,3,unclassified
+while-loop,,,,3,unclassified
+Xia,,,,3,unclassified
+Aczel,,,,2,unclassified
+aflow.Ret,,,,2,unclassified
+AST_Do,,,,2,unclassified
+AST_Event,,,,2,unclassified
+AST_While,,,,2,unclassified
+ASTREE,,,,2,unclassified
+C-style,,,,2,unclassified
+control-flow,,,,2,unclassified
+Cortesi,,,,2,unclassified
+Dagstuhl,,,,2,unclassified
+FALSE,,,,2,unclassified
+first-order,,,,2,unclassified
+fst,,,,2,unclassified
+h_state,,,,2,unclassified
+handler_sound_failT,,,,2,unclassified
+handler_sound_idT,,,,2,unclassified
+handler_sound_stateT,,,,2,unclassified
+handling_sound_stateT,,,,2,unclassified
+Hinit,,,,2,unclassified
+Hombucher,,,,2,unclassified
+imp_interp_sound,,,,2,unclassified
+init:T,,,,2,unclassified
+Jacques-Henri,,,,2,unclassified
+Je1K,,,,2,unclassified
+Je2K,,,,2,unclassified
+Jii,,,,2,unclassified
+join/widen,,,,2,unclassified
+Jwhile,,,,2,unclassified
+Lesani,,,,2,unclassified
+mem_get,,,,2,unclassified
+mem_store,,,,2,unclassified
+meta-theoretical,,,,2,unclassified
+monadT,,,,2,unclassified
+mutually-tail-recursive,,,,2,unclassified
+no-op,,,,2,unclassified
+non-recursive,,,,2,unclassified
+non-relational,,,,2,unclassified
+non-trivial,,,,2,unclassified
+num_nat,,,,2,unclassified
+NumericalDomain,,,,2,unclassified
+open-source,,,,2,unclassified
+params,,,,2,unclassified
+partially-handled,,,,2,unclassified
+pfp_u1,,,,2,unclassified
+Ph.D,,,,2,unclassified
+post-fixpoint,,,,2,unclassified
+Poulsen,,,,2,unclassified
+r_false,,,,2,unclassified
+r_true,,,,2,unclassified
+Radhia,,,,2,unclassified
+reinstantiating,,,,2,unclassified
+Rosu,,,,2,unclassified
+Serbanuta,,,,2,unclassified
+Setzer,,,,2,unclassified
+side-effect,,,,2,unclassified
+SIGPLAN-SIGACT,,,,2,unclassified
+sound'_ret,,,,2,unclassified
+SoundAST_Ret,,,,2,unclassified
+stmt,,,,2,unclassified
+su1,,,,2,unclassified
+sub-programs,,,,2,unclassified
+tailmrec's,,,,2,unclassified
+to_bool,,,,2,unclassified
+USENIX,,,,2,unclassified
+while(c,,,,2,unclassified
+Zakowski,,,,2,unclassified
+Zhao,,,,2,unclassified
+11Which,,,,1,unclassified
+2We,,,,1,unclassified
+5We,,,,1,unclassified
+abstract-interpretation,,,,1,unclassified
+abstraite,,,,1,unclassified
+abstraits,,,,1,unclassified
+ad-hoc,,,,1,unclassified
+add(x,,,,1,unclassified
+aflow.Fixpoint,,,,1,unclassified
+aflow.Seq,,,,1,unclassified
+Amorim,,,,1,unclassified
+approach's,,,,1,unclassified
+argument.11,,,,1,unclassified
+Assembly/IR-style,,,,1,unclassified
+assert(x,,,,1,unclassified
+assert(y,,,,1,unclassified
+AST_CFG,,,,1,unclassified
+AST_Do's,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+Autom,,,,1,unclassified
+Azevedo,,,,1,unclassified
+Beringer,,,,1,unclassified
+big-steps,,,,1,unclassified
+BooleanDomain_isfalse,,,,1,unclassified
+C-like,,,,1,unclassified
+CakeML,,,,1,unclassified
+Capretta's,,,,1,unclassified
+cases--we,,,,1,unclassified
+Cecchetti,,,,1,unclassified
+Cezary,,,,1,unclassified
+CFGs,,,,1,unclassified
+Chifflier,,,,1,unclassified
+Chung-Kil,,,,1,unclassified
+coalgebraic,,,,1,unclassified
+coinductively,,,,1,unclassified
+Combinator-Based,,,,1,unclassified
+Commun,,,,1,unclassified
+communication-based,,,,1,unclassified
+compositionality--recursive,,,,1,unclassified
+conditional8,,,,1,unclassified
+conditions):5,,,,1,unclassified
+construct.2,,,,1,unclassified
+Coq-level,,,,1,unclassified
+Costantini,,,,1,unclassified
+Costanzo,,,,1,unclassified
+d'analyseurs,,,,1,unclassified
+d'interpreteurs,,,,1,unclassified
+data-flow,,,,1,unclassified
+data-structure,,,,1,unclassified
+domain-specific,,,,1,unclassified
+EACSL,,,,1,unclassified
+effect-internalization,,,,1,unclassified
+eK,,,,1,unclassified
+endeveavor,,,,1,unclassified
+ERROR:U2,,,,1,unclassified
+expr,,,,1,unclassified
+failT's,,,,1,unclassified
+feature7,,,,1,unclassified
+Feret,,,,1,unclassified
+fix-point,,,,1,unclassified
+Fixed-point,,,,1,unclassified
+fixpoints,,,,1,unclassified
+Formally-Verified,,,,1,unclassified
+fuel-based,,,,1,unclassified
+function4,,,,1,unclassified
+Gaboardi,,,,1,unclassified
+Galois-connected,,,,1,unclassified
+Gligoric,,,,1,unclassified
+Grigore,,,,1,unclassified
+h_fail,,,,1,unclassified
+handle_sound_failT,,,,1,unclassified
+handle_sound_idT,,,,1,unclassified
+handle_sound_stateT,,,,1,unclassified
+handler's,,,,1,unclassified
+handler_sound_failT_case,,,,1,unclassified
+handler_sound_stateT_case,,,,1,unclassified
+handling--unlike,,,,1,unclassified
+handling_sound,,,,1,unclassified
+handling_sound_failT,,,,1,unclassified
+handling_sound_idT,,,,1,unclassified
+hardcode,,,,1,unclassified
+Hengchu,,,,1,unclassified
+Hiet,,,,1,unclassified
+Hiromi,,,,1,unclassified
+Honore,,,,1,unclassified
+however--we,,,,1,unclassified
+Hricu,,,,1,unclassified
+HTTP,,,,1,unclassified
+Hur,,,,1,unclassified
+hyperlinks,,,,1,unclassified
+I+R,,,,1,unclassified
+I/Otrees,,,,1,unclassified
+Ichiro,,,,1,unclassified
+if(c,,,,1,unclassified
+Imp:3,,,,1,unclassified
+Imp:9,,,,1,unclassified
+ImpArithFail.v,,,,1,unclassified
+IMPMemory.handle_amem_sound,,,,1,unclassified
+in-depth,,,,1,unclassified
+industrial-strength,,,,1,unclassified
+Informatik,,,,1,unclassified
+inter-domain,,,,1,unclassified
+interpreter's,,,,1,unclassified
+intra-functional,,,,1,unclassified
+intuitionniste,,,,1,unclassified
+ITP,,,,1,unclassified
+ITree.bind,,,,1,unclassified
+Jianzhou,,,,1,unclassified
+Jieung,,,,1,unclassified
+Jif,,,,1,unclassified
+JK,,,,1,unclassified
+join-with,,,,1,unclassified
+Js1,,,,1,unclassified
+Js2,,,,1,unclassified
+Jx,,,,1,unclassified
+Kaliszyk,,,,1,unclassified
+Kaseorg,,,,1,unclassified
+Key-Value,,,,1,unclassified
+Kwangkeun,,,,1,unclassified
+Laporte,,,,1,unclassified
+Leibniz-Zentrum,,,,1,unclassified
+Lennart,,,,1,unclassified
+library-provided,,,,1,unclassified
+library-side,,,,1,unclassified
+libraryprovided,,,,1,unclassified
+LIPIcs,,,,1,unclassified
+Liron,,,,1,unclassified
+LLVM's,,,,1,unclassified
+LNCS,,,,1,unclassified
+logique,,,,1,unclassified
+M.K,,,,1,unclassified
+Maciej,,,,1,unclassified
+Malecha,,,,1,unclassified
+Mansky,,,,1,unclassified
+Mauborgne,,,,1,unclassified
+McBride's,,,,1,unclassified
+measure_N,,,,1,unclassified
+mecanisee,,,,1,unclassified
+Might's,,,,1,unclassified
+Milius,,,,1,unclassified
+Mitsu,,,,1,unclassified
+modularity--independent,,,,1,unclassified
+Monniaux's,,,,1,unclassified
+Mumbai,,,,1,unclassified
+Myreen,,,,1,unclassified
+Nagarakatte,,,,1,unclassified
+natmeasure_N,,,,1,unclassified
+non-constructivity,,,,1,unclassified
+non-executable,,,,1,unclassified
+non-failing,,,,1,unclassified
+non-infinite,,,,1,unclassified
+non-mechanized,,,,1,unclassified
+non-observable,,,,1,unclassified
+non-well-founded,,,,1,unclassified
+non-zero,,,,1,unclassified
+Norrish,,,,1,unclassified
+num_binary_sound,,,,1,unclassified
+num_unary_sound,,,,1,unclassified
+OK:T,,,,1,unclassified
+OK:U,,,,1,unclassified
+Okada,,,,1,unclassified
+one-liners,,,,1,unclassified
+OOPSLA1,,,,1,unclassified
+over-approximates,,,,1,unclassified
+over-approximation,,,,1,unclassified
+Palmskog,,,,1,unclassified
+paper-proved,,,,1,unclassified
+pelse,,,,1,unclassified
+pen-and-paper,,,,1,unclassified
+Phuc,,,,1,unclassified
+Piessens,,,,1,unclassified
+post-processing,,,,1,unclassified
+pre-certified,,,,1,unclassified
+preservation-through-handling,,,,1,unclassified
+program.10,,,,1,unclassified
+pthen,,,,1,unclassified
+Rajamani,,,,1,unclassified
+Ramana,,,,1,unclassified
+real-world,,,,1,unclassified
+Regis-Gianas,,,,1,unclassified
+Ronghui,,,,1,unclassified
+s2K,,,,1,unclassified
+Sandrine,,,,1,unclassified
+Santosh,,,,1,unclassified
+Satoh,,,,1,unclassified
+Seq's,,,,1,unclassified
+Sergey,,,,1,unclassified
+side-effects,,,,1,unclassified
+slightly-hidden,,,,1,unclassified
+socalled,,,,1,unclassified
+sound_ast2itree_ast2aflow,,,,1,unclassified
+sound_seq,,,,1,unclassified
+SoundAST_If,,,,1,unclassified
+SoundAST_While,,,,1,unclassified
+Springer-Verlag,,,,1,unclassified
+standalone,,,,1,unclassified
+sub(x,,,,1,unclassified
+sub-program,,,,1,unclassified
+Sylvain,,,,1,unclassified
+syntax--and,,,,1,unclassified
+Tatlock,,,,1,unclassified
+Traian-Florin,,,,1,unclassified
+tree-aware,,,,1,unclassified
+Trends(R,,,,1,unclassified
+true-ness,,,,1,unclassified
+try-catch,,,,1,unclassified
+Turing-Completeness,,,,1,unclassified
+two-element,,,,1,unclassified
+unit-version,,,,1,unclassified
+User-specific,,,,1,unclassified
+user-supplied,,,,1,unclassified
+"v,tt",,,,1,unclassified
+"v,tt,tt",,,,1,unclassified
+Value*R*R,,,,1,unclassified
+Velebil,,,,1,unclassified
+Venanzio,,,,1,unclassified
+Voigtlander,,,,1,unclassified
+Xiongnan,,,,1,unclassified
+Yishuai,,,,1,unclassified
+Zaichuk,,,,1,unclassified
+Zaliva,,,,1,unclassified
+Zhong,,,,1,unclassified

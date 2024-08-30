@@ -1,0 +1,203 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Graham Hutton,,,,7,Author
+Patrick Bahr,,,,6,Author
+Nils Anders Danielsson,,,,2,Author
+Norman Ramsey,,,,2,Author
+Adam Chlipala,,,,1,Author
+Amr Sabry,,,,1,Author
+Dariusz Biernacki,Dariush /ˈdarʲjuʃ/ Biernacki,,,1,Author
+Edwin Brady,,,,1,Author
+Jan Midtgaard,,,,1,researcher
+Lars Birkedal,,,,1,Author
+Mads Sig Ager,,,,1,researcher
+Olivier Danvy,,,,1,researcher
+Simon Peyton Jones,,,,1,Author
+ Independent,,,,1,Institution
+ Meta,,,,1,Institution
+compiler,,,,92,Common-term
+induction,,,,37,Common-term
+stack,,,,27,
+semantics,,,,25,
+expression,,,,23,Common-term
+constructor,,,,20,Common-term
+coinductive,,,,18,Common-term
+instruction,,,,17,
+syntax,,,,17,Common-term
+bisimilarity,,Notion of equivalence between programs,,16,Common-term equivalence
+clause,,,,14,
+recursive,,,,13,Common-term
+monad,Mow-nad,,,12,Common-term
+functional programming,,,,10,
+step-indexed,,“step-indexed logical relations” “step-indexed logics” “step-indexed reasoning”,,10,Common-term
+higher-order,,,,9,Common-term
+linear,,,,9,Common-term
+ACM,,Association for Computing Machinery,,7,
+generic,,,,7,
+partiality monad,,,,7,
+Agda,,Agda-style,,5,Common-term Programming-language
+congruence,,,,5,Common-term
+inductive,,,,5,Common-term
+monadic,Mow-nad-ick,,,5,
+conclusion,,,,4,
+derive,,,,4,
+Haskell,,,,4,Common-term programming-language
+integer,,,,4,Common-term
+recursion,,,,4,Common-term
+acyclic,,,,3,Common-term
+deriving,,,,3,
+equational,,,,3,Common-term
+ICFP,,Conference,,3,Common-term
+bisimilar,,,,2,Common-term equivalence
+Capretta,,,,2,
+concurrent,,,,2,Common-term
+Danielsson,,,,2,
+Gibbons,,,,2,
+Idris,,,,2,
+isomorphic,,,,2,Common-term
+lambda calculi,,,,2,Common-term
+lambda calculus,lam-duh calculus,,,2,theory
+Leroy,,,,2,Name
+ML,,,,2,Programming-language
+Pickard,,,,2,
+polymorphic,,,,2,Common-term
+Ramsey ,,,,2,
+applicative,,,,1,Common-term
+bisimulation,,,,1,Common-term equivalence
+Brady,,,,1,
+Chalmers University of Technology,,,,1,Institute
+Church-Rosser,,,,1,
+combinator,,,,1,Common-term
+CompCert,,A certified compiler,,1,
+compiled,,,,1,
+concurrency,,,,1,Common-term
+continuation,,,,1,
+continuation-passing style,,,,1,
+defunctionalization,,,,1,
+dependent,,,,1,Common-term
+dependently-typed,,,,1,types
+derivation,,,,1,
+expressive,,,,1,Common-term
+expressiveness,,,,1,Common-term
+fold,,,,1,Common-term
+force,,,,1,Common-term evaluation
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,1,
+iterations,,,,1,
+meta-language,,,,1,
+modality,,,,1,Common-term
+modular,,,,1,Common-term
+Nijmegen,,“Radboud University Nijmegen” A city in the Netherlands,,1,City
+Non-determinism,,,,1,Common-term
+operational semantics,,,,1,
+POPL,pop-ill,Conference,,1,Common-term
+Power,,,,1,
+reflection,,,,1,Common-term
+register,,,,1,
+sequential ,,,,1,
+SIGPLAN,,special interest group on programming languages,,1,
+subtyping,,,,1,Common-term
+symbolic,,,,1,
+syntax-directed,,,,1,
+theorem,,,,1,Common-term
+well-typed,,,,1,Common-term
+JPZ,,,,54,unclassified
+graph-based,,,,47,unclassified
+Expr,,,,46,unclassified
+Lcomp,,,,40,unclassified
+L*M,,,,34,unclassified
+LLAB,,,,18,unclassified
+tree-based,,,,17,unclassified
+l)M,,,,10,unclassified
+graph-structured,,,,9,unclassified
+tree-structured,,,,9,unclassified
+LJMP,,,,7,unclassified
+control-flow,,,,6,unclassified
+Oliveira,,,,6,unclassified
+non-terminating,,,,5,unclassified
+assembly-like,,,,4,unclassified
+LJPZ,,,,4,unclassified
+LPOP,,,,4,unclassified
+LPUSH,,,,4,unclassified
+Parametricity,,,,4,unclassified
+Bruijn,,,,3,unclassified
+c)M,,,,3,unclassified
+Chlipala,,,,3,unclassified
+Launchbury,,,,3,unclassified
+LcMM,,,,3,unclassified
+LHALT,,,,3,unclassified
+non-termination,,,,3,unclassified
+seqn,,,,3,unclassified
+Altenkirch,,,,2,unclassified
+Atkey,,,,2,unclassified
+beta-expanded,,,,2,unclassified
+CakeML,,,,2,unclassified
+codata,,,,2,unclassified
+correct-by-construction,,,,2,unclassified
+defintion,,,,2,unclassified
+Erwig,,,,2,unclassified
+Hutton's,,,,2,unclassified
+Kashiwagi,,,,2,unclassified
+lower-level,,,,2,unclassified
+M)M,,,,2,unclassified
+Mogelberg,,,,2,unclassified
+Mokhov,,,,2,unclassified
+Nakano,,,,2,unclassified
+non-zero,,,,2,unclassified
+Norell,,,,2,unclassified
+register-based,,,,2,unclassified
+summarises,,,,2,unclassified
+Vec,,,,2,unclassified
+Veltri,,,,2,unclassified
+AUTHOR(S,,,,1,unclassified
+Birkedal,,,,1,unclassified
+Bizjak,,,,1,unclassified
+Bugge,,,,1,unclassified
+C-like,,,,1,unclassified
+Clouston,,,,1,unclassified
+co-inductive,,,,1,unclassified
+coinduction,,,,1,unclassified
+coinductively,,,,1,unclassified
+Commun,,,,1,unclassified
+correctness-preserving,,,,1,unclassified
+defunctionalisation,,,,1,unclassified
+Depth-First,,,,1,unclassified
+Ejlers,,,,1,unclassified
+false,,,,1,unclassified
+fixed-point,,,,1,unclassified
+fixed-points,,,,1,unclassified
+graph-shaped,,,,1,unclassified
+Grathwohl,,,,1,unclassified
+Hoopl,,,,1,unclassified
+Huet's,,,,1,unclassified
+Indagationes,,,,1,unclassified
+inductive-coinductive,,,,1,unclassified
+Informatik,,,,1,unclassified
+Katholieke,,,,1,unclassified
+Languanges,,,,1,unclassified
+Lcompile,,,,1,unclassified
+LLOAD,,,,1,unclassified
+LSTORE,,,,1,unclassified
+Mathematicae,,,,1,unclassified
+Meijer's,,,,1,unclassified
+Myreen,,,,1,unclassified
+N.G,,,,1,unclassified
+non-linear,,,,1,unclassified
+Norrish,,,,1,unclassified
+Painter's,,,,1,unclassified
+parameterised,,,,1,unclassified
+Ramana,,,,1,unclassified
+Ranald,,,,1,unclassified
+Rasmus,,,,1,unclassified
+Schloss-Dagstuhl,,,,1,unclassified
+stack-based,,,,1,unclassified
+step-counting,,,,1,unclassified
+step-indexing,,,,1,unclassified
+treebased,,,,1,unclassified
+treestructure,,,,1,unclassified
+Type-Driven,,,,1,unclassified
+Ulf,,,,1,unclassified
+Universiteit,,,,1,unclassified
+Venanzio,,,,1,unclassified
+Vezzosi,,,,1,unclassified
+well-definedness,,,,1,unclassified
+xM,,,,1,unclassified
+Zentrum,,,,1,unclassified

@@ -1,0 +1,391 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Naoki Kobayashi,,,,6,Author
+Gilles Barthe,,,,5,Author
+Alejandro Aguirre,,,,4,Author
+Hiroshi Unno,,,,4,Author
+Satoshi Kura,,,,4,Author
+Kenji Maillard,ken-jee my-yar,,,2,Author
+Ohad Kammar,,,,2,Author
+Shin-ya Katsumata,,,,2,Author
+Ugo Dal Lago,,,,2,Author
+Chris Heunen,,,,1,Author
+Hiroyuki Katsura,,,,1,Author
+Jacques Carette,,,,1,Author
+Jonathan Protzenko,,,,1,Author
+Ranjit Jhala,,,,1,Author
+ Independent,,,,1,Institution
+University of Edinburgh,,,,1,Institution
+probabilistic,,,,122,Common-term
+Prop,,,,119,
+higher-order,,,,66,Common-term
+K ,,“K axiom”,,54,
+dependent,,,,53,Common-term
+ACM,,Association for Computing Machinery,,38,
+ICFP,,Conference,,32,Common-term
+CPS,C.P.S.,abbreviation for continuation-passing style ,,31,
+refinement types,,,,26,
+recursion,,,,19,Common-term
+type checker,,,,19,Common-term
+probability,,,,18,Common-term
+distribution,,,,15,
+well-typed,,,,13,Common-term
+category,,,,12,
+semantics,,,,12,
+theorem,,,,12,Common-term
+well-formed,,,,12,Common-term
+constraint solver,,,,10,
+context,,,,10,Common-term
+syntactic,,,,10,Common-term
+CPS-based,,,,9,
+Semantic,,,,9,Common-term
+POPL,pop-ill,Conference,,8,Common-term
+Dijkstra,,,,7,
+inductive,,,,7,Common-term
+quantitative,,,,7,
+recursive,,,,7,Common-term
+syntax,,,,7,Common-term
+abstraction,,,,6,Common-term
+Boolean,,,,6,
+runtime,,,,6,Common-term
+SIGPLAN,,special interest group on programming languages,,6,
+Ahman,,,,5,
+denotational semantics,,,,5,semantics
+ghost,,,,5,
+induction,,,,5,Common-term
+reduction,,,,5,Common-term
+AST ,A.S.T.,Abstract Syntax Tree,,4,
+atomic,,,,4,
+categorical semantics,,,,4,
+discrete,,,,4,
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,4,
+lambda calculus,lam-duh calculus,,,4,theory
+lemma,,,,4,Common-term
+model checking,,Automatic theorem proving,,4,technique tool
+Aguirre,,,,3,
+algebraic effects,,,,3,
+continuation,,,,3,
+derivation,,,,3,
+effectful,,,,3,
+instantiation,,,,3,
+monad,Mow-nad,,,3,Common-term
+subtyping,,,,3,Common-term
+Why,,,,3,
+abstractions,,,,2,
+algebra,,,,2,
+continuation-passing style,,,,2,
+coproduct,,,,2,
+curried,,,,2,
+derive,,,,2,
+Dijkstra monad ,/ˈdɑɪkstɹə/ DYKE-struh,,,2,
+expression,,,,2,Common-term
+generic,,,,2,
+Hsu,,,,2,
+judgement,,dependent types,,2,theory
+PLDI,,Conference,,2,Common-term
+recurrence,,,,2,
+uncurried,,,,2,
+Anglican,,,,1,
+axioms,,,,1,
+Bayesian programming,,,,1,
+clause,,,,1,
+closure,,,,1,Common-term
+conjunction,,,,1,
+decidability,,,,1,
+divergence,,,,1,Common-term
+domain theory,,,,1,Common-term
+expressive,,,,1,Common-term
+fixpoint,,,,1,Common-term
+functional programming,,,,1,
+Gen,,,,1,
+Hindley-Milner type inference,,,,1,
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,1,
+injection,,,,1,
+integer,,,,1,Common-term
+Isabelle/HOL,,,,1,
+Liang,,,,1,Name
+linear,,,,1,Common-term
+Maillard,,,,1,
+monotone,,,,1,Common-term
+monotonicity,,Mathematical property,,1,Common-term
+morphism,,,,1,Common-term
+nondeterminism,,,,1,
+permissions@acm.org,,,,1,email
+Plotkin,,Name,,1,name
+recursion schemes,,,,1,
+relational,,,,1,
+Swamy,,,,1,
+type-check,,,,1,Common-term
+van de Meent,,,,1,
+HFL,,,,86,unclassified
+JK,,,,61,unclassified
+JPropK,,,,27,unclassified
+CHC,,,,24,unclassified
+Avanzini,,,,22,unclassified
+pre-expectations,,,,20,unclassified
+rec3,,,,19,unclassified
+non-probabilistic,,,,14,unclassified
+Olmedo,,,,13,unclassified
+QBS,,,,12,unclassified
+R-Fix,,,,11,unclassified
+cpos,,,,9,unclassified
+McIver,,,,9,unclassified
+unif,,,,9,unclassified
+Kaminski,,,,8,unclassified
+Scott-continuous,,,,8,unclassified
+type-checking,,,,8,unclassified
+coin2,,,,7,unclassified
+R-BasicOp,,,,7,unclassified
+Unno,,,,7,unclassified
+arity,,,,6,unclassified
+EHOL,,,,6,unclassified
+Fix-Unsound,,,,6,unclassified
+Joost-Pieter,,,,6,unclassified
+Katoen,,,,6,unclassified
+lfp,,,,6,unclassified
+R-Unif,,,,6,unclassified
+supermartingales,,,,6,unclassified
+ar(op,,,,5,unclassified
+CHC[adm,,,,5,unclassified
+coin_flip,,,,5,unclassified
+J-K,,,,5,unclassified
+ACM/IEEE,,,,4,unclassified
+ar(ap,,,,4,unclassified
+car(op,,,,4,unclassified
+false,,,,4,unclassified
+Feng,,,,4,unclassified
+HigherOrder,,,,4,unclassified
+Integunif,,,,4,unclassified
+Jcwp,,,,4,unclassified
+Jfix,,,,4,unclassified
+lics16_fact,,,,4,unclassified
+non-negative,,,,4,unclassified
+post-expectation,,,,4,unclassified
+quasi-Borel,,,,4,unclassified
+R-BasicBool,,,,4,unclassified
+random_walk,,,,4,unclassified
+Tsukada,,,,4,unclassified
+Vakar,,,,4,unclassified
+Anonymised,,,,3,unclassified
+CPS-transformed,,,,3,unclassified
+Deepak,,,,3,unclassified
+Gaboardi,,,,3,unclassified
+https,,,,3,unclassified
+lics16_coins,,,,3,unclassified
+lics16_rec3,,,,3,unclassified
+Matheja,,,,3,unclassified
+observe(false,,,,3,unclassified
+observe(true,,,,3,unclassified
+Runtimes,,,,3,unclassified
+Staton,,,,3,unclassified
+Tetsuya,,,,3,unclassified
+WPTs,,,,3,unclassified
+Adm-And,,,,2,unclassified
+Adm-Imp,,,,2,unclassified
+Adm-Leq,,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+Bjorner,,,,2,unclassified
+CEGIS,,,,2,unclassified
+Chakarov,,,,2,unclassified
+coarity,,,,2,unclassified
+component-wise,,,,2,unclassified
+Ctlin,,,,2,unclassified
+Danel,,,,2,unclassified
+Fibrations,,,,2,unclassified
+gfp,,,,2,unclassified
+Goharshady,,,,2,unclassified
+Hakaru,,,,2,unclassified
+Hasuo,,,,2,unclassified
+Heunen,,,,2,unclassified
+Hirata,,,,2,unclassified
+Hricu,,,,2,unclassified
+Ichiro,,,,2,unclassified
+JapK,,,,2,unclassified
+JProp,,,,2,unclassified
+JunifK,,,,2,unclassified
+Kafshdar,,,,2,unclassified
+LICS,,,,2,unclassified
+lics16_rec3_ghost,,,,2,unclassified
+Mansinghka,,,,2,unclassified
+Mingshuai,,,,2,unclassified
+min{1,,,,2,unclassified
+Mitani,,,,2,unclassified
+Narayanan,,,,2,unclassified
+Natsuki,,,,2,unclassified
+PHFL,,,,2,unclassified
+PropK,,,,2,unclassified
+qbses,,,,2,unclassified
+quasi-Borel-space,,,,2,unclassified
+R-BasicConst,,,,2,unclassified
+R-BasicSimp,,,,2,unclassified
+R-LeqInt,,,,2,unclassified
+R-Sub,,,,2,unclassified
+random_walk_unif,,,,2,unclassified
+Sankaranarayanan,,,,2,unclassified
+SIGPLAN-SIGACT,,,,2,unclassified
+soft-conditioning,,,,2,unclassified
+synthesised,,,,2,unclassified
+Takisaka,,,,2,unclassified
+upper-bounded,,,,2,unclassified
+Urabe,,,,2,unclassified
+Vikash,,,,2,unclassified
+0-tuple,,,,1,unclassified
+2-tuple,,,,1,unclassified
+absolute-value,,,,1,unclassified
+Adm-Or,,,,1,unclassified
+admissi,,,,1,unclassified
+Aleksandar,,,,1,unclassified
+Aseem,,,,1,unclassified
+Ashkan,,,,1,unclassified
+Atkey,,,,1,unclassified
+AUAI,,,,1,unclassified
+Bharath,,,,1,unclassified
+Bonawitz,,,,1,unclassified
+Boroujeni,,,,1,unclassified
+case-by-case,,,,1,unclassified
+category-theoretic,,,,1,unclassified
+CHCSolver3,,,,1,unclassified
+Chung-chieh,,,,1,unclassified
+coin_flip_ord2,,,,1,unclassified
+coin_flip_ord3,,,,1,unclassified
+coin_flip_unif,,,,1,unclassified
+Commun,,,,1,unclassified
+Continuation-Passing,,,,1,unclassified
+Core(TM,,,,1,unclassified
+cwp,,,,1,unclassified
+Dagstuhl,,,,1,unclassified
+Dagstuhl-Leibniz-Zentrum,,,,1,unclassified
+Data-Driven,,,,1,unclassified
+Drashti,,,,1,unclassified
+Edsger,,,,1,unclassified
+Ehsan,,,,1,unclassified
+Eilenberg-Moore,,,,1,unclassified
+Exequiel,,,,1,unclassified
+first-order,,,,1,unclassified
+fixed-point,,,,1,unclassified
+Forouhi,,,,1,unclassified
+FSCD,,,,1,unclassified
+Giesl,,,,1,unclassified
+Grellois,,,,1,unclassified
+Gretz,,,,1,unclassified
+Gurfinkel,,,,1,unclassified
+Hariharan,,,,1,unclassified
+Hermida,,,,1,unclassified
+HFL}_\mathbb,,,,1,unclassified
+Hongfei,,,,1,unclassified
+Hongseok,,,,1,unclassified
+icfp21_coupons,,,,1,unclassified
+icfp21_walk,,,,1,unclassified
+Indeterminates,,,,1,unclassified
+inequations,,,,1,unclassified
+Informatik,,,,1,unclassified
+integrands,,,,1,unclassified
+Intel(R,,,,1,unclassified
+Interpolants,,,,1,unclassified
+Iwayama,,,,1,unclassified
+J0K,,,,1,unclassified
+J1K,,,,1,unclassified
+Jar()K,,,,1,unclassified
+Jialu,,,,1,unclassified
+JintK,,,,1,unclassified
+JK1,,,,1,unclassified
+JK2,,,,1,unclassified
+JopK,,,,1,unclassified
+JrealK,,,,1,unclassified
+Junges,,,,1,unclassified
+Junyi,,,,1,unclassified
+Kaddar,,,,1,unclassified
+Katsura,,,,1,unclassified
+Kawaguci,,,,1,unclassified
+Keiichi,,,,1,unclassified
+KJPropK,,,,1,unclassified
+Kodai,,,,1,unclassified
+Krishnendu,,,,1,unclassified
+LazyPPL,,,,1,unclassified
+let-fix,,,,1,unclassified
+lfpJ,,,,1,unclassified
+LIPIcs,,,,1,unclassified
+lower-bound,,,,1,unclassified
+Matthijs,,,,1,unclassified
+measure-theoretic,,,,1,unclassified
+meta-variable,,,,1,unclassified
+Michikazu,,,,1,unclassified
+Minamide,,,,1,unclassified
+Mingsheng,,,,1,unclassified
+Naijun,,,,1,unclassified
+Naoki,,,,1,unclassified
+Nikhil,,,,1,unclassified
+Nikolaj,,,,1,unclassified
+Nitesh,,,,1,unclassified
+non-category,,,,1,unclassified
+Non-Deterministic,,,,1,unclassified
+non-functional,,,,1,unclassified
+nonprobabilistic,,,,1,unclassified
+OOPSLA1,,,,1,unclassified
+optimisation,,,,1,unclassified
+order-theoretically,,,,1,unclassified
+Oyabu,,,,1,unclassified
+Pathak,,,,1,unclassified
+Pechoux,,,,1,unclassified
+pGCL,,,,1,unclassified
+Pierre-Yves,,,,1,unclassified
+positive-AST,,,,1,unclassified
+Praveen,,,,1,unclassified
+pre-/post-conditions,,,,1,unclassified
+pre-/post-expectations,,,,1,unclassified
+preexpectations,,,,1,unclassified
+Prop).K,,,,1,unclassified
+PropxProp,,,,1,unclassified
+quantifier-free,,,,1,unclassified
+R-Abs,,,,1,unclassified
+R-App,,,,1,unclassified
+R-Case0,,,,1,unclassified
+R-Case2,,,,1,unclassified
+R-Fst,,,,1,unclassified
+R-Inj,,,,1,unclassified
+R-Pair,,,,1,unclassified
+R-Snd,,,,1,unclassified
+R-Unit,,,,1,unclassified
+R-Var,,,,1,unclassified
+R-VarRefine,,,,1,unclassified
+randomised,,,,1,unclassified
+Rastogi,,,,1,unclassified
+refinement-type-based,,,,1,unclassified
+Rivas,,,,1,unclassified
+Rybalchenko,,,,1,unclassified
+S-Abs,,,,1,unclassified
+S-BasicOp,,,,1,unclassified
+S-Fix,,,,1,unclassified
+Saurabh,,,,1,unclassified
+score(0,,,,1,unclassified
+Shenghua,,,,1,unclassified
+sub-formula,,,,1,unclassified
+sub-probability,,,,1,unclassified
+sub-terms,,,,1,unclassified
+Subhajit,,,,1,unclassified
+Tachio,,,,1,unclassified
+Tanter,,,,1,unclassified
+Terauchi,,,,1,unclassified
+Trivedi,,,,1,unclassified
+two_coin_conditioning,,,,1,unclassified
+type-based,,,,1,unclassified
+Type-Schemes,,,,1,unclassified
+TypeChecker1,,,,1,unclassified
+TypeChecker2,,,,1,unclassified
+UAI,,,,1,unclassified
+upper-bound,,,,1,unclassified
+variablesin,,,,1,unclassified
+well-typed-ness,,,,1,unclassified
+well-typedness,,,,1,unclassified
+wellformed,,,,1,unclassified
+workflow,,,,1,unclassified
+wp[JK,,,,1,unclassified
+wp[prog,,,,1,unclassified
+WPT,,,,1,unclassified
+Yasuhiko,,,,1,unclassified
+Ying,,,,1,unclassified
+Younesse,,,,1,unclassified
+Yuichiro,,,,1,unclassified
+Zamdzhiev,,,,1,unclassified
+Zhan,,,,1,unclassified
+Zhou,,,,1,unclassified
+Zinkov,,,,1,unclassified

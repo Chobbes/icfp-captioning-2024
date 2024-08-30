@@ -1,0 +1,17 @@
+* Introduction
+
+This repository contains the word lists for the ICFP 2023
+conference. There are directories for each day.
+
+The word lists contain a lot of junk right now, but they are sorted in
+a hopefully helpful order!
+
+- Any authors and institutions appear first
+- Words that exist in our ICFP glossary appear next
+- Unclassified words (words that don't appear in our glossary)  appear last
+- Within these categories the words are sorted by the number of
+  occurrences within the paper.
+
+There is also a glossary.csv file in the main directory. This contains
+a huge list of words that are known to have occurred in ICFPs in the
+past.

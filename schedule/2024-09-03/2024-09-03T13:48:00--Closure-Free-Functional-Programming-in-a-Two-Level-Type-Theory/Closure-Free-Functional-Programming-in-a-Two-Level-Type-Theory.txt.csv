@@ -1,0 +1,417 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Jeremy Yallop,,,,2,Author
+Meng Wang,,,,2,Author
+Nicolas Wu,,,,2,Author
+Paul Downen,,,,2,Author
+Amr Sabry,,,,1,Author
+Atsushi Igarashi,,,,1,Author
+Brigitte Pientka,,,,1,Author
+Edsko de Vries,,,,1,Author
+Gabriele Keller,,,,1,Author
+Giuseppe Castagna,,,,1,Author
+Jacques Garrigue,,,,1,Author
+Joachim Breitner,,,,1,Author
+KC Sivaramakrishnan,,,,1,Author
+Matthias Felleisen,,,,1,Author
+Ningning Xie,,,,1,Author
+Olivier Danvy,,,,1,researcher
+Simon Peyton Jones,,,,1,Author
+Stephanie Weirich,,,,1,Author
+Tom Schrijvers,,,,1,Author
+ Meta,,,,10,Institution
+University of Edinburgh,,,,1,Institution
+Gen,,,,64,
+staging,,,,49,
+monad,Mow-nad,,,38,Common-term
+Haskell,,,,37,Common-term programming-language
+ACM,,Association for Computing Machinery,,27,
+Agda,,Agda-style,,26,Common-term Programming-language
+runtime,,,,25,Common-term
+functional programming,,,,23,
+K ,,“K axiom”,,18,
+closures,,,,17,Common-term
+Meta-level,,,,17,Common-term
+cons,kon-ss,,,16,
+monadic,Mow-nad-ick,,,15,
+nil,,,,12,
+abstraction,,,,11,Common-term
+GHC,,,,10,compiler tool
+Kiselyov,,,,10,
+metaprograms,,,,10,
+monad transformer,,,,10,Common-term
+semantics,,,,10,
+axiom,,,,9,
+compiled,,,,9,
+dependent,,,,9,Common-term
+expression,,,,9,Common-term
+Id,,,,9,
+inductive,,,,9,Common-term
+recursive,,,,9,Common-term
+Go,,,,8,
+presheaf,,,,8,Common-term
+universe,,dependent types,,8,theory
+closure,,,,7,Common-term
+Dependent types,,,,7,types
+metaprogramming,,,,7,Common-term
+SIGPLAN,,special interest group on programming languages,,7,
+StateT,,,,7,Common-term
+abstractions,,,,6,
+compiler,,,,6,Common-term
+constructor,,,,6,Common-term
+stack,,,,6,
+Template Haskell ,,,,6,tool
+Call-by-Name,,(CBN),,5,Common-term evaluation
+compile-time,,,,5,Common-term
+metalanguage,,,,5,
+MTL,,,,5,
+recursion,,,,5,Common-term
+syntactic,,,,5,Common-term
+syntax,,,,5,Common-term
+CBPV,,Call-by-Push-Value,,4,Common-term evaluation
+CPS,C.P.S.,abbreviation for continuation-passing style ,,4,
+definitionally,,,,4,theory
+extensional,,functions,,4,theory
+foreach,,quantifier,,4,Common-term
+simply-typed,,,,4,Common-term
+Wadler,,,,4,Name
+axioms,,,,3,
+Boolean,,,,3,
+Call-by-Push-Value,,(CBPV),,3,Common-term evaluation
+coinductive,,,,3,Common-term
+derive,,,,3,
+ecosystem,,,,3,
+Flanagan,,,,3,
+generic,,,,3,
+higher-order,,,,3,Common-term
+induction,,,,3,Common-term
+IO,Eye-oh,,,3,
+logical relation,,,,3,Common-term
+metaprogram,,,,3,
+operational semantics,,,,3,
+polymorphic,,,,3,Common-term
+Semantic,,,,3,Common-term
+well-typed,,,,3,Common-term
+Why,,,,3,
+allocations,,,,2,Common-term
+applicative,,,,2,Common-term
+Dybjer,,,,2,
+Elimination,,,,2,
+existentials,,quantification,,2,Common-term logic
+expressive,,,,2,Common-term
+functor,,,,2,Common-term
+ICFP,,Conference,,2,Common-term
+isomorphic,,,,2,Common-term
+lambda calculi,,,,2,Common-term
+Leroy,,,,2,Name
+Levy,,,,2,
+matching,,“pattern matching”,,2,Common-term
+MetaML,,,,2,
+MetaOCaml,,,,2,
+OCaml,,,,2,Common-term programming-language
+PLDI,,Conference,,2,Common-term
+POPL,pop-ill,Conference,,2,Common-term
+propositional equality,,,,2,Common-term
+Staged Compilation with Two-Level Type Theory,,,,2,Title
+Voevodsky,,,,2,Name
+zip,,,,2,
+ANF,,,,1,
+applicative functor,,,,1,
+bidirectional,,,,1,
+boilerplate,,,,1,
+Call-by-Value,,(CBV),,1,Common-term evaluation
+category,,,,1,
+combinator,,,,1,Common-term
+conservative,,,,1,theory
+context,,,,1,Common-term
+continuation,,,,1,
+Datatype-generic programming,,,,1,
+decidable,,,,1,
+desugaring,,,,1,Common-term
+domain theory,,,,1,Common-term
+erasure,,type erasure,,1,Common-term
+exponential,,,,1,
+filter,,,,1,
+force,,,,1,Common-term evaluation
+formalization,,,,1,Common-term
+Girard,,,,1,Name
+Glasgow Haskell Compiler,,,,1,compiler tool
+Haskell@ICFP,,,,1,email
+heap,,,,1,
+higher-order function,,,,1,
+inferring,,,,1,
+laziness,,,,1,
+Lean,,,,1,
+let-bound,,,,1,Common-term
+match,,,,1,
+monoid,,,,1,Common-term
+normalization,,computations,,1,theory
+paradigm,,,,1,Common-term
+pattern matching,,,,1,
+PEPM@POPL,,,,1,email
+permissions@acm.org,,,,1,email
+Peyton Jones,,,,1,Name
+polymorphism,,,,1,Common-term
+Power,,,,1,
+propositional,,,,1,Common-term
+quantified,,,,1,Common-term
+redex,,,,1,
+reflect,,,,1,
+reifies,,,,1,
+relational,,,,1,
+Scheme,,,,1,Common-term programming-language
+subtyping,,,,1,Common-term
+syntax sugar,,,,1,
+tail call,,,,1,
+tail-recursive,,,,1,
+thunk,,,,1,Common-term evaluation
+transition graph,,,,1,
+traversal,,,,1,Common-term
+weakening,,,,1,Common-term
+well-formed,,,,1,Common-term
+CFTT,,,,38,unclassified
+MetaTy,,,,36,unclassified
+object-level,,,,35,unclassified
+ValTy,,,,27,unclassified
+IsSOP,,,,26,unclassified
+concatMap,,,,23,unclassified
+USOP,,,,20,unclassified
+MaybeTM,,,,19,unclassified
+Closure-Free,,,,18,unclassified
+FunSOP,,,,18,unclassified
+MonadGen,,,,18,unclassified
+ElSOP,,,,15,unclassified
+CompTy,,,,12,unclassified
+False,,,,12,unclassified
+let-insertion,,,,11,unclassified
+MaybeT,,,,11,unclassified
+binding-time,,,,10,unclassified
+foldr,,,,10,unclassified
+generativity,,,,10,unclassified
+letrec,,,,10,unclassified
+MonadJoin,,,,9,unclassified
+newtype,,,,9,unclassified
+2LTT,,,,8,unclassified
+liftGen,,,,7,unclassified
+projS,,,,7,unclassified
+StateTM,,,,7,unclassified
+unGen,,,,7,unclassified
+W-types,,,,7,unclassified
+casePull,,,,6,unclassified
+inlining,,,,6,unclassified
+rep-1,,,,6,unclassified
+WCFTT,,,,6,unclassified
+BoolM,,,,5,unclassified
+Coutts,,,,5,unclassified
+genFunSOP,,,,5,unclassified
+inlined,,,,5,unclassified
+joinJust,,,,5,unclassified
+Loh,,,,5,unclassified
+MonadReaderDict,,,,5,unclassified
+ReaderTM,,,,5,unclassified
+runGen,,,,5,unclassified
+sums-of-products,,,,5,unclassified
+bindsingle,,,,4,unclassified
+closure-freedom,,,,4,unclassified
+first-order,,,,4,unclassified
+foldl,,,,4,unclassified
+genPull,,,,4,unclassified
+genRec,,,,4,unclassified
+joinNothing,,,,4,unclassified
+JustM,,,,4,unclassified
+let-bind,,,,4,unclassified
+NothingM,,,,4,unclassified
+SplitTo,,,,4,unclassified
+Annenkov,,,,3,unclassified
+arity,,,,3,unclassified
+AUTHOR(S,,,,3,unclassified
+countFrom,,,,3,unclassified
+do-notation,,,,3,unclassified
+EitherSOP,,,,3,unclassified
+fst,,,,3,unclassified
+GHC's,,,,3,unclassified
+let-definitions,,,,3,unclassified
+mapM,,,,3,unclassified
+non-dependent,,,,3,unclassified
+non-staged,,,,3,unclassified
+projSeed,,,,3,unclassified
+projStep,,,,3,unclassified
+ReaderT,,,,3,unclassified
+short-circuiting,,,,3,unclassified
+snd,,,,3,unclassified
+strymonas,,,,3,unclassified
+Suc,,,,3,unclassified
+W-type,,,,3,unclassified
+ad-hoc,,,,2,unclassified
+al.'s,,,,2,unclassified
+Ariola,,,,2,unclassified
+arities,,,,2,unclassified
+binding-time-improvement,,,,2,unclassified
+Blott,,,,2,unclassified
+case-of-case,,,,2,unclassified
+Church-encodings,,,,2,unclassified
+Comput,,,,2,unclassified
+Downen,,,,2,unclassified
+FalseM,,,,2,unclassified
+Hage,,,,2,unclassified
+Haskell-like,,,,2,unclassified
+Haskell-style,,,,2,unclassified
+high-performance,,,,2,unclassified
+Hugunin,,,,2,unclassified
+injecti,,,,2,unclassified
+joinPoints,,,,2,unclassified
+Jurriaan,,,,2,unclassified
+let-definition,,,,2,unclassified
+let-s,,,,2,unclassified
+let-unfolding,,,,2,unclassified
+Lippmeier,,,,2,unclassified
+MaybeM,,,,2,unclassified
+metafunction,,,,2,unclassified
+metatypes,,,,2,unclassified
+MetaTy}{B,,,,2,unclassified
+Moerdijk,,,,2,unclassified
+MonadState,,,,2,unclassified
+NatM,,,,2,unclassified
+pull-based,,,,2,unclassified
+Rsup,,,,2,unclassified
+runIdentity,,,,2,unclassified
+runMaybeT,,,,2,unclassified
+SOP-s,,,,2,unclassified
+SplitList,,,,2,unclassified
+sub-universe,,,,2,unclassified
+TrueM,,,,2,unclassified
+up-s,,,,2,unclassified
+Yallop,,,,2,unclassified
+2LTT-based,,,,1,unclassified
+2LTT-s,,,,1,unclassified
+A-typed,,,,1,unclassified
+aan,,,,1,unclassified
+accummulator,,,,1,unclassified
+Agda's,,,,1,unclassified
+Aggelos,,,,1,unclassified
+Alphen,,,,1,unclassified
+Altenkirch,,,,1,unclassified
+ArXiv,,,,1,unclassified
+becase,,,,1,unclassified
+becuse,,,,1,unclassified
+Berardi,,,,1,unclassified
+beta-reductions,,,,1,unclassified
+Biboudis,,,,1,unclassified
+Breitner,,,,1,unclassified
+callby-value,,,,1,unclassified
+Capriotti,,,,1,unclassified
+case-split,,,,1,unclassified
+case-splitting,,,,1,unclassified
+CFTT-s,,,,1,unclassified
+Church-codings,,,,1,unclassified
+closure-based,,,,1,unclassified
+concatMap-ing,,,,1,unclassified
+concatMap-s,,,,1,unclassified
+continuationpassing-style,,,,1,unclassified
+Dagstuhl,,,,1,unclassified
+Danil,,,,1,unclassified
+Danvy,,,,1,unclassified
+de'Liguoro,,,,1,unclassified
+de-duplicate,,,,1,unclassified
+dictionary-passing,,,,1,unclassified
+Doligez,,,,1,unclassified
+domain-specific,,,,1,unclassified
+domainspecific,,,,1,unclassified
+down-s,,,,1,unclassified
+Duba,,,,1,unclassified
+e-prints,,,,1,unclassified
+easy-to-optimize,,,,1,unclassified
+Eta-Expansion,,,,1,unclassified
+field1,,,,1,unclassified
+field2,,,,1,unclassified
+GADTstyle,,,,1,unclassified
+GHC.Base,,,,1,unclassified
+Gomard,,,,1,unclassified
+Hanne,,,,1,unclassified
+Haskell's,,,,1,unclassified
+Hermenegildo,,,,1,unclassified
+https,,,,1,unclassified
+identity-erased,,,,1,unclassified
+Ieke,,,,1,unclassified
+IFL,,,,1,unclassified
+Informatik,,,,1,unclassified
+IsSumVS,,,,1,unclassified
+Jean-Yves,,,,1,unclassified
+LeftSOP,,,,1,unclassified
+Leibniz-Zentrum,,,,1,unclassified
+let-binding,,,,1,unclassified
+let-defined,,,,1,unclassified
+LIPIcs,,,,1,unclassified
+list-like,,,,1,unclassified
+loopA,,,,1,unclassified
+loopAi,,,,1,unclassified
+Magalhaes,,,,1,unclassified
+Malmkjaer,,,,1,unclassified
+meta-monads,,,,1,unclassified
+metafunctions,,,,1,unclassified
+MetaTy+1,,,,1,unclassified
+ML-s,,,,1,unclassified
+MonadReader,,,,1,unclassified
+multi-stage,,,,1,unclassified
+nice-looking,,,,1,unclassified
+non-closure-based,,,,1,unclassified
+non-compositional,,,,1,unclassified
+non-recursive,,,,1,unclassified
+non-skipping,,,,1,unclassified
+non-terminating,,,,1,unclassified
+object-meta,,,,1,unclassified
+object-theoretic,,,,1,unclassified
+object-wise,,,,1,unclassified
+opt-in,,,,1,unclassified
+owner/author(s,,,,1,unclassified
+Palladinos,,,,1,unclassified
+Palsberg,,,,1,unclassified
+parametricity,,,,1,unclassified
+PEPM,,,,1,unclassified
+pragmas,,,,1,unclassified
+presheaves,,,,1,unclassified
+primTrustMe,,,,1,unclassified
+push-based,,,,1,unclassified
+RightSOP,,,,1,unclassified
+Rompf,,,,1,unclassified
+round-tripping,,,,1,unclassified
+runMaybeTM,,,,1,unclassified
+runReaderT,,,,1,unclassified
+runReaderTM,,,,1,unclassified
+runStateT,,,,1,unclassified
+runStateTM,,,,1,unclassified
+Sattler,,,,1,unclassified
+second-order,,,,1,unclassified
+second-rank,,,,1,unclassified
+Sestoft,,,,1,unclassified
+SIGPLAN'93,,,,1,unclassified
+Smaragdakis,,,,1,unclassified
+Soesterberg,,,,1,unclassified
+Software-Defined,,,,1,unclassified
+SOP-of-object-code,,,,1,unclassified
+stage-directed,,,,1,unclassified
+staging-time,,,,1,unclassified
+StateM,,,,1,unclassified
+sub-universes,,,,1,unclassified
+sum-of-products,,,,1,unclassified
+Tarski-style,,,,1,unclassified
+Tiark,,,,1,unclassified
+Tomoaki,,,,1,unclassified
+trade-offs,,,,1,unclassified
+transitioning,,,,1,unclassified
+two-stage,,,,1,unclassified
+"types,1",,,,1,unclassified
+use-case,,,,1,unclassified
+value-computation,,,,1,unclassified
+Vanhoof,,,,1,unclassified
+Vechev,,,,1,unclassified
+Voevodsky's,,,,1,unclassified
+Voigtlander,,,,1,unclassified
+Vouillon,,,,1,unclassified
+Walid,,,,1,unclassified
+weakly-typed,,,,1,unclassified
+Weirich,,,,1,unclassified
+well-typing,,,,1,unclassified
+WGP,,,,1,unclassified
+x.x,,,,1,unclassified
+Yannis,,,,1,unclassified
+zipWith,,,,1,unclassified

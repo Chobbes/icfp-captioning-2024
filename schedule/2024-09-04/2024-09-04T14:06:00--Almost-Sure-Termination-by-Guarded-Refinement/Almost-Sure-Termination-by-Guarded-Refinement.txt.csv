@@ -1,0 +1,438 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Lars Birkedal,,,,17,Author
+Derek Dreyer,,,,7,Author
+Robbert Krebbers,,,,5,Author
+Ugo Dal Lago,,,,5,Author
+Joseph Tassarotti,,,,4,Author
+Alejandro Aguirre,,,,3,Author
+Amin Timany,,,,3,Author
+Gilles Barthe,,,,3,Author
+Ralf Jung,,,,3,Author
+Simon Oddershede Gregersen,,,,3,Author
+Amal Ahmed,,,,2,Author
+Filip Sieczkowski,,,,2,Author
+Naoki Kobayashi,,,,2,Author
+Simon Spies,,,,2,Author
+Guillaume Melquiond,,,,1,Author
+Jonas Kastberg Hinrichsen,,,,1,Author
+Neel Krishnaswami,,,,1,Author
+Peter Thiemann,,,,1,Author
+ Independent,,,,2,Institution
+probabilistic,,,,83,Common-term
+stack,,,,60,
+higher-order,,,,48,Common-term
+modality,,,,38,Common-term
+probability,,,,37,Common-term
+recursion,,,,37,Common-term
+induction,,,,29,Common-term
+separation logic,,,,27,Common-term
+ACM,,Association for Computing Machinery,,26,
+lemma,,,,26,Common-term
+theorem,,,,22,Common-term
+Ret,,,,18,
+Iris,,,,17,theorem-proving tool
+AST ,A.S.T.,Abstract Syntax Tree,,15,
+distribution,,,,15,
+POPL,pop-ill,Conference,,15,Common-term
+recursive,,,,15,Common-term
+ref,,,,14,
+relational,,,,11,
+concurrent,,,,10,Common-term
+step-indexed,,“step-indexed logical relations” “step-indexed logics” “step-indexed reasoning”,,9,Common-term
+semantics,,,,8,
+modalities,,,,7,Common-term
+Non-determinism,,,,7,Common-term
+stochastic,Stow-kas-tick,,,7,Common-term statistics
+transfinite,,,,7,
+constructor,,,,6,Common-term
+Coq,“Coq”,,,6,Common-term programming-language theorem-prover
+refinements,,,,6,
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,5,
+monadic,Mow-nad-ick,,,5,
+Pottier,,,,5,
+combinator,,,,4,Common-term
+contextual,,,,4,Common-term
+ghost,,,,4,
+logical relation,,,,4,Common-term
+match,,,,4,
+monotone,,,,4,Common-term
+recursion schemes,,,,4,
+runtime,,,,4,Common-term
+Semantic,,,,4,Common-term
+syntactic,,,,4,Common-term
+amortized,,amortized analyses,,3,Common-term
+Appel,,,,3,
+composable,,,,3,
+decidable,,,,3,
+expression,,,,3,Common-term
+generic,,,,3,
+Hoare,Like “horse”,,,3,Name
+ICFP,,Conference,,3,Common-term
+inductive,,,,3,Common-term
+iterations,,,,3,
+lambda calculus,lam-duh calculus,,,3,theory
+noninterference,,,,3,Common-term
+SIGPLAN,,special interest group on programming languages,,3,
+symbolic,,,,3,
+abstraction,,,,2,Common-term
+abstractions,,,,2,
+Aguirre,,,,2,
+Barthe,,,,2,
+Bernoulli,,,,2,
+Boolean,,,,2,
+calculi,,,,2,
+calculus,,Used to describe a core simple programming language,,2,Common-term
+conclusion,,,,2,
+concurrency,,,,2,Common-term
+context,,,,2,Common-term
+Dirac distribution,,,,2,
+Elimination,,,,2,
+erasure,,type erasure,,2,Common-term
+heap,,,,2,
+model checking,,Automatic theorem proving,,2,technique tool
+modular,,,,2,Common-term
+nondeterminism,,,,2,
+nondeterministic,,,,2,
+PLDI,,Conference,,2,Common-term
+Reynolds,,,,2,Name
+Tarski,,,,2,
+transition system,,,,2,
+Why,,,,2,
+Abel,,,,1,Name
+adjoint,,,,1,theory
+angelic ,,,,1,
+atomicity,,,,1,Common-term
+automata,,,,1,Common-term
+Call-by-Value,,(CBV),,1,Common-term evaluation
+closures,,,,1,Common-term
+conjunction,,,,1,
+continuation,,,,1,
+continuation-passing style,,,,1,
+derive,,,,1,
+deriving,,,,1,
+discrete,,,,1,
+divergence,,,,1,Common-term
+domain theory,,,,1,Common-term
+entailment,,,,1,
+fixpoint,,,,1,Common-term
+fold,,,,1,Common-term
+functional programming,,,,1,
+Hsu,,,,1,
+intersection types,,,,1,Common-term
+K ,,“K axiom”,,1,
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,1,
+linear,,,,1,Common-term
+modal,,,,1,
+modularity,,,,1,Common-term
+monad,Mow-nad,,,1,Common-term
+monoids,,,,1,Common-term
+monotonicity,,Mathematical property,,1,Common-term
+Prop,,,,1,
+ReLoC ,,Logical relations in iris,,1,
+Small-step operational semantics,,,,1,
+syntax,,,,1,Common-term
+synthetic,,,,1,
+traversal,,,,1,Common-term
+well-typed,,,,1,Common-term
+rwp,,,,69,unclassified
+Almost-Sure,,,,39,unclassified
+presampling,,,,17,unclassified
+listgen,,,,16,unclassified
+false,,,,12,unclassified
+Galton-Watson,,,,12,unclassified
+almost-surely,,,,11,unclassified
+left-partial,,,,11,unclassified
+termination-preserving,,,,11,unclassified
+treap,,,,11,unclassified
+cmpList,,,,10,unclassified
+getB,,,,9,unclassified
+cmp,,,,8,unclassified
+https,,,,8,unclassified
+lazily-sampled,,,,8,unclassified
+non-probabilistic,,,,8,unclassified
+unif,,,,8,unclassified
+Comput,,,,7,unclassified
+ETAPS,,,,7,unclassified
+first-order,,,,7,unclassified
+genTree,,,,7,unclassified
+IsTreap,,,,7,unclassified
+Kaminski,,,,7,unclassified
+LazyReal,,,,7,unclassified
+non-terminating,,,,7,unclassified
+PHORS,,,,7,unclassified
+rwp-coupl-rand,,,,7,unclassified
+Bizjak,,,,6,unclassified
+Cmps,,,,6,unclassified
+Gregersen,,,,6,unclassified
+ProbLang,,,,6,unclassified
+sampleNode,,,,6,unclassified
+Birkedal,,,,5,unclassified
+Cfg,,,,5,unclassified
+iProp,,,,5,unclassified
+later-mono,,,,5,unclassified
+McIver,,,,5,unclassified
+spec(false,,,,5,unclassified
+Chakarov,,,,4,unclassified
+exec-1,,,,4,unclassified
+Frumin,,,,4,unclassified
+Grellois,,,,4,unclassified
+Joost-Pieter,,,,4,unclassified
+Katoen,,,,4,unclassified
+Nakano,,,,4,unclassified
+non-deterministic,,,,4,unclassified
+ref-model-prog,,,,4,unclassified
+rwp-spec-det,,,,4,unclassified
+Sankaranarayanan,,,,4,unclassified
+spec(true,,,,4,unclassified
+Tassarotti,,,,4,unclassified
+Timany,,,,4,unclassified
+treaps,,,,4,unclassified
+Avanzini,,,,3,unclassified
+Caliper's,,,,3,unclassified
+cmpB,,,,3,unclassified
+Devroye,,,,3,unclassified
+dom(1,,,,3,unclassified
+Esparza,,,,3,unclassified
+Expr,,,,3,unclassified
+fixed-point,,,,3,unclassified
+foldM(sstep,,,,3,unclassified
+higherorder,,,,3,unclassified
+IsList,,,,3,unclassified
+IsStack,,,,3,unclassified
+Jacques-Henri,,,,3,unclassified
+lfp,,,,3,unclassified
+meta-logic,,,,3,unclassified
+Mevel,,,,3,unclassified
+non-empty,,,,3,unclassified
+presampled,,,,3,unclassified
+ref-model,,,,3,unclassified
+ref-prog,,,,3,unclassified
+ref-val,,,,3,unclassified
+rwp-pure,,,,3,unclassified
+SIGPLAN-SIGACT,,,,3,unclassified
+Stack.add,,,,3,unclassified
+Stack.take,,,,3,unclassified
+step-indexing,,,,3,unclassified
+sub-distribution,,,,3,unclassified
+sub-distributions,,,,3,unclassified
+super-martingales,,,,3,unclassified
+Svendsen,,,,3,unclassified
+terminationpreserving,,,,3,unclassified
+Agrawal,,,,2,unclassified
+almostsurely,,,,2,unclassified
+Arons,,,,2,unclassified
+Athreya,,,,2,unclassified
+Atkey,,,,2,unclassified
+Borel-Cantelli,,,,2,unclassified
+Bournez,,,,2,unclassified
+Brazdil,,,,2,unclassified
+Chargueraud,,,,2,unclassified
+cpl-model,,,,2,unclassified
+cpl-model-prog,,,,2,unclassified
+cpl-prog,,,,2,unclassified
+dynamically-allocated,,,,2,unclassified
+Eberl,,,,2,unclassified
+Ectx,,,,2,unclassified
+Etessami,,,,2,unclassified
+event-loop,,,,2,unclassified
+exec0,,,,2,unclassified
+Feng,,,,2,unclassified
+Fioriti,,,,2,unclassified
+FOSSACS,,,,2,unclassified
+Garnier,,,,2,unclassified
+Hermanns,,,,2,unclassified
+Hongseok,,,,2,unclassified
+inr,,,,2,unclassified
+Krishnendu,,,,2,unclassified
+Kwiatkowska,,,,2,unclassified
+Lago,,,,2,unclassified
+Landin,,,,2,unclassified
+Landin's,,,,2,unclassified
+lazy-sampled,,,,2,unclassified
+LazyReal((R)1,,,,2,unclassified
+LazyReal((R)2,,,,2,unclassified
+LICS,,,,2,unclassified
+Lindvall,,,,2,unclassified
+List.init,,,,2,unclassified
+Majumdar,,,,2,unclassified
+Matheja,,,,2,unclassified
+modality--only,,,,2,unclassified
+Mumbai,,,,2,unclassified
+order-2,,,,2,unclassified
+Pnueli,,,,2,unclassified
+pRHL,,,,2,unclassified
+Run-Times,,,,2,unclassified
+rwp-rand,,,,2,unclassified
+rwp-tape-empty,,,,2,unclassified
+Sathiyanarayana,,,,2,unclassified
+self-referential,,,,2,unclassified
+sstep(1,,,,2,unclassified
+Stack.create,,,,2,unclassified
+step--which,,,,2,unclassified
+super-martingale,,,,2,unclassified
+Supermartingales,,,,2,unclassified
+termination-insensitive,,,,2,unclassified
+Thorisson,,,,2,unclassified
+user-chosen,,,,2,unclassified
+Villani,,,,2,unclassified
+workarounds,,,,2,unclassified
+Yannakakis,,,,2,unclassified
+zero-one,,,,2,unclassified
+2We,,,,1,unclassified
+ACM/IEEE,,,,1,unclassified
+Aleksandar,,,,1,unclassified
+Algorithmica,,,,1,unclassified
+almost-termination,,,,1,unclassified
+Armael,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+Autom,,,,1,unclassified
+body's,,,,1,unclassified
+breadthfirst,,,,1,unclassified
+Caires,,,,1,unclassified
+Caliper.4,,,,1,unclassified
+Carbonneaux,,,,1,unclassified
+Carreno,,,,1,unclassified
+chain's,,,,1,unclassified
+Compositionality,,,,1,unclassified
+continuation-passing,,,,1,unclassified
+Countributions,,,,1,unclassified
+Culpepper,,,,1,unclassified
+D.L,,,,1,unclassified
+Deepak,,,,1,unclassified
+depth-first,,,,1,unclassified
+discrete-time,,,,1,unclassified
+Ejlers,,,,1,unclassified
+Espitau,,,,1,unclassified
+everywhere-zero,,,,1,unclassified
+execution--exactly,,,,1,unclassified
+execution.1,,,,1,unclassified
+Faggian,,,,1,unclassified
+first-in-first-out,,,,1,unclassified
+fixedpoint,,,,1,unclassified
+fst,,,,1,unclassified
+Funct,,,,1,unclassified
+future--reach,,,,1,unclassified
+Gaboardi,,,,1,unclassified
+Gaher,,,,1,unclassified
+Gethin,,,,1,unclassified
+Giannakopoulos,,,,1,unclassified
+Giesl,,,,1,unclassified
+Gondelman,,,,1,unclassified
+Gratzer,,,,1,unclassified
+guarded-recursive,,,,1,unclassified
+Gueneau,,,,1,unclassified
+Haselwarter,,,,1,unclassified
+Haslbeck,,,,1,unclassified
+hoare-style,,,,1,unclassified
+Hoare-triple-like,,,,1,unclassified
+Holger,,,,1,unclassified
+Hongfei,,,,1,unclassified
+Iris's,,,,1,unclassified
+Iris-style,,,,1,unclassified
+K.B,,,,1,unclassified
+Kousha,,,,1,unclassified
+Kucera,,,,1,unclassified
+later-and,,,,1,unclassified
+later-intro,,,,1,unclassified
+later-sep,,,,1,unclassified
+lattice-theoretical,,,,1,unclassified
+lazy-real,,,,1,unclassified
+Lelay,,,,1,unclassified
+let-bindings,,,,1,unclassified
+letrec,,,,1,unclassified
+lower-bounded,,,,1,unclassified
+lower-bounds,,,,1,unclassified
+Madhusudan,,,,1,unclassified
+may-termination,,,,1,unclassified
+Mellies,,,,1,unclassified
+Micha,,,,1,unclassified
+Mihalis,,,,1,unclassified
+Mingshuai,,,,1,unclassified
+ML-like,,,,1,unclassified
+model-agnostic,,,,1,unclassified
+Mogelberg,,,,1,unclassified
+Moreover--most,,,,1,unclassified
+Munoz,,,,1,unclassified
+must-termination,,,,1,unclassified
+Naijun,,,,1,unclassified
+Nieto,,,,1,unclassified
+Nipkow,,,,1,unclassified
+non-adjacent,,,,1,unclassified
+non-AST,,,,1,unclassified
+non-trivial,,,,1,unclassified
+Olmedo,,,,1,unclassified
+OOPSLA1,,,,1,unclassified
+P.E,,,,1,unclassified
+partially-sampled,,,,1,unclassified
+Paul-Andre,,,,1,unclassified
+pGCL,,,,1,unclassified
+Pierre-Yves,,,,1,unclassified
+point-wise,,,,1,unclassified
+points-to,,,,1,unclassified
+points-to-connective,,,,1,unclassified
+pre-select,,,,1,unclassified
+pre-selected,,,,1,unclassified
+presample,,,,1,unclassified
+presamples,,,,1,unclassified
+purposes--from,,,,1,unclassified
+Rajamani,,,,1,unclassified
+RaML,,,,1,unclassified
+Rasmus,,,,1,unclassified
+refinement--in,,,,1,unclassified
+refmodel,,,,1,unclassified
+Ronchi,,,,1,unclassified
+runtimes,,,,1,unclassified
+Rupak,,,,1,unclassified
+rwp-alloc,,,,1,unclassified
+rwp-bind,,,,1,unclassified
+rwp-frame,,,,1,unclassified
+rwp-load,,,,1,unclassified
+rwp-mono,,,,1,unclassified
+rwp-store,,,,1,unclassified
+rwp-tape,,,,1,unclassified
+rwp-tape-alloc,,,,1,unclassified
+rwp-val,,,,1,unclassified
+rwpcoupl-rand,,,,1,unclassified
+sampled.3,,,,1,unclassified
+Sanjit,,,,1,unclassified
+Schwinghammer,,,,1,unclassified
+SeLoC,,,,1,unclassified
+Seshia,,,,1,unclassified
+Sharir,,,,1,unclassified
+Shenghua,,,,1,unclassified
+Sheshansh,,,,1,unclassified
+short-circuits,,,,1,unclassified
+Size-constrained,,,,1,unclassified
+snd,,,,1,unclassified
+Sofiene,,,,1,unclassified
+spec(1,,,,1,unclassified
+Springer-Verlag,,,,1,unclassified
+sstep,,,,1,unclassified
+stack-based,,,,1,unclassified
+Stefanesco,,,,1,unclassified
+step(if,,,,1,unclassified
+step(rand,,,,1,unclassified
+step-index,,,,1,unclassified
+Stovring,,,,1,unclassified
+sub)-Markov,,,,1,unclassified
+sub-sequences,,,,1,unclassified
+surprisingly--and,,,,1,unclassified
+suspiciously--simple,,,,1,unclassified
+Swasey,,,,1,unclassified
+tapes.2,,,,1,unclassified
+Tarski's,,,,1,unclassified
+termination-preservation,,,,1,unclassified
+termination-sensitive,,,,1,unclassified
+Theophilos,,,,1,unclassified
+Thessaloniki,,,,1,unclassified
+TPHOLs,,,,1,unclassified
+unfoldings,,,,1,unclassified
+Union-Find,,,,1,unclassified
+User-Friendly,,,,1,unclassified
+VMCAI,,,,1,unclassified
+Vouillon,,,,1,unclassified
+we--at,,,,1,unclassified
+weakest-precondition,,,,1,unclassified
+while-loop,,,,1,unclassified
+Zhan,,,,1,unclassified
+Zuck,,,,1,unclassified

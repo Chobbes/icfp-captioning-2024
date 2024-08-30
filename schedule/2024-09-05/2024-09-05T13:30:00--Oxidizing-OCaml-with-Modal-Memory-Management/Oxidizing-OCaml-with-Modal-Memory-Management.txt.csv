@@ -1,0 +1,453 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Arnaud Spiwack,,,,4,Author
+Dominic Orchard,,,,3,Author
+Jean-Philippe Bernardy,,,,3,Author
+Lars Birkedal,,,,3,Author
+Martin Elsman,,,,3,Author
+Sam Lindley,,,,3,Author
+Daan Leijen,,,,2,Author
+Frank Pfenning,Frank “Fenning”,,,2,Author
+Leonardo de Moura,,,,2,Author
+Stephanie Weirich,,,,2,Author
+Andreas Abel,,,,1,Author
+Anton Lorenzen,,,,1,Author
+Brigitte Pientka,,,,1,Author
+Csongor Kiss,,,,1,Author
+Edsko de Vries,,,,1,Author
+Guillaume Munch-Maccagnoni,,,,1,Author
+Jeremy Yallop,,,,1,Author
+Jonathan Protzenko,,,,1,Author
+Junyoung Jang,,,,1,Author
+Klaas Pruiksma,,,,1,Author
+Nicolas Wu,,,,1,Author
+Ningning Xie,,,,1,Author
+Sebastian Ullrich,,,,1,Author
+Simon Peyton Jones,,,,1,Author
+Steve Zdancewic,,,,1,Author
+Tobias Wrigstad,,,,1,Author
+Wenhao Tang,,,,1,Author
+Wouter Swierstra,,,,1,Author
+ Independent,,,,1,Institution
+IT University of Copenhagen,,,,1,Institution
+context,,,,63,Common-term
+inductive,,,,62,Common-term
+lemma,,,,46,Common-term
+modal,,,,45,
+OCaml,,,,44,Common-term programming-language
+calculus,,Used to describe a core simple programming language,,40,Common-term
+stack,,,,39,
+memory management,,,,31,Common-term
+induction,,,,30,Common-term
+K ,,“K axiom”,,30,
+syntax,,,,29,Common-term
+closure,,,,26,Common-term
+modality,,,,23,Common-term
+expression,,,,22,Common-term
+semantics,,,,22,
+semiring,,,,22,
+ACM,,Association for Computing Machinery,,20,
+derive,,,,19,
+modalities,,,,19,Common-term
+closures,,,,16,Common-term
+derivation,,,,16,
+linear,,,,14,Common-term
+well-formed,,,,13,Common-term
+ANF,,,,11,
+Call-by-Value,,(CBV),,11,Common-term evaluation
+heap,,,,11,
+functional programming,,,,10,
+Rust,,,,10,Common-term programming-language
+cons,kon-ss,,,9,
+weakening,,,,9,Common-term
+well-typed,,,,8,Common-term
+calculi,,,,7,
+garbage collection,,GC,,7,Common-term
+ICFP,,Conference,,7,Common-term
+polymorphism,,,,7,Common-term
+SIGPLAN,,special interest group on programming languages,,7,
+adjoint,,,,6,theory
+axiom,,,,6,
+Bernardy,,,,6,
+monotonicity,,Mathematical property,,6,Common-term
+syntax-directed,,,,6,
+Choudhury,,,,5,
+compiler,,,,5,Common-term
+immutable,,,,5,Common-term
+multimodal,,,,5,
+POPL,pop-ill,Conference,,5,Common-term
+Why,,,,5,
+Abel,,,,4,Name
+allocations,,,,4,Common-term
+constructor,,,,4,Common-term
+dependent,,,,4,Common-term
+higher-order,,,,4,Common-term
+linear types,,,,4,Common-term
+nil,,,,4,
+polymorphic,,,,4,Common-term
+Call-by-Push-Value,,(CBPV),,3,Common-term evaluation
+constraint solver,,,,3,
+continuation,,,,3,
+expressive,,,,3,Common-term
+fold,,,,3,Common-term
+inferring,,,,3,
+linear Haskell,,,,3,
+Matsakis,,,,3,
+normalization,,computations,,3,theory
+ref,,,,3,
+runtime,,,,3,Common-term
+Wadler,,,,3,Name
+well-formedness,,,,3,Common-term
+alias,,,,2,
+aliasing,,,,2,
+array,,,,2,Common-term
+borrows,,,,2,
+comonad,Koe-mow-nad,,,2,
+conclusion,,,,2,
+desugar,,,,2,Common-term
+Elimination,,,,2,
+exponential,,,,2,
+generic,,,,2,
+GHC,,,,2,compiler tool
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,2,
+judgement,,dependent types,,2,theory
+Krishnaswami,,,,2,
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,2,
+Levy,,,,2,
+match,,,,2,
+matching,,“pattern matching”,,2,Common-term
+Mezzo,,,,2,
+ML,,,,2,Programming-language
+monotone,,,,2,Common-term
+namespace,,,,2,Common-term
+namespaces,,,,2,Common-term
+pointer,,,,2,Common-term
+Pottier,,,,2,
+quantitative,,,,2,
+reduction,,,,2,Common-term
+symbolic,,,,2,
+tail call,,,,2,
+adjunction,,,,1,Common-term
+algorithmic,,,,1,Common-term
+antimonotonicity,,,,1,Common-term
+API,A.P.I.,Application Programming Interface,,1,Common-term
+Call-by-Name,,(CBN),,1,Common-term evaluation
+categorical semantics,,,,1,
+codebase,,,,1,Common-term
+combinator,,,,1,Common-term
+concurrency,,,,1,Common-term
+consistency,,Gradual typing,,1,theory
+de Moura,,,,1,
+Dependent types,,,,1,types
+effectful,,,,1,
+expressiveness,,,,1,Common-term
+fn,,,,1,
+force,,,,1,Common-term evaluation
+formalization,,,,1,Common-term
+garbage collector,,GC,,1,Common-term
+garbage-collected,,,,1,
+GC,,garbage collector,,1,Common-term
+Go,,,,1,
+lambda calculus,lam-duh calculus,,,1,theory
+lattice,,,,1,Common-term
+linear constraints,,,,1,
+memoization,,,,1,
+monadic,Mow-nad-ick,,,1,
+mutation,,,,1,
+normalize,,computations,,1,theory
+OOPSLA,oops-la,,,1,Conference
+operational semantics,,,,1,
+Power,,,,1,
+Protzenko,,,,1,
+recursion,,,,1,Common-term
+reduction relation,,,,1,
+reflect,,,,1,
+session types,,,,1,
+subtyping,,,,1,Common-term
+syntactic,,,,1,Common-term
+tail-recursive,,,,1,
+thunk,,,,1,Common-term evaluation
+Trigger,,,,1,
+inr,,,,76,unclassified
+uniqe,,,,29,unclassified
+in-place,,,,22,unclassified
+wf-ext,,,,10,unclassified
+JK,,,,9,unclassified
+usage-aware,,,,9,unclassified
+boxS,,,,8,unclassified
+let2,,,,8,unclassified
+"many,shared,local",,,,8,unclassified
+pair.fst,,,,8,unclassified
+sub-rule,,,,8,unclassified
+in1,,,,7,unclassified
+List.map,,,,7,unclassified
+type-preserving,,,,7,unclassified
+case2,,,,6,unclassified
+get_x,,,,6,unclassified
+borrow2,,,,5,unclassified
+for3,,,,5,unclassified
+init_local,,,,5,unclassified
+list_with_shared_elts,,,,5,unclassified
+rev_append,,,,5,unclassified
+Atkey,,,,4,unclassified
+boxG,,,,4,unclassified
+boxM,,,,4,unclassified
+enter_region,,,,4,unclassified
+Hallenberg,,,,4,unclassified
+leave_region,,,,4,unclassified
+map_to_shared,,,,4,unclassified
+parameterised,,,,4,unclassified
+side-effects,,,,4,unclassified
+stack-allocated,,,,4,unclassified
+tail-call,,,,4,unclassified
+Barendsen,,,,3,unclassified
+fst,,,,3,unclassified
+get_indented_lines,,,,3,unclassified
+graph_nodes,,,,3,unclassified
+Klock,,,,3,unclassified
+pair.snd,,,,3,unclassified
+region-based,,,,3,unclassified
+Smetsers,,,,3,unclassified
+Spiwack,,,,3,unclassified
+split_shared,,,,3,unclassified
+split_unique,,,,3,unclassified
+sub-expressions,,,,3,unclassified
+sub-moding,,,,3,unclassified
+wf-unused,,,,3,unclassified
+x_xs,,,,3,unclassified
+ACM/IEEE,,,,2,unclassified
+arXiv,,,,2,unclassified
+Beingessner,,,,2,unclassified
+borrow-rule,,,,2,unclassified
+Bruynooghe,,,,2,unclassified
+case-analysis,,,,2,unclassified
+Clebsch,,,,2,unclassified
+Curien,,,,2,unclassified
+Didrich,,,,2,unclassified
+Doligez,,,,2,unclassified
+Eades,,,,2,unclassified
+expr,,,,2,unclassified
+global_xs,,,,2,unclassified
+Gratzer,,,,2,unclassified
+Higher-Rank,,,,2,unclassified
+Licata,,,,2,unclassified
+linear/unique,,,,2,unclassified
+LNL,,,,2,unclassified
+M*M=M,,,,2,unclassified
+Mazurak,,,,2,unclassified
+n-tuples,,,,2,unclassified
+non-deterministic,,,,2,unclassified
+once(S,,,,2,unclassified
+"once,shared,local",,,,2,unclassified
+partially-ordered,,,,2,unclassified
+Petricek,,,,2,unclassified
+process_parts,,,,2,unclassified
+Pucella,,,,2,unclassified
+read_lines_from_file,,,,2,unclassified
+rev_graph_nodes,,,,2,unclassified
+rev_nodes,,,,2,unclassified
+run-time,,,,2,unclassified
+S*S=S,,,,2,unclassified
+side-conditions,,,,2,unclassified
+snd,,,,2,unclassified
+submoding,,,,2,unclassified
+Talpin,,,,2,unclassified
+Torczon,,,,2,unclassified
+unbox1,,,,2,unclassified
+unobservably,,,,2,unclassified
+wellformed,,,,2,unclassified
+wf-space,,,,2,unclassified
+x_xs.tl,,,,2,unclassified
+2-category,,,,1,unclassified
+A-normal,,,,1,unclassified
+Abrahamson,,,,1,unclassified
+Acevedo,,,,1,unclassified
+adjunctions,,,,1,unclassified
+Agrawal,,,,1,unclassified
+alias-tracking,,,,1,unclassified
+aliases--can,,,,1,unclassified
+allocation--usually,,,,1,unclassified
+allocationreducing,,,,1,unclassified
+app-rule,,,,1,unclassified
+apparently-immutable,,,,1,unclassified
+apply_and_reverse,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+Boespflug,,,,1,unclassified
+borrow!'s,,,,1,unclassified
+borrow-checker,,,,1,unclassified
+borrow3,,,,1,unclassified
+box's,,,,1,unclassified
+boxS1,,,,1,unclassified
+Cache-Locality,,,,1,unclassified
+call-byvalue,,,,1,unclassified
+case-rule,,,,1,unclassified
+cfv,,,,1,unclassified
+Chargin,,,,1,unclassified
+co-design,,,,1,unclassified
+Coarse-Grain,,,,1,unclassified
+comonadic,,,,1,unclassified
+compiler--instead,,,,1,unclassified
+compiler--is,,,,1,unclassified
+Comput,,,,1,unclassified
+Computerwetenschappen,,,,1,unclassified
+Context-dependent,,,,1,unclassified
+control-flow,,,,1,unclassified
+controlflow,,,,1,unclassified
+cordiale,,,,1,unclassified
+currying--and,,,,1,unclassified
+de-allocate,,,,1,unclassified
+Drossopoulou,,,,1,unclassified
+effects--we,,,,1,unclassified
+Elsman,,,,1,unclassified
+error(S,,,,1,unclassified
+f--with,,,,1,unclassified
+Fahndrich,,,,1,unclassified
+fdegree,,,,1,unclassified
+Fett,,,,1,unclassified
+first-order,,,,1,unclassified
+FMCO,,,,1,unclassified
+FnOnce,,,,1,unclassified
+FP2,,,,1,unclassified
+G-box,,,,1,unclassified
+G-unbox,,,,1,unclassified
+garbagecollection,,,,1,unclassified
+Gerke,,,,1,unclassified
+Grieskamp,,,,1,unclassified
+Hayo,,,,1,unclassified
+heap-allocated,,,,1,unclassified
+heapallocation-free,,,,1,unclassified
+Hillerstrom,,,,1,unclassified
+Hojfeld,,,,1,unclassified
+HRTBs,,,,1,unclassified
+https,,,,1,unclassified
+IFL,,,,1,unclassified
+Jianzhou,,,,1,unclassified
+Katholieke,,,,1,unclassified
+Kavvos,,,,1,unclassified
+Klabnik,,,,1,unclassified
+lam-rule,,,,1,unclassified
+latency-free,,,,1,unclassified
+len:int,,,,1,unclassified
+let-bindings,,,,1,unclassified
+let-rule,,,,1,unclassified
+LFCS,,,,1,unclassified
+Liepelt,,,,1,unclassified
+linearity/uniqueness,,,,1,unclassified
+list-append,,,,1,unclassified
+List.iter,,,,1,unclassified
+List.length,,,,1,unclassified
+local--as,,,,1,unclassified
+Lorenzen,,,,1,unclassified
+low-latency,,,,1,unclassified
+lower-level,,,,1,unclassified
+M+M,,,,1,unclassified
+M-box,,,,1,unclassified
+M-unbox,,,,1,unclassified
+many(M,,,,1,unclassified
+many(S,,,,1,unclassified
+many(SM,,,,1,unclassified
+many:2,,,,1,unclassified
+meta-variable,,,,1,unclassified
+Mingkun,,,,1,unclassified
+MLKit,,,,1,unclassified
+modalities[Jang,,,,1,unclassified
+mode-heavy,,,,1,unclassified
+mode/modality,,,,1,unclassified
+module-level,,,,1,unclassified
+Mycroft,,,,1,unclassified
+n(m,,,,1,unclassified
+Neelakantan,,,,1,unclassified
+non-escaping,,,,1,unclassified
+non-linear,,,,1,unclassified
+noncurried,,,,1,unclassified
+Nuyts,,,,1,unclassified
+OCaml's,,,,1,unclassified
+Okushi,,,,1,unclassified
+Olesen,,,,1,unclassified
+once(1,,,,1,unclassified
+"once,uniqe,global",,,,1,unclassified
+once--and,,,,1,unclassified
+open_file,,,,1,unclassified
+O}--corresponding,,,,1,unclassified
+Perceus,,,,1,unclassified
+performance-critical,,,,1,unclassified
+Pierre-Louis,,,,1,unclassified
+Plasmeijer,,,,1,unclassified
+point-wise,,,,1,unclassified
+Pradic,,,,1,unclassified
+pre-allocate,,,,1,unclassified
+pre-allocating,,,,1,unclassified
+Pritam,,,,1,unclassified
+process_parts_partial_sharing,,,,1,unclassified
+process_parts_shared,,,,1,unclassified
+process_parts_wrong,,,,1,unclassified
+Pruiksma,,,,1,unclassified
+r.f,,,,1,unclassified
+r.x,,,,1,unclassified
+rank-1,,,,1,unclassified
+re-introduced,,,,1,unclassified
+readme,,,,1,unclassified
+reference--what,,,,1,unclassified
+region-annotated,,,,1,unclassified
+reuse-rule,,,,1,unclassified
+Rinus,,,,1,unclassified
+Roshal,,,,1,unclassified
+Rustonomicon,,,,1,unclassified
+S*M,,,,1,unclassified
+S-box,,,,1,unclassified
+S-unbox,,,,1,unclassified
+Sestoft,,,,1,unclassified
+"shared,global",,,,1,unclassified
+"shared,local",,,,1,unclassified
+shared_node,,,,1,unclassified
+shared_node.s,,,,1,unclassified
+Shubh,,,,1,unclassified
+slightly-unexpected,,,,1,unclassified
+split-rule,,,,1,unclassified
+stack-allocate,,,,1,unclassified
+stack-frame,,,,1,unclassified
+stack.4,,,,1,unclassified
+statically-tracked,,,,1,unclassified
+step-rule,,,,1,unclassified
+sub-parts,,,,1,unclassified
+sub1,,,,1,unclassified
+sub2,,,,1,unclassified
+subkinding,,,,1,unclassified
+subterms,,,,1,unclassified
+SURFACE-LANGUAGE,,,,1,unclassified
+surface-level,,,,1,unclassified
+tail-position,,,,1,unclassified
+Thielecke,,,,1,unclassified
+threadshared,,,,1,unclassified
+times.1,,,,1,unclassified
+TLDI,,,,1,unclassified
+turnstyles,,,,1,unclassified
+two-argument,,,,1,unclassified
+Ullrich,,,,1,unclassified
+un-annotated,,,,1,unclassified
+unbox(box,,,,1,unclassified
+unbox-rule,,,,1,unclassified
+unboxG,,,,1,unclassified
+unboxM,,,,1,unclassified
+unboxS,,,,1,unclassified
+under-application,,,,1,unclassified
+unique--a,,,,1,unclassified
+unique--it,,,,1,unclassified
+uniquenesses,,,,1,unclassified
+Universiteit,,,,1,unclassified
+unused(0,,,,1,unclassified
+update--the,,,,1,unclassified
+update_snd,,,,1,unclassified
+updateability,,,,1,unclassified
+use-after-free,,,,1,unclassified
+user-defined,,,,1,unclassified
+user-visible,,,,1,unclassified
+user-written,,,,1,unclassified
+var-rule,,,,1,unclassified
+Velez-Ginorio,,,,1,unclassified
+Vilem-Benjamin,,,,1,unclassified
+Vollmer,,,,1,unclassified
+Walker's,,,,1,unclassified
+wf-base,,,,1,unclassified
+Zhao,,,,1,unclassified
+zs1,,,,1,unclassified
+zs2,,,,1,unclassified

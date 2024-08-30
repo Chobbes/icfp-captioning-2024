@@ -1,0 +1,562 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Sam Lindley,,,,4,Author
+Daan Leijen,,,,3,Author
+Wei-Ngan Chin,,,,3,Author
+Hiroshi Unno,,,,2,Author
+Olivier Danvy,,,,2,researcher
+Taro Sekiyama,,,,2,Author
+Amin Timany,,,,1,Author
+Amr Sabry,,,,1,Author
+Andreas Rossberg,,,,1,Author
+Anil Madhavapeddy,,,,1,Author
+Armando Solar-Lezama,,,,1,Author
+Darius Foo,,,,1,Author
+Dariusz Biernacki,Dariush /ˈdarʲjuʃ/ Biernacki,,,1,Author
+Gabriel Scherer,,,,1,Author
+Giuseppe Castagna,,,,1,Author
+Ilya Sergey,,,,1,Author
+James Koppel,,,,1,Author
+Lars Birkedal,,,,1,Author
+Leo White,,,,1,Author
+Marek Materzok,,,,1,Author
+Meng Wang,,,,1,Author
+Minh Nguyen,,,,1,Author
+Neel Krishnaswami,,,,1,Author
+Nicolas Wu,,,,1,Author
+Ohad Kammar,,,,1,Author
+Roly Perera,,,,1,Author
+Stephen Dolan,,,,1,Author
+Yahui Song,,,,1,Author
+Zhenjiang Hu,,,,1,Author
+algebraic effects,,,,49,
+K ,,“K axiom”,,47,
+continuation,,,,44,
+semantics,,,,42,
+entailment,,,,41,
+reduction,,,,38,Common-term
+match,,,,31,
+heap,,,,27,
+lemma,,,,25,Common-term
+effect handlers,,,,21,
+ref,,,,21,
+ACM,,Association for Computing Machinery,,20,
+Eff,,,,20,
+callee,,,,17,Common-term
+separation logic,,,,17,Common-term
+theorem,,,,17,Common-term
+recursion,,,,16,Common-term
+Ret,,,,16,
+higher-order,,,,15,Common-term
+inductive,,,,15,Common-term
+normalization,,computations,,14,theory
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,13,
+effectful,,,,12,
+induction,,,,11,Common-term
+normalized,,,,11,Common-term
+Pottier,,,,10,
+Pretnar,,,,10,
+syntax,,,,10,Common-term
+recursive,,,,9,Common-term
+forall,,quantifier,,8,Common-term logic
+modular,,,,8,Common-term
+operational semantics,,,,8,
+functional programming,,,,7,
+Boolean,,,,6,
+clause,,,,6,
+effect handler,,,,6,
+Plotkin,,Name,,6,name
+SIGPLAN,,special interest group on programming languages,,6,
+concurrent,,,,5,Common-term
+expression,,,,5,Common-term
+monad,Mow-nad,,,5,Common-term
+OCaml,,,,5,Common-term programming-language
+backtracking,,,,4,Common-term
+integer,,,,4,Common-term
+probabilistic,,,,4,Common-term
+sequential ,,,,4,
+calculus,,Used to describe a core simple programming language,,3,Common-term
+closures,,,,3,Common-term
+conclusion,,,,3,
+conjunction,,,,3,
+derive,,,,3,
+higher-order function,,,,3,
+ICFP,,Conference,,3,Common-term
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,3,
+pointer,,,,3,Common-term
+POPL,pop-ill,Conference,,3,Common-term
+SMT ,,,,3,
+symbolic,,,,3,
+Z3,,Tool to automatically prove theorems,,3,Tool
+abstraction,,,,2,Common-term
+angelic ,,,,2,
+call/cc,,Call with current continuation,,2,Common-term
+context,,,,2,Common-term
+de Moura,,,,2,
+decidable,,,,2,
+derivation,,,,2,
+existentials,,quantification,,2,Common-term logic
+generic,,,,2,
+Honda,,,,2,
+immutable,,,,2,Common-term
+Kiselyov,,,,2,
+Moggi,,,,2,Name
+nondeterminism,,,,2,
+object-oriented,,,,2,Common-term paradigm
+protocol,,,,2,
+runtime,,,,2,Common-term
+type-and-effect system,,,,2,
+Wadler,,,,2,Name
+abstractions,,,,1,
+Call-by-Value,,(CBV),,1,Common-term evaluation
+closure,,,,1,Common-term
+compile-time,,,,1,Common-term
+defunctionalization,,,,1,
+dependent,,,,1,Common-term
+deriving,,,,1,
+equational,,,,1,Common-term
+equational theory,,,,1,Common-term
+Hoare logic,,,,1,Common-term
+instantiation,,,,1,
+iterator,,,,1,Common-term
+Koka,,,,1,Programming-language
+lambda-calculus,,,,1,Common-term
+Levy,,,,1,
+modularity,,,,1,Common-term
+MSFP@ETAPS,,,,1,email
+Multicore,,,,1,
+Multicore OCaml,,,,1,
+OOPSLA,oops-la,,,1,Conference
+PLDI,,Conference,,1,Common-term
+polymorphic,,,,1,Common-term
+Power,,,,1,
+precision,,Gradual typing,,1,theory
+quantified,,,,1,Common-term
+reduction relation,,,,1,
+relational,,,,1,
+Semantic,,,,1,Common-term
+subtyping,,,,1,Common-term
+syntax-directed,,,,1,
+tail call,,,,1,
+TyDe@ICFP,,,,1,email
+WebAssembly,,,,1,Common-term programming-language
+Why,,,,1,
+ens[r,,,,95,unclassified
+try-catch,,,,60,unclassified
+tossNLeft,,,,30,unclassified
+tossN,,,,25,unclassified
+E(x,,,,24,unclassified
+multi-shot,,,,22,unclassified
+false,,,,21,unclassified
+counterw1,,,,20,unclassified
+counterw2,,,,20,unclassified
+ens[res,,,,20,unclassified
+sumEff,,,,20,unclassified
+Vilhena,,,,15,unclassified
+run_q,,,,13,unclassified
+R-Lemma-App,,,,12,unclassified
+counterw,,,,11,unclassified
+accr1,,,,10,unclassified
+pre/post,,,,10,unclassified
+accr=0,,,,9,unclassified
+accr=1,,,,9,unclassified
+E(v,,,,9,unclassified
+R-Deep,,,,9,unclassified
+accres,,,,8,unclassified
+dom(H,,,,8,unclassified
+effNo(f,,,,8,unclassified
+Label(ret,,,,8,unclassified
+try[d,,,,8,unclassified
+xz,,,,8,unclassified
+ens[z,,,,7,unclassified
+heap-manipulating,,,,7,unclassified
+multi_shot,,,,7,unclassified
+R-Eff,,,,7,unclassified
+all_results,,,,6,unclassified
+Bi-ab,,,,6,unclassified
+E=N,,,,6,unclassified
+g(x,,,,6,unclassified
+Hoare-style,,,,6,unclassified
+LHS=try,,,,6,unclassified
+R-Shallow,,,,6,unclassified
+read_n_write,,,,6,unclassified
+rz,,,,6,unclassified
+tossNAux,,,,6,unclassified
+write_handler,,,,6,unclassified
+zero_shot,,,,6,unclassified
+accres)r=0,,,,5,unclassified
+accres)r=1,,,,5,unclassified
+counterw+2,,,,5,unclassified
+effNo,,,,5,unclassified
+https,,,,5,unclassified
+Matija,,,,5,unclassified
+R-Normal,,,,5,unclassified
+ret+2,,,,5,unclassified
+RHS=N,,,,5,unclassified
+try(1,,,,5,unclassified
+accr,,,,4,unclassified
+Bi-abduction,,,,4,unclassified
+callee(rc,,,,4,unclassified
+counterw+(2,,,,4,unclassified
+Entail-Flow,,,,4,unclassified
+Entail-Norm,,,,4,unclassified
+Entail-Unfold-LHS,,,,4,unclassified
+Flip-N,,,,4,unclassified
+heap-based,,,,4,unclassified
+lemma1,,,,4,unclassified
+McCarthy's,,,,4,unclassified
+one_shot,,,,4,unclassified
+R-Disj,,,,4,unclassified
+R-Skip,,,,4,unclassified
+short-hand,,,,4,unclassified
+accfalse,,,,3,unclassified
+acctrue,,,,3,unclassified
+all_results_shallow(counter,,,,3,unclassified
+anti-frame,,,,3,unclassified
+containRetTrue,,,,3,unclassified
+counterz,,,,3,unclassified
+ens[r1,,,,3,unclassified
+ens[r2,,,,3,unclassified
+ens[rz,,,,3,unclassified
+Entail-Eff,,,,3,unclassified
+Entail-HO,,,,3,unclassified
+Entail-Try-Catch,,,,3,unclassified
+exc_handler,,,,3,unclassified
+first-order,,,,3,unclassified
+Flip(r0,,,,3,unclassified
+heaplet,,,,3,unclassified
+Hillerstrom,,,,3,unclassified
+Kameyama,,,,3,unclassified
+Kawahara,,,,3,unclassified
+Leijen,,,,3,unclassified
+lemma2,,,,3,unclassified
+LHS=N,,,,3,unclassified
+non-trivial,,,,3,unclassified
+Norm(v,,,,3,unclassified
+OP-Deep,,,,3,unclassified
+OP-Ret,,,,3,unclassified
+OP-Shallow,,,,3,unclassified
+Piskac,,,,3,unclassified
+Pure(N,,,,3,unclassified
+R-Unfold,,,,3,unclassified
+res=r0,,,,3,unclassified
+round-robin,,,,3,unclassified
+Sivaramakrishnan,,,,3,unclassified
+state_handler,,,,3,unclassified
+try[s,,,,3,unclassified
+user-defined,,,,3,unclassified
+Var-Const,,,,3,unclassified
+zero-/one-/multi-shot,,,,3,unclassified
+all_results's,,,,2,unclassified
+all_results(n,,,,2,unclassified
+all_results_shallow,,,,2,unclassified
+any_queue(queue,,,,2,unclassified
+any_queue(run_q,,,,2,unclassified
+App-Lemma1,,,,2,unclassified
+Big-Step,,,,2,unclassified
+bop(t1,,,,2,unclassified
+Brotherston,,,,2,unclassified
+Bruggeman,,,,2,unclassified
+Call-Unknown,,,,2,unclassified
+callee(r,,,,2,unclassified
+containRetTrue(xs,,,,2,unclassified
+counterw+1,,,,2,unclassified
+counterz+c,,,,2,unclassified
+counterz1,,,,2,unclassified
+counterz2,,,,2,unclassified
+Delbianco,,,,2,unclassified
+Disj,,,,2,unclassified
+E(y)k,,,,2,unclassified
+effNo(f2,,,,2,unclassified
+empty_queue(queue,,,,2,unclassified
+ens[rc,,,,2,unclassified
+ens[ret,,,,2,unclassified
+ens[ro,,,,2,unclassified
+ens[y,,,,2,unclassified
+ETAPS,,,,2,unclassified
+foo(f,,,,2,unclassified
+fst,,,,2,unclassified
+Gherghina,,,,2,unclassified
+goo(r,,,,2,unclassified
+Ierusalimschy,,,,2,unclassified
+ImpureC,,,,2,unclassified
+inp,,,,2,unclassified
+iw+n,,,,2,unclassified
+Kawamata,,,,2,unclassified
+Label(y,,,,2,unclassified
+Lambda-Def,,,,2,unclassified
+LICS,,,,2,unclassified
+m+w,,,,2,unclassified
+match-with,,,,2,unclassified
+match[d,,,,2,unclassified
+ML-like,,,,2,unclassified
+MultiS,,,,2,unclassified
+Nanevski,,,,2,unclassified
+non-recursive,,,,2,unclassified
+non_empty_queue(queue,,,,2,unclassified
+Norm-Disj,,,,2,unclassified
+Norm-Flow,,,,2,unclassified
+Norm-Norm,,,,2,unclassified
+normal-flow,,,,2,unclassified
+OP-If,,,,2,unclassified
+OP-Perform,,,,2,unclassified
+OP-Unhandled,,,,2,unclassified
+Phipps-Costin,,,,2,unclassified
+protocol-based,,,,2,unclassified
+proves/disproves,,,,2,unclassified
+Pure(Q,,,,2,unclassified
+QF1,,,,2,unclassified
+QF2,,,,2,unclassified
+r/x,,,,2,unclassified
+read_handler,,,,2,unclassified
+Rec-Pred,,,,2,unclassified
+res+acc,,,,2,unclassified
+res1,,,,2,unclassified
+res2,,,,2,unclassified
+res=r,,,,2,unclassified
+res=r1,,,,2,unclassified
+resr=0,,,,2,unclassified
+resr=1,,,,2,unclassified
+RHS=try,,,,2,unclassified
+rk,,,,2,unclassified
+S+S,,,,2,unclassified
+scrutinee,,,,2,unclassified
+spawn(f,,,,2,unclassified
+try-block,,,,2,unclassified
+two_pointers,,,,2,unclassified
+Yoshida,,,,2,unclassified
+Zenodo,,,,2,unclassified
+Zero-Shot,,,,2,unclassified
+0acc,,,,1,unclassified
+1)(falser2,,,,1,unclassified
+1+acc,,,,1,unclassified
+1acc,,,,1,unclassified
+24April,,,,1,unclassified
+6-Core,,,,1,unclassified
+accfalse)r2,,,,1,unclassified
+accfalser2,,,,1,unclassified
+acctrue)r1,,,,1,unclassified
+acctruer1,,,,1,unclassified
+ACM-SIGPLAN,,,,1,unclassified
+additions/subtractions,,,,1,unclassified
+Aleksandar,,,,1,unclassified
+Aleksander,,,,1,unclassified
+all_result,,,,1,unclassified
+all_results(counter,,,,1,unclassified
+already-verified,,,,1,unclassified
+amb3,,,,1,unclassified
+annotated/inferred,,,,1,unclassified
+Answer-Effect,,,,1,unclassified
+APLAS,,,,1,unclassified
+ArXiv,,,,1,unclassified
+AskZ3,,,,1,unclassified
+AskZ3(s,,,,1,unclassified
+AUTHOR(S,,,,1,unclassified
+bi-directional,,,,1,unclassified
+BiAbduction,,,,1,unclassified
+Biere,,,,1,unclassified
+Biernacki,,,,1,unclassified
+Birkedal,,,,1,unclassified
+Byrski,,,,1,unclassified
+Chakravarty,,,,1,unclassified
+checking7,,,,1,unclassified
+client-handler,,,,1,unclassified
+code/specification,,,,1,unclassified
+Comput,,,,1,unclassified
+conFig,,,,1,unclassified
+continuation-enabled,,,,1,unclassified
+contra-variance,,,,1,unclassified
+counter0,,,,1,unclassified
+counterw+1+(2,,,,1,unclassified
+counterz+1,,,,1,unclassified
+Dagstuhl,,,,1,unclassified
+Danvy,,,,1,unclassified
+disjunction-free,,,,1,unclassified
+dom()dom,,,,1,unclassified
+dom(h1,,,,1,unclassified
+dom(h2,,,,1,unclassified
+Dybvig,,,,1,unclassified
+E(y)kE,,,,1,unclassified
+ECOOP,,,,1,unclassified
+Edom(H,,,,1,unclassified
+effect-flow,,,,1,unclassified
+Effect/Pred./TryCatch,,,,1,unclassified
+effNo(f1,,,,1,unclassified
+ens[f,,,,1,unclassified
+ens[rk,,,,1,unclassified
+ens[rm,,,,1,unclassified
+ens[x,,,,1,unclassified
+Entail-LHS-OR,,,,1,unclassified
+Entail-RHS-OR,,,,1,unclassified
+EPTCS,,,,1,unclassified
+ESL's,,,,1,unclassified
+explictly,,,,1,unclassified
+Failure(404,,,,1,unclassified
+Failure(500,,,,1,unclassified
+falser2,,,,1,unclassified
+Flip(n,,,,1,unclassified
+Fork(1,,,,1,unclassified
+Fork-Yield,,,,1,unclassified
+FOSSACS,,,,1,unclassified
+Freund,,,,1,unclassified
+Fuga,,,,1,unclassified
+fvars,,,,1,unclassified
+g(y,,,,1,unclassified
+handler's,,,,1,unclassified
+heap-manipulation,,,,1,unclassified
+heap-operations,,,,1,unclassified
+heapmanipulating,,,,1,unclassified
+high-order,,,,1,unclassified
+"i,e",,,,1,unclassified
+Inc(n,,,,1,unclassified
+infinitestate,,,,1,unclassified
+Informatik,,,,1,unclassified
+input(s,,,,1,unclassified
+instantiated1,,,,1,unclassified
+is_empty,,,,1,unclassified
+izn0,,,,1,unclassified
+Jaffer,,,,1,unclassified
+jy+1r,,,,1,unclassified
+Kammar,,,,1,unclassified
+Kohei,,,,1,unclassified
+"l,new,res",,,,1,unclassified
+lambda-bound,,,,1,unclassified
+lambda/closure,,,,1,unclassified
+left/right,,,,1,unclassified
+left/right-hand-side,,,,1,unclassified
+Leibniz-Zentrum,,,,1,unclassified
+lemma-proving,,,,1,unclassified
+let-bindings,,,,1,unclassified
+LFP,,,,1,unclassified
+LHS=try[d,,,,1,unclassified
+LHS=try[s,,,,1,unclassified
+LIPIcs,,,,1,unclassified
+List.iter,,,,1,unclassified
+lnew,,,,1,unclassified
+locval,,,,1,unclassified
+lold,,,,1,unclassified
+LoS/LoC,,,,1,unclassified
+"m,res",,,,1,unclassified
+MacBook,,,,1,unclassified
+main's,,,,1,unclassified
+"main(,ret",,,,1,unclassified
+main(n,,,,1,unclassified
+match[s,,,,1,unclassified
+Materzok,,,,1,unclassified
+Morrisett,,,,1,unclassified
+multicont,,,,1,unclassified
+n+m,,,,1,unclassified
+n-times,,,,1,unclassified
+Nobuko,,,,1,unclassified
+non-deterministic,,,,1,unclassified
+non-emptiness,,,,1,unclassified
+non-erroneous,,,,1,unclassified
+non-negative,,,,1,unclassified
+non-persistent,,,,1,unclassified
+nonrecursive,,,,1,unclassified
+normal-return,,,,1,unclassified
+OCaml2,,,,1,unclassified
+one_shot's,,,,1,unclassified
+OP-Apply,,,,1,unclassified
+OP-Assert,,,,1,unclassified
+OP-Assert-Err,,,,1,unclassified
+OP-Assign,,,,1,unclassified
+OP-Constant,,,,1,unclassified
+OP-Deref,,,,1,unclassified
+OP-Lambda,,,,1,unclassified
+OP-Let-Eff,,,,1,unclassified
+OP-Let-Err,,,,1,unclassified
+OP-Let-Norm,,,,1,unclassified
+OP-Let-Rec,,,,1,unclassified
+OP-Match-Err,,,,1,unclassified
+OP-Ref,,,,1,unclassified
+OP-Var,,,,1,unclassified
+Oury,,,,1,unclassified
+p=p,,,,1,unclassified
+Player-Opponent,,,,1,unclassified
+post-condition,,,,1,unclassified
+post-state,,,,1,unclassified
+postconditions,,,,1,unclassified
+pre-analysis,,,,1,unclassified
+pre-conditions,,,,1,unclassified
+QFi,,,,1,unclassified
+Qin,,,,1,unclassified
+Qr=x,,,,1,unclassified
+Quang,,,,1,unclassified
+R-Handle,,,,1,unclassified
+r=(n+acc,,,,1,unclassified
+r=0acc,,,,1,unclassified
+r=1acc,,,,1,unclassified
+r=b,,,,1,unclassified
+r=f,,,,1,unclassified
+r=false,,,,1,unclassified
+r=n+acc,,,,1,unclassified
+r=r,,,,1,unclassified
+r=true,,,,1,unclassified
+r=v,,,,1,unclassified
+re-raised,,,,1,unclassified
+res=1,,,,1,unclassified
+res=old,,,,1,unclassified
+reset0,,,,1,unclassified
+ret=1,,,,1,unclassified
+ret=n,,,,1,unclassified
+ret=r,,,,1,unclassified
+RHS=1,,,,1,unclassified
+RHS=E,,,,1,unclassified
+RHS=try[d,,,,1,unclassified
+RHS=try[H,,,,1,unclassified
+Ruzica,,,,1,unclassified
+Sadiq,,,,1,unclassified
+Satoru,,,,1,unclassified
+scrutinees,,,,1,unclassified
+Second-Order,,,,1,unclassified
+Seidl,,,,1,unclassified
+Sekiyama,,,,1,unclassified
+send/receive,,,,1,unclassified
+set-based,,,,1,unclassified
+Sharygina,,,,1,unclassified
+Shengchao,,,,1,unclassified
+shift0,,,,1,unclassified
+Shin-Cheng,,,,1,unclassified
+side-effects,,,,1,unclassified
+sources4,,,,1,unclassified
+sub-term,,,,1,unclassified
+Tachio,,,,1,unclassified
+Tarmo,,,,1,unclassified
+Terauchi,,,,1,unclassified
+themseves,,,,1,unclassified
+Tiago,,,,1,unclassified
+Timany,,,,1,unclassified
+Total(s,,,,1,unclassified
+trace-based,,,,1,unclassified
+trol,,,,1,unclassified
+truer1,,,,1,unclassified
+try(2,,,,1,unclassified
+two_pointers(r,,,,1,unclassified
+Type-Driven,,,,1,unclassified
+unfold(f,,,,1,unclassified
+Unix-style,,,,1,unclassified
+Unno,,,,1,unclassified
+unparameterized,,,,1,unclassified
+user-level,,,,1,unclassified
+userdefined,,,,1,unclassified
+Uustalu,,,,1,unclassified
+variabler,,,,1,unclassified
+varval,,,,1,unclassified
+Veith,,,,1,unclassified
+Videira,,,,1,unclassified
+VSL,,,,1,unclassified
+w=m,,,,1,unclassified
+weakened_callee(rc,,,,1,unclassified
+WhyML,,,,1,unclassified
+Wies,,,,1,unclassified
+workflow,,,,1,unclassified
+Write(+1,,,,1,unclassified
+x/y,,,,1,unclassified
+xs=[]ens[r,,,,1,unclassified
+xy)r,,,,1,unclassified
+Yahav,,,,1,unclassified
+Yorgey,,,,1,unclassified
+Yukiyoshi,,,,1,unclassified
+zero/multi-shot,,,,1,unclassified
+zero/one-/multi-shot,,,,1,unclassified
+Zufferey,,,,1,unclassified

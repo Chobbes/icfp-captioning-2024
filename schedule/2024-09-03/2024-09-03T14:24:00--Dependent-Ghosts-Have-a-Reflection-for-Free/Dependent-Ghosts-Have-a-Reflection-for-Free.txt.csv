@@ -1,0 +1,374 @@
+Term,Pronunciation,Context / Example Usage,Notes,Count,Tags
+Nicolas Tabareau,nikola tabaro,,,9,Author
+Theo Winterhalter,,,,6,Author
+Andreas Abel,,,,4,Author
+Jesper Cockx,,,,3,Author
+Edwin Brady,,,,2,Author
+Yannick Forster,,,,2,Author
+Conor McBride,,,,1,Author
+Frank Pfenning,Frank “Fenning”,,,1,Author
+INRIA,,,,1,Institution
+Saarland University,,,,1,Institution
+ghost,,,,81,
+K ,,“K axiom”,,43,
+erasure,,type erasure,,39,Common-term
+reflection,,,,39,Common-term
+cast,,Gradual typing,,37,theory
+lemma,,,,35,Common-term
+Prop,,,,32,
+Coq,“Coq”,,,31,Common-term programming-language theorem-prover
+inductive,,,,31,Common-term
+dependent,,,,26,Common-term
+context,,,,19,Common-term
+universe,,dependent types,,18,theory
+ACM,,Association for Computing Machinery,,14,
+theorem,,,,14,Common-term
+SProp,S-prop,short for strict propositions,,11,theory
+extensionality,,,,10,Common-term
+syntax,,,,9,Common-term
+induction,,,,8,Common-term
+Agda,,Agda-style,,7,Common-term Programming-language
+consistency,,Gradual typing,,7,theory
+constructor,,,,7,Common-term
+derive,,,,7,
+propositional equality,,,,7,Common-term
+calculus,,Used to describe a core simple programming language,,6,Common-term
+congruence,,,,6,Common-term
+impredicative,,,,6,Common-term
+Dependent types,,,,5,types
+OCaml,,,,5,Common-term programming-language
+propositional,,,,5,Common-term
+Swamy,,,,5,
+Abel,,,,4,Name
+decidability,,,,4,
+decidable,,,,4,
+definitionally,,,,4,theory
+equational,,,,4,Common-term
+match,,,,4,
+POPL,pop-ill,Conference,,4,Common-term
+Proof-irrelevant,,,,4,Common-term
+reduction,,,,4,Common-term
+Stump,,,,4,
+untyped,,,,4,
+abstraction,,,,3,Common-term
+conservative,,,,3,theory
+cumulativity,,,,3,theory
+Elimination,,,,3,
+extensional,,functions,,3,theory
+FP,,functional programming,,3,
+Go,,,,3,
+modality,,,,3,Common-term
+Power,,,,3,
+quantitative,,,,3,
+recursive,,,,3,Common-term
+semantics,,,,3,
+axiom,,,,2,
+binder,like in bind,,,2,
+Brady,,,,2,
+coherence,,,,2,
+derivation,,,,2,
+Idris 2,,,,2,
+IEEE,eye triple e,Institute of Electrical and Electronics Engineers,,2,
+meta-theory,,,"also ""metatheory""",2,Common-term
+MLTT,,short for Martin-Lof Type Theory/dependent type,,2,theory
+Nuprl,new pearl,,,2,Common-term proof-assistant tool
+observational,,,,2,
+pattern matching,,,,2,
+scoped,,,,2,Common-term
+Semantic,,,,2,Common-term
+SIGPLAN,,special interest group on programming languages,,2,
+SMT solver,,Type of tool for solving SMT problems,,2,Tool
+syntactic,,,,2,Common-term
+type checker,,,,2,Common-term
+algebra,,,,1,
+applicative,,,,1,Common-term
+axioms,,,,1,
+clause,,,,1,
+closure,,,,1,Common-term
+conclusion,,,,1,
+Dominique Devriese,,,,1,
+exponential,,,,1,
+expression,,,,1,Common-term
+functional programming,,,,1,
+generic,,,,1,
+heterogeneous,,,,1,
+ICFP,,Conference,,1,Common-term
+intersection types,,,,1,Common-term
+isomorphic,,,,1,Common-term
+J eliminator,,,,1,
+judgement,,dependent types,,1,theory
+lambda,lam-duh,Used to refer to anonymous functions “we have a lambda function here”,theory,1,
+lambda calculi,,,,1,Common-term
+Martin-Lof,,,Martin-Lôf,1,
+modal,,,,1,
+modalities,,,,1,Common-term
+Nantes,,,,1,City
+normalization,,computations,,1,theory
+normalization by evaluation,,,,1,
+polymorphism,,,,1,Common-term
+Pretnar,,,,1,
+quadratic,,,,1,Common-term
+reduction relation,,,,1,
+refinement types,,,,1,
+SMT ,,,,1,
+subtyping,,,,1,Common-term
+tail-recursive,,,,1,
+weakening,,,,1,Common-term
+Why,,,,1,
+vec,,,,63,unclassified
+parametricity,,,,36,unclassified
+GRTT,,,,33,unclassified
+vcons,,,,27,unclassified
+vnil,,,,20,unclassified
+K/T,,,,16,unclassified
+false,,,,12,unclassified
+tyval,,,,12,unclassified
+vec-elim,,,,11,unclassified
+ETT,,,,10,unclassified
+exfalso,,,,9,unclassified
+glength,,,,9,unclassified
+discrP,,,,8,unclassified
+vec_elim,,,,8,unclassified
+K/T/G,,,,7,unclassified
+Pedrot,,,,7,unclassified
+Winterhalter,,,,7,unclassified
+Conservativity,,,,6,unclassified
+G/P,,,,6,unclassified
+gh-refl,,,,6,unclassified
+injectivity,,,,6,unclassified
+N_elim,,,,6,unclassified
+nat-elim,,,,6,unclassified
+Tabareau,,,,6,unclassified
+toRev,,,,6,unclassified
+ze,,,,6,unclassified
+discr,,,,5,unclassified
+fromRev,,,,5,unclassified
+Oury,,,,5,unclassified
+Sozeau,,,,5,unclassified
+umax,,,,5,unclassified
+arXiv,,,,4,unclassified
+Boulier,,,,4,unclassified
+Filliatre,,,,4,unclassified
+Lasson,,,,4,unclassified
+MetaCoq,,,,4,unclassified
+meta-theoretical,,,,3,unclassified
+Paskevich,,,,3,unclassified
+Pujet,,,,3,unclassified
+sub-context,,,,3,unclassified
+usup,,,,3,unclassified
+ACM/IEEE,,,,2,unclassified
+Altenkirch,,,,2,unclassified
+Atkey,,,,2,unclassified
+AUTHOR(S,,,,2,unclassified
+Autosubst,,,,2,unclassified
+Cast-free,,,,2,unclassified
+Cedille,,,,2,unclassified
+Cockx,,,,2,unclassified
+Coquand,,,,2,unclassified
+Dapprich,,,,2,unclassified
+Dudenhefner,,,,2,unclassified
+ETAPS,,,,2,unclassified
+exception-free,,,,2,unclassified
+funext,,,,2,unclassified
+Gaetan,,,,2,unclassified
+generalises,,,,2,unclassified
+Kind+1,,,,2,unclassified
+Leray,,,,2,unclassified
+Loic,,,,2,unclassified
+md(Reveal,,,,2,unclassified
+Miquel,,,,2,unclassified
+non-informative,,,,2,unclassified
+non-terminating,,,,2,unclassified
+Norell,,,,2,unclassified
+Nuyts,,,,2,unclassified
+Obj.magic,,,,2,unclassified
+Pierre-Marie,,,,2,unclassified
+Pierre-Yves,,,,2,unclassified
+proof-relevant,,,,2,unclassified
+reveal(hide,,,,2,unclassified
+Vezzosi,,,,2,unclassified
+Why3,,,,2,unclassified
+zP,,,,2,unclassified
+2--usually,,,,1,unclassified
+29-April,,,,1,unclassified
+2We,,,,1,unclassified
+3We,,,,1,unclassified
+9We,,,,1,unclassified
+Abhishek,,,,1,unclassified
+ad-hoc,,,,1,unclassified
+adapt--and,,,,1,unclassified
+Agda's,,,,1,unclassified
+Aseem,,,,1,unclassified
+Atlantique,,,,1,unclassified
+BasicMetaTheory.castrm_subst,,,,1,unclassified
+BasicMetaTheory.conv_md,,,,1,unclassified
+BasicMetaTheory.scoping_castrm,,,,1,unclassified
+BasicMetaTheory.scoping_subst,,,,1,unclassified
+BasicMetaTheory.typing_subst,,,,1,unclassified
+BasicMetaTheory.validity,,,,1,unclassified
+Bhargavan,,,,1,unclassified
+Bruijn,,,,1,unclassified
+Capriotti,,,,1,unclassified
+case.7,,,,1,unclassified
+CastRemoval.castrm,,,,1,unclassified
+CCAST.cterm,,,,1,unclassified
+checking--this,,,,1,unclassified
+Citeseer,,,,1,unclassified
+CoqMT,,,,1,unclassified
+correct-by-construction,,,,1,unclassified
+Ctlin,,,,1,unclassified
+CTyping.ctyping,,,,1,unclassified
+dans,,,,1,unclassified
+def_name,,,,1,unclassified
+Delignat-Lavaud,,,,1,unclassified
+Devriese,,,,1,unclassified
+discard.6,,,,1,unclassified
+EACSL,,,,1,unclassified
+ElimReflection.conservativity,,,,1,unclassified
+ElimReflection.consistency,,,,1,unclassified
+equal9,,,,1,unclassified
+Erasure.erase_castrm,,,,1,unclassified
+Erasure.erase_context,,,,1,unclassified
+Erasure.erase_conv,,,,1,unclassified
+Erasure.erase_subst,,,,1,unclassified
+Erasure.erase_term,,,,1,unclassified
+Erasure.erase_typing,,,,1,unclassified
+err_length,,,,1,unclassified
+err_length_eq,,,,1,unclassified
+errN,,,,1,unclassified
+exfalsoG,,,,1,unclassified
+exfalsoK/T,,,,1,unclassified
+exfalsoK/T/G,,,,1,unclassified
+exfalsoP,,,,1,unclassified
+factorise,,,,1,unclassified
+FOSSACS,,,,1,unclassified
+Fournet,,,,1,unclassified
+fromRev(cast,,,,1,unclassified
+G(R)TT,,,,1,unclassified
+GAST.term,,,,1,unclassified
+general)--have,,,,1,unclassified
+Ghost-specific,,,,1,unclassified
+Gondelman,,,,1,unclassified
+GTT--and,,,,1,unclassified
+GTT--we,,,,1,unclassified
+Haselwarter,,,,1,unclassified
+Hricu,,,,1,unclassified
+https,,,,1,unclassified
+inferred--as,,,,1,unclassified
+Infrastructural,,,,1,unclassified
+Intensionality,,,,1,unclassified
+internalise,,,,1,unclassified
+Jean-Karim,,,,1,unclassified
+Joakim,,,,1,unclassified
+K/T/P,,,,1,unclassified
+Karthikeyan,,,,1,unclassified
+Kathrin,,,,1,unclassified
+Kind--and,,,,1,unclassified
+Kind--in,,,,1,unclassified
+Kind0,,,,1,unclassified
+Kindusup,,,,1,unclassified
+Kohlweiss,,,,1,unclassified
+Kunze,,,,1,unclassified
+length-indexed,,,,1,unclassified
+Lisbonne,,,,1,unclassified
+lists--introduced,,,,1,unclassified
+LNCS,,,,1,unclassified
+LS2N-Nantes,,,,1,unclassified
+Malecha,,,,1,unclassified
+Markulf,,,,1,unclassified
+Matija,,,,1,unclassified
+McKinna,,,,1,unclassified
+md(cast,,,,1,unclassified
+md(erased,,,,1,unclassified
+md(exfalso,,,,1,unclassified
+md(fromRev,,,,1,unclassified
+md(gh-refl,,,,1,unclassified
+md(hide,,,,1,unclassified
+md(Sort,,,,1,unclassified
+md(toRev,,,,1,unclassified
+md(vcons,,,,1,unclassified
+md(vec,,,,1,unclassified
+md(vec-elim,,,,1,unclassified
+md(vnil,,,,1,unclassified
+modalities--and,,,,1,unclassified
+Model.mode_coherence,,,,1,unclassified
+Model.relative_consistency,,,,1,unclassified
+Model.sort_mode_inj,,,,1,unclassified
+Module_name,,,,1,unclassified
+Module_name.def_name,,,,1,unclassified
+Multi-Monadic,,,,1,unclassified
+multi-sorted,,,,1,unclassified
+Nikhil,,,,1,unclassified
+of--presumably--function,,,,1,unclassified
+offers.3,,,,1,unclassified
+Ohman,,,,1,unclassified
+optimisation,,,,1,unclassified
+Param.param_castrm,,,,1,unclassified
+Param.param_context,,,,1,unclassified
+Param.param_conv,,,,1,unclassified
+Param.param_scoping,,,,1,unclassified
+Param.param_subst,,,,1,unclassified
+Param.param_term,,,,1,unclassified
+Param.param_typing,,,,1,unclassified
+Param.typing_er_sub_param,,,,1,unclassified
+Param.typing_rev_sub_param,,,,1,unclassified
+Pfenning,,,,1,unclassified
+Potential.tr_bot_eq,,,,1,unclassified
+Potential.tr_choice,,,,1,unclassified
+Potential.tr_ctx,,,,1,unclassified
+Potential.tr_sort_eq,,,,1,unclassified
+Potential.tr_ty,,,,1,unclassified
+practice--through,,,,1,unclassified
+PRL,,,,1,unclassified
+Proof-Irrelevance,,,,1,unclassified
+proof8,,,,1,unclassified
+QTT,,,,1,unclassified
+Rastogi,,,,1,unclassified
+Revival.revive_castrm,,,,1,unclassified
+Revival.revive_context,,,,1,unclassified
+Revival.revive_conv,,,,1,unclassified
+Revival.revive_subst,,,,1,unclassified
+Revival.revive_term,,,,1,unclassified
+Revival.revive_typing,,,,1,unclassified
+Revival.type_to_rev,,,,1,unclassified
+RTyping.grtyping,,,,1,unclassified
+Scoping.scoping,,,,1,unclassified
+several2,,,,1,unclassified
+SIGPLAN-SIGACT,,,,1,unclassified
+simplify--the,,,,1,unclassified
+SortG,,,,1,unclassified
+SortK,,,,1,unclassified
+SortK/T/G,,,,1,unclassified
+SortP,,,,1,unclassified
+SortT,,,,1,unclassified
+SortT/G,,,,1,unclassified
+Sortumax,,,,1,unclassified
+sq-elim,,,,1,unclassified
+strictes,,,,1,unclassified
+T/G,,,,1,unclassified
+take-away,,,,1,unclassified
+TermMode.md,,,,1,unclassified
+theory--the,,,,1,unclassified
+Thessaloniki,,,,1,unclassified
+TransNat,,,,1,unclassified
+TransVec.pm_vec_elim,,,,1,unclassified
+TransVec.pm_vec_elim_Prop,,,,1,unclassified
+Type+1,,,,1,unclassified
+type-based--although,,,,1,unclassified
+type-preserving,,,,1,unclassified
+typecheck,,,,1,unclassified
+types--such,,,,1,unclassified
+Typing.conversion,,,,1,unclassified
+Typing.typing,,,,1,unclassified
+Typing.wf,,,,1,unclassified
+Ulf,,,,1,unclassified
+undecidability,,,,1,unclassified
+Univ.umax,,,,1,unclassified
+Univ.usup,,,,1,unclassified
+user-defined,,,,1,unclassified
+vectors--do,,,,1,unclassified
+vectors--or,,,,1,unclassified
+well-scoped,,,,1,unclassified
+Why3--where,,,,1,unclassified
+Zanella-Beguelin,,,,1,unclassified
+Zinzindohoue,,,,1,unclassified
