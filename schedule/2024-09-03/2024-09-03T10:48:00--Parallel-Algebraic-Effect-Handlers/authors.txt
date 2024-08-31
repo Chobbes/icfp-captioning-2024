@@ -1,0 +1,4 @@
+Adam Paszke
+Daniel D. Johnson
+Dougal Maclaurin
+Ningning Xie
